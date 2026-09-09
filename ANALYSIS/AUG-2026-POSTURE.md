@@ -1,9 +1,37 @@
 # August 2026 posture (public milestones)
 
-**As of:** August 14, 2026
-**Source:** File & ServeXpress authorization times on August 14, 2026; 801 GetROA harvest August 13, 2026 (fee package already on ROA); 802 portal paste August 12, 2026 for the then-current register (newest date then July 28). Residual `[VERIFY-HUMAN]`: stamped PDF / ROA DocIDs for the August 14 wave, and any First District appellate numbers.
+**As of:** September 2, 2026
+**Source:** File & ServeXpress authorization times on August 14, 2026; 801 GetROA harvest August 13, 2026 (fee package already on ROA); 802 portal paste August 12, 2026 for the then-current register (newest date then July 28); court-sent August 26, 2026 Department 302 ruling (face lines retained verbatim). Residual `[VERIFY-HUMAN]`: stamped PDF / ROA DocIDs for the August 14 wave, any First District appellate numbers, and any later minute on the CCP 425.16(c) fee line.
 
 Neutral milestone summary. Not legal advice.
+
+---
+
+## September 1, 2026 update (A173827)
+
+Respondent Subhi Abdelhalim's opposition to appellant's August 20, 2026 motion to disregard extra-record matter is dated September 1, 2026 on the signature page. Each of the eight pages carries the watermark "Document received by the CA 1st District Court of Appeal." No calendar FILE date and no TrueFiling envelope ID appear on the face. This site does not invent those identifiers.
+
+On the face of that opposition, respondent asks the Court of Appeal to deny the motion, arguing waiver and invited error (citing *Telles Transport*, *Norgart*, and *Huffman*), stating that a proposed-instruction packet is not proof the trial court refused CACI 705, 707, or 710, and treating several challenged sentences as argument or as already citing RT 11.
+
+**Hub:** [01-APPEAL/sept1-2026-respondents-opp-disregard](../01-APPEAL/sept1-2026-respondents-opp-disregard/README.md) · [PUBLIC-SYNOPSIS](../01-APPEAL/sept1-2026-respondents-opp-disregard/PUBLIC-SYNOPSIS.md) · [15 PDF](../01-APPEAL/15-Respondents-Opposition-Motion-to-Disregard.pdf)
+
+Publishing that hub is not a filing, is not service, and does not restart any Code of Civil Procedure section 128.7 period.
+
+---
+
+## August 26 to 27, 2026 update (Dept. 302)
+
+The August 26, 2026 section 391 hearing produced a court-sent face ruling:
+
+> Off calendar. Case stayed.
+
+The same instrument continues the motion and orders supplemental briefs on trial-court jurisdiction and *Pittman v. Beck Park Apartments, Ltd.* (2018) 20 Cal.App.5th 1009 (working read of OCR: briefs by close of business September 22, 2026; continued hearing October 6, 2026, 9:00 a.m.). The noticed CCP 425.16(c) fee motion is not addressed in that face text (`[VERIFY-HUMAN]`).
+
+**Why that matters on the filed law.** Code of Civil Procedure section 391(b)(2) labels a person vexatious only **after** a litigation "has been finally determined," then for repeated relitigation of that final determination against the same defendant. *First Western Development Corp. v. Superior Court* (1989) 212 Cal.App.3d 860, 864: "When, as here, all avenues for direct review have been exhausted, the judgment is final for all purposes." Pending appeals (A173827; August 14 anti-SLAPP appeals in 801 and 802) are not exhausted direct review. Plaintiff's stay notice (Tx `80347745`) and opposition MPA already put section 916 / *Varian* and incomplete finality before the court.
+
+**Citation map (exact excerpts):** [AUG26-COURT-POSTURE-AND-391-FINALITY.md](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md)
+
+**Commentary (not a filing; not claimed served):** [LETTER-TO-OCONNELL-AUG27-2026.md](../LETTER-TO-OCONNELL-AUG27-2026.md)
 
 ---
 
@@ -29,7 +57,7 @@ Both superior-court cases are now on appeal to the **California Court of Appeal,
 | CGC-25-631802 | July 1, 2026 (DocID `10297081`) | `80347004` (2:33 p.m.) | `80347745` (2:55 p.m., Dept. 302) | [802 Aug 14 hub](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) |
 | CGC-25-631801 | August 6, 2026 (DocID `10361462`) | `80347363` (2:40 p.m.) | `80347943` (2:59 p.m., Dept. 301) | [801 Aug 14 hub](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) |
 
-Stay notices cite CCP 916 and *Varian Medical Systems, Inc. v. Delfino* (2005) 35 Cal.4th 180. That is plaintiff's filed legal position. It is not a court order taking August 26 or September 8 off calendar.
+Stay notices cite CCP 916 and *Varian Medical Systems, Inc. v. Delfino* (2005) 35 Cal.4th 180. That is plaintiff's filed legal position. On August 26, 2026, Department 302's court-sent face ruling on the section 391 motion stated "Off calendar. Case stayed." (See the August 26 to 27 update above.) The September 8, 2026 Department 301 fee hearing in 801 remains on the calendar as of the last register harvest unless a later minute says otherwise.
 
 The older **A173827** appeal of the CGC-21-594102 trial verdict remains a separate proceeding. Appellant's reply brief and companion papers (motion to disregard extra-record matter, supplemental RJN, exhibits, proposed orders) are dated August 20, 2026. Hub: [01-APPEAL/aug20-2026-reply](../01-APPEAL/aug20-2026-reply/README.md).
 

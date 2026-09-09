@@ -36,7 +36,8 @@ The May 2026 scaffold packet at [POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL](P
 
 **Underlying Case:** CGC-21-594102 (Rosario v. Abdelhalim et al.)  
 **Respondent:** Subhi Abdelhalim et al.  
-**August 20, 2026 hub:** [aug20-2026-reply/README.md](aug20-2026-reply/README.md)
+**August 20, 2026 hub:** [aug20-2026-reply/README.md](aug20-2026-reply/README.md)  
+**September 1, 2026 hub:** [sept1-2026-respondents-opp-disregard/README.md](sept1-2026-respondents-opp-disregard/README.md) · [PUBLIC-SYNOPSIS](sept1-2026-respondents-opp-disregard/PUBLIC-SYNOPSIS.md) (respondent opposition to the August 20 motion to disregard; Court of Appeal received watermark; no face FILE date or envelope ID)
 
 | # | Document | PDF |
 |---|----------|-----|
@@ -54,6 +55,7 @@ The May 2026 scaffold packet at [POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL](P
 | 12 | Consolidated Exhibits (reply wave) | [12-Consolidated-Exhibits.pdf](12-Consolidated-Exhibits.pdf) |
 | 13 | Proposed Order (Motion to Disregard) | [13-Proposed-Order-Disregard-RB.pdf](13-Proposed-Order-Disregard-RB.pdf) |
 | 14 | Proposed Order (Supplemental RJN) | [14-Proposed-Order-SRJN.pdf](14-Proposed-Order-SRJN.pdf) |
+| 15 | Respondent's Opposition to Appellant's Motion to Disregard (or strike) extra-record matter (September 1, 2026; received watermark) | [15-Respondents-Opposition-Motion-to-Disregard.pdf](15-Respondents-Opposition-Motion-to-Disregard.pdf) |
 
 ---
 

@@ -8,6 +8,8 @@ After the July 1 strike order, the defense filed papers seeking to end court acc
 
 **Journalist / plain-English overview:** [PUBLIC-SYNOPSIS.md](PUBLIC-SYNOPSIS.md)
 
+**August 26 court posture (face ruling + section 391(b)(2) finality citations):** [AUG26-COURT-POSTURE-AND-391-FINALITY.md](AUG26-COURT-POSTURE-AND-391-FINALITY.md)
+
 ---
 
 ## Plaintiff papers (operative serve set)

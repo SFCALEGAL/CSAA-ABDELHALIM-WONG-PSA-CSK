@@ -69,6 +69,14 @@ Following the verdict, Plaintiff filed three independent proceedings:
 | 5 | Appellant's Supplemental Memorandum | [PDF](01-APPEAL/05-Appellants-Supplemental-Memorandum.pdf) |
 | 6 | Motion to Augment Record | [PDF](01-APPEAL/06-Motion-to-Augment-Record.pdf) |
 | 7 | Appeal Exhibits (Combined) | [PDF](01-APPEAL/07-Appeal-Exhibits.pdf) |
+| 8 | Respondent's Opening Brief (August 3, 2026) | [PDF](01-APPEAL/08-Respondents-Opening-Brief.pdf) |
+| 9 | Appellant's Reply Brief (August 20, 2026) | [PDF](01-APPEAL/09-Appellants-Reply-Brief.pdf) |
+| 10 | Motion to Disregard extra-record matter (August 20, 2026) | [PDF](01-APPEAL/10-Motion-to-Disregard-RB.pdf) |
+| 11 | Supplemental Request for Judicial Notice (August 20, 2026) | [PDF](01-APPEAL/11-Supplemental-RJN.pdf) |
+| 12 | Consolidated Exhibits (reply wave) | [PDF](01-APPEAL/12-Consolidated-Exhibits.pdf) |
+| 13 | Proposed Order (Motion to Disregard) | [PDF](01-APPEAL/13-Proposed-Order-Disregard-RB.pdf) |
+| 14 | Proposed Order (Supplemental RJN) | [PDF](01-APPEAL/14-Proposed-Order-SRJN.pdf) |
+| 15 | Respondent's Opposition to Motion to Disregard (September 1, 2026; received watermark) | [PDF](01-APPEAL/15-Respondents-Opposition-Motion-to-Disregard.pdf) |
 
 ---
 

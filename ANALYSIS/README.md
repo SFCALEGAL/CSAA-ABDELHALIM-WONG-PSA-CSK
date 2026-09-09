@@ -11,7 +11,7 @@ This folder collects **long-form analytical memoranda** and links to related nar
 | [802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md](802-FOUR-PART-MEMORANDUM-CUSTOMER-STATUS-AND-CARVEOUT.md) | May 14, 2026 memorandum on customer status, CCP § 425.17(c), Insurance Code / Title 10 regulatory floor, and third-party standing (802) |
 | [JUNE-2026-RUNWAY.md](JUNE-2026-RUNWAY.md) | June 11, 2026 attorney-facing runway (Summer 2026 outline + milestone table) |
 | [JULY-2026-POSTURE.md](JULY-2026-POSTURE.md) | Prior July 10, 2026 public posture (docket milestones only) |
-| [AUG-2026-POSTURE.md](AUG-2026-POSTURE.md) | **Current** Aug 14, 2026 public posture (dual NOAs + stay notices + fee oppositions). Hubs: [802 Aug 14](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 Aug 14](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) |
+| [AUG-2026-POSTURE.md](AUG-2026-POSTURE.md) | **Current** Sept 2, 2026 public posture (A173827 respondent opposition received Sept 1 + dual NOAs + stay notices + Aug 26 "Off calendar. Case stayed."). Hubs: [A173827 Sept 1](../01-APPEAL/sept1-2026-respondents-opp-disregard/README.md) · [802 Aug 14](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 Aug 14](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [Aug 26 court posture](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md) |
 
 ## Workspace strategic analysis (not duplicated here)
 
@@ -25,7 +25,7 @@ This folder collects **long-form analytical memoranda** and links to related nar
 - [801-APPEAL STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md](../../801-APPEAL/STRATEGIC-TACTICAL-PLEADINGS-MEMO-2026-05-19.md)
 - [June 24 cohort PUBLIC-SYNOPSIS](../03-CASE-CGC-25-631802/june-24-cohort-2026-05-26/PUBLIC-SYNOPSIS.md)
 - [Aug 14 dual-appeal hubs](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [801 companion](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md)
-- [Aug 26 defense access/fee papers as filed](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [PUBLIC-SYNOPSIS](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md)
+- [Aug 26 defense access/fee papers as filed](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [PUBLIC-SYNOPSIS](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/PUBLIC-SYNOPSIS.md) · [Aug 26 court posture + 391 finality](../03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md)
 
 ## Related narrative (site root; not moved)
 

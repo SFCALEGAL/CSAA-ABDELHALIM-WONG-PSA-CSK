@@ -1,8 +1,8 @@
-> **POSTURE (August 14, 2026).** Notice of appeal File & Serve authorized (Tx `80347004`) from the July 1, 2026 order (DocID `10297081`) to the **First Appellate District** (number TBA). Stay notice Tx `80347745`. Fee opposition Tx `80348027`. CM-110 Tx `80349265`. Hub: [aug14-2026-appeal-stay-fees-cmc/](aug14-2026-appeal-stay-fees-cmc/README.md) · [PUBLIC-SYNOPSIS](aug14-2026-appeal-stay-fees-cmc/PUBLIC-SYNOPSIS.md).
+> **POSTURE (August 27, 2026).** Notice of appeal File & Serve authorized (Tx `80347004`) from the July 1, 2026 order (DocID `10297081`) to the **First Appellate District** (number TBA). Stay notice Tx `80347745`. Fee opposition Tx `80348027`. CM-110 Tx `80349265`. Hub: [aug14-2026-appeal-stay-fees-cmc/](aug14-2026-appeal-stay-fees-cmc/README.md) · [PUBLIC-SYNOPSIS](aug14-2026-appeal-stay-fees-cmc/PUBLIC-SYNOPSIS.md).
 >
-> **Still on calendar:** August 26, 2026, 9:00 a.m., Dept. 302 / Quinn (defense access/fee hearing **and** CCP 425.16(c) fees, $32,928.27). After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication. Hub: [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md). **Next CMC:** September 9, 2026, 10:30 a.m., Dept. 610. July 1, 2026 order is limited anti-SLAPP / FAC strike practice, not empty-file merits adjudication. Companion 801 appeal: [aug14-2026-appeal-stay-fees-tax-cmc](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md).
+> **August 26, 2026, Dept. 302:** CCP 391 heard. Court-sent face ruling: **Off calendar. Case stayed.** Continued for jurisdiction / *Pittman* briefing (working read: Oct 6, 2026; briefs by Sept 22). Citation map: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md). Papers hub: [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md). Fee line same morning: not addressed in face ruling (`[VERIFY-HUMAN]`). **Next CMC:** October 21, 2026, 10:30 a.m., Dept. 610. Companion 801 appeal: [aug14-2026-appeal-stay-fees-tax-cmc](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md).
 
-# Case CGC-25-631802 — Insurance Fraud and UCL Action
+# Case CGC-25-631802 - Insurance Fraud and UCL Action
 
 **Court:** Superior Court of California, County of San Francisco
 **Case No.:** CGC-25-631802
@@ -14,13 +14,13 @@
 
 **April 2026 motion practice:** Plaintiff’s leave-to-amend / proposed SAC packet, opposition to Anti-SLAPP, and CSAA’s Anti-SLAPP clerk PDFs are filed in **CGC-25-631802** (same caption as this case folder). See tables below.
 
-**April 28–29, 2026 — court e-filed (File and Serve):** SAC / Apr. 30 bench packet; **TAC-802** motion-to-strike response (seven instruments + cure matrix); **Anti-SLAPP** and **Prong-One** notices of lodgment; **discovery** tracks 1–3; defense-service master PDF; **Dept. 302** courtesy copies — **[served-sftc-apr28-29-2026/README.md](served-sftc-apr28-29-2026/README.md)** · **[SFTC docket register](served-sftc-apr28-29-2026/SFTC-DOCKET-REGISTER.md)** (six transactions → lane PDFs) · [public synopsis — strategy](served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md).
+**April 28-29, 2026 - court e-filed (File and Serve):** SAC / Apr. 30 bench packet; **TAC-802** motion-to-strike response (seven instruments + cure matrix); **Anti-SLAPP** and **Prong-One** notices of lodgment; **discovery** tracks 1-3; defense-service master PDF; **Dept. 302** courtesy copies - **[served-sftc-apr28-29-2026/README.md](served-sftc-apr28-29-2026/README.md)** · **[SFTC docket register](served-sftc-apr28-29-2026/SFTC-DOCKET-REGISTER.md)** (six transactions → lane PDFs) · [public synopsis - strategy](served-sftc-apr28-29-2026/PUBLIC-SYNOPSIS-AND-STRATEGY.md).
 
-**April 28, 2026 — full clerk-filing build (DOCUSERV mirror):** complete numbered tree (`10-` … `60-`) including the merged combined packets, courtesy variants with **prong-one** content, full **E-SERVICE-PARTS** constituents, and the **May 13 Anti-SLAPP opposition** prong-one checklist exhibit — **[clerk-filing-2026-04-28/README.md](clerk-filing-2026-04-28/README.md)**.
+**April 28, 2026 - full clerk-filing build (DOCUSERV mirror):** complete numbered tree (`10-` … `60-`) including the merged combined packets, courtesy variants with **prong-one** content, full **E-SERVICE-PARTS** constituents, and the **May 13 Anti-SLAPP opposition** prong-one checklist exhibit - **[clerk-filing-2026-04-28/README.md](clerk-filing-2026-04-28/README.md)**.
 
-**April 30, 2026 — court-filed cross-hearing § 425.17(c) stack:** memorandum, notice of lodging, supplemental RJN, omnibus blackletter P&A, customer-doctrine supplement, safe-harbor notice/declaration, and POS-050 — **[cross-hearing-42517-apr30-2026/README.md](cross-hearing-42517-apr30-2026/README.md)** (PDFs + Markdown + LaTeX; bench briefs omitted). The **631801** mirror is **[02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md](../02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md)**.
+**April 30, 2026 - court-filed cross-hearing § 425.17(c) stack:** memorandum, notice of lodging, supplemental RJN, omnibus blackletter P&A, customer-doctrine supplement, safe-harbor notice/declaration, and POS-050 - **[cross-hearing-42517-apr30-2026/README.md](cross-hearing-42517-apr30-2026/README.md)** (PDFs + Markdown + LaTeX; bench briefs omitted). The **631801** mirror is **[02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md](../02-CASE-CGC-25-631801/cross-hearing-42517-apr30-2026/README.md)**.
 
-**Latest consolidated opposition (801 defense-court draft build):** Full PDF set — six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibit appendices, and legacy splits — is published under **[plaintiff-opposition-consolidated-apr2026/](plaintiff-opposition-consolidated-apr2026/README.md)** (synced April 18, 2026).
+**Latest consolidated opposition (801 defense-court draft build):** Full PDF set - six core opposition instruments, SAC packet, consolidated bundles, master packet, exhibit appendices, and legacy splits - is published under **[plaintiff-opposition-consolidated-apr2026/](plaintiff-opposition-consolidated-apr2026/README.md)** (synced April 18, 2026).
 
 
 **June / July / August 2026 filing hubs:**
@@ -28,7 +28,7 @@
 | Hub | Description |
 |-----|-------------|
 | [aug14-2026-appeal-stay-fees-cmc/](aug14-2026-appeal-stay-fees-cmc/README.md) | **FILED Aug 14:** NOA Tx `80347004`; stay Tx `80347745`; fee opp Tx `80348027`; CM-110 Tx `80349265`; plus July 17 defense fee PDFs ($32,928.27) |
-| [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md) | **ACTIVE Aug 26:** defense access/fee papers as filed (14 plaintiff + 6 defense PDFs); Tx `80094866` / `80105728` |
+| [vexatious-opposition-aug26-2026/](vexatious-opposition-aug26-2026/README.md) | **Aug 26 heard:** defense access/fee papers as filed; court face ruling "Off calendar. Case stayed." · [AUG26-COURT-POSTURE-AND-391-FINALITY.md](vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md) |
 | [hearing-package-may-8-2026/](hearing-package-may-8-2026/README.md) | May 8 cure batch (operative oppositions + supporting papers) |
 | [calendar-continuance-may-13-2026/](calendar-continuance-may-13-2026/README.md) | May 13 continuance to June 24 + restamp notices |
 | [june-24-cohort-2026-05-26/](june-24-cohort-2026-05-26/README.md) | May 26 four-transaction filing wave |

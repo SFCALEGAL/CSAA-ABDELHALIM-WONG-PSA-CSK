@@ -7,7 +7,7 @@
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
 **Forums:** San Francisco Superior Court; California Court of Appeal, First Appellate District
 **Cases:** CGC-21-594102 (trial) · A173827 (appeal) · CGC-25-631801 (equity, on appeal) · CGC-25-631802 (denial-letter fraud, on appeal)
-**Last refresh:** August 22, 2026
+**Last refresh:** September 2, 2026
 
 *San Francisco*
 
@@ -94,11 +94,11 @@ Four proceedings take that single proposition and ask different courts different
 | Proceeding | The question it asks | Posture |
 |---|---|---|
 | CGC-21-594102 | Was the pedestrian's injury caused by the driver's negligence? | Tried to verdict April 23, 2025; defense verdict 9 to 3 |
-| A173827 | Did legal error in that trial require reversal? | Fully briefed August 20, 2026; argument not set |
+| A173827 | Did legal error in that trial require reversal? | Merits briefs complete August 20, 2026; respondent opposition to the companion motion to disregard received September 1, 2026; argument not set |
 | CGC-25-631801 | Should the judgment be set aside because it was procured by extrinsic fraud? | Struck August 6, 2026; on appeal |
 | CGC-25-631802 | Was the 2021 denial letter itself an actionable misrepresentation? | Struck July 1, 2026; on appeal |
 
-A fifth thing is now happening alongside all of it. After the fatal contradiction, and after choosing anti-SLAPP on a 2021 claims letter, the defense asked a trial court for an access bar and fees on the strength of the strike orders now on appeal. That is an escape from merits adjudication, not a separate story. It is heard August 26, 2026, in Department 302, with the 802 fee demand.
+A fifth thing is now happening alongside all of it. After the fatal contradiction, and after choosing anti-SLAPP on a 2021 claims letter, the defense asked a trial court for an access bar and fees on the strength of the strike orders now on appeal. That is an escape from merits adjudication, not a separate story. On August 26, 2026, Department 302's court-sent face ruling on the CCP 391 access motion stated "Off calendar. Case stayed." Citation map: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md).
 
 ---
 
@@ -142,7 +142,7 @@ Detail: [FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md](FATAL-
 
 ## Part 3. A173827, the appeal from the trial
 
-**Where it stands.** Fully briefed. Appellant's Opening Brief and the augmentation wave came first. Respondent's Opening Brief was filed August 3, 2026. Appellant's Reply Brief plus four companion papers were served August 20, 2026. Oral argument is not set.
+**Where it stands.** Merits briefs are complete. Appellant's Opening Brief and the augmentation wave came first. Respondent's Opening Brief was filed August 3, 2026. Appellant's Reply Brief plus four companion papers were served August 20, 2026. Respondent's opposition to the companion motion to disregard bears a September 1, 2026 signature and the Court of Appeal received watermark on each page; no calendar FILE date or envelope ID appears on that face. Oral argument is not set.
 
 **Where the defense stands.** Affirmance of the 9 to 3 verdict.
 
@@ -156,11 +156,11 @@ Detail: [FATAL-PROOF-NAVARATNASINGHAM-DOLAN-ADMISSION-EXTRINSIC-FRAUD.md](FATAL-
 | Procedural and due process | Constitutional, and less forgiving of harmless-error framing | Goes to the fairness of the proceeding rather than the weight of any one ruling |
 | Structural and cumulative | Whole-record | Asks whether errors that might each survive alone are collectively fatal |
 
-**The record-scope fight in the reply wave.** Filed with the reply are a motion to disregard, or in the alternative strike, matter outside the appellate record in respondent's brief, together with a supplemental request for judicial notice and two proposed orders. That pairing states a coherent position: appellate review runs on the record that was made below, and a party who wants the court to consider something else has a formal route for asking, which is judicial notice, not narration in a brief. The papers ask the court to hold both sides to the same boundary.
+**The record-scope fight in the reply wave.** Filed with the reply are a motion to disregard, or in the alternative strike, matter outside the appellate record in respondent's brief, together with a supplemental request for judicial notice and two proposed orders. That pairing states a coherent position: appellate review runs on the record that was made below, and a party who wants the court to consider something else has a formal route for asking, which is judicial notice, not narration in a brief. The papers ask the court to hold both sides to the same boundary. Respondent's September 1, 2026 opposition to that motion (Court of Appeal received watermark on each page) asks the court to deny the motion. On the face of that opposition: disagreement about the record is not a strike ground; proposing CACI 705, 707, or 710 is not an on-record objection or a proven refusal under Code of Civil Procedure section 647; and RT 11 is cited for waiver and invited error. Synopsis: [01-APPEAL/sept1-2026-respondents-opp-disregard/PUBLIC-SYNOPSIS.md](01-APPEAL/sept1-2026-respondents-opp-disregard/PUBLIC-SYNOPSIS.md).
 
 **Relationship to the equity action.** The appeal asks for ordinary appellate relief from a final judgment. CGC-25-631801 asks a different court for equitable vacatur of the same judgment. They are parallel remedies with different standards, but they read the same transcripts. Neither one is a substitute for the other, and the existence of one is not an argument against the other.
 
-Papers, in filing order: [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md). Reply wave hub: [01-APPEAL/aug20-2026-reply/README.md](01-APPEAL/aug20-2026-reply/README.md). Neutral map of every appellate PDF against the transcript volumes it cites: [narrative/02-APPEAL-A173827.md](narrative/02-APPEAL-A173827.md).
+Papers, in filing order: [01-APPEAL/INDEX.md](01-APPEAL/INDEX.md). Reply wave hub: [01-APPEAL/aug20-2026-reply/README.md](01-APPEAL/aug20-2026-reply/README.md). September 1 opposition hub: [01-APPEAL/sept1-2026-respondents-opp-disregard/README.md](01-APPEAL/sept1-2026-respondents-opp-disregard/README.md). Neutral map of every appellate PDF against the transcript volumes it cites: [narrative/02-APPEAL-A173827.md](narrative/02-APPEAL-A173827.md).
 
 ---
 
@@ -188,11 +188,13 @@ An insurer owes no duty to a third-party claimant to settle. That is *Moradi-Sha
 
 **Where it stands.** The court granted the special motion to strike on **July 1, 2026** (DocID `10297081`). The demurrer was mooted and leave to file a third amended complaint was denied. Plaintiff filed a notice of appeal on **August 14, 2026** (Tx `80347004`, register sequence 327 to 329) with a same-day stay notice (Tx `80347745`).
 
-**Where the defense stands.** On **August 26, 2026, 9:00 a.m., Department 302**: fees of **$32,928.27** under section 425.16(c), and a defense access motion seeking to end court access after the strike order. After the empty-file / anti-SLAPP contradiction, that access ask is an escape from merits adjudication, not a separate case.
+**Where the defense stands.** On **August 26, 2026**, Department 302 heard the defense access (CCP 391) motion after the July 1 strike order. The court-sent face ruling states: **Off calendar. Case stayed.** The same instrument continues the motion for jurisdiction / *Pittman* supplemental briefing (working read: briefs by September 22, 2026; continued hearing October 6, 2026). The noticed CCP 425.16(c) fee demand of **$32,928.27** is not addressed in that face text (`[VERIFY-HUMAN]`). After the empty-file / anti-SLAPP contradiction, the access ask remains an escape from merits adjudication, not a separate case. It is also pressed while the July 1 order is on appeal.
 
-**Plaintiff's response as filed.** Fee opposition Tx `80348027`; opposition to the defense access motion Tx `80094866` and `80105728`.
+**Why the (b)(2) label fails while appeals are pending.** Code of Civil Procedure section 391(b)(2) requires a litigation that "has been finally determined" before repeated-relitigation designation. *First Western Development Corp. v. Superior Court* (1989) 212 Cal.App.3d 860, 864: "When, as here, all avenues for direct review have been exhausted, the judgment is final for all purposes." Pending appeals are not exhausted review. Exact excerpts and the court face lines: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md).
 
-Hubs: [aug14-2026-appeal-stay-fees-cmc](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [defense moving papers as filed](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md).
+**Plaintiff's response as filed.** Fee opposition Tx `80348027`; opposition to the defense access motion Tx `80094866` and `80105728`; stay notice Tx `80347745`.
+
+Hubs: [aug14-2026-appeal-stay-fees-cmc](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [defense moving papers as filed](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [Aug 26 court posture](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md) · [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md).
 
 ---
 
@@ -207,7 +209,7 @@ The defense chose the special motion to strike as its vehicle to end both cases.
 3. **It walked into the section 425.17(c) gateway.** Commercial and insurer factual representations are carved out of section 425.16 altogether under *Simpson Strong-Tie Co. v. Gore* (2010) 49 Cal.4th 12, a threshold bar that operates before either prong. See [ANTI-SLAPP-OFF-RAMPS.md](ANTI-SLAPP-OFF-RAMPS.md) · [ANTI-SLAPP-CONSEQUENCE-RADIUS.md](ANTI-SLAPP-CONSEQUENCE-RADIUS.md).
 4. **It manufactured the appeal it now has to answer.** An order granting a special motion to strike is immediately appealable under section 904.1(a)(13). The two orders the defense won on July 1 and August 6 are the same two orders that created the appellate lane, and on plaintiff's filed section 916 and *Varian* position they suspend the trial-court proceedings embraced by the appeals.
 
-The net position is that the defense is asking a trial court for $70,038.73 and an access bar, on the strength of two rulings now on appeal, in a posture whose central premise concedes that the claims investigation was adversarial rather than objective. After that choice, the August 26, 2026 Department 302 setting is a defense access/fee hearing used as an escape from merits adjudication of the empty-file contradiction, not a separate story. Defense moving papers as filed: [vexatious-opposition-aug26-2026/defense/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/defense/). Plaintiff's filed PDFs from the same setting are mirrored in that hub as filed. The site's analysis of those papers is the escape-vehicle point already stated in this Part, not a merits adjudication of the letter.
+The net position is that the defense asked a trial court for $70,038.73 and an access bar, on the strength of two rulings now on appeal, in a posture whose central premise concedes that the claims investigation was adversarial rather than objective. On August 26, 2026, Department 302's court-sent face ruling on the section 391 access motion stated "Off calendar. Case stayed." and ordered jurisdiction / *Pittman* briefing. That is the trial court's recognition that the defense was pressing a stayed, non-final posture. Citation map: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md). Defense moving papers as filed: [vexatious-opposition-aug26-2026/defense/](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/defense/). Plaintiff's filed PDFs from the same setting are mirrored in that hub as filed. The site's analysis of those papers is the escape-vehicle point already stated in this Part, not a merits adjudication of the letter.
 
 Expanded, with pleading-paragraph citations: [DEFENSE-FATAL-FLAWS.md](DEFENSE-FATAL-FLAWS.md). Exposure map: [RISK-SURFACE.md](RISK-SURFACE.md).
 
@@ -215,17 +217,17 @@ Expanded, with pleading-paragraph citations: [DEFENSE-FATAL-FLAWS.md](DEFENSE-FA
 
 ## Where the record sits now
 
-| Proceeding | Posture as of August 21, 2026 | Next date |
+| Proceeding | Posture as of August 27, 2026 | Next date |
 |------------|-------------------------------|-----------|
 | CGC-21-594102 | Judgment entered; on appeal | See A173827 |
 | A173827 | Fully briefed August 20, 2026 | Argument not set |
 | CGC-25-631801 | Struck August 6; on appeal (First District number not yet assigned) | Sept 8, 2026, Dept. 301 (fees) |
-| CGC-25-631802 | Struck July 1; on appeal (First District number not yet assigned) | Aug 26, 2026, Dept. 302 (defense access/fee hearing) |
+| CGC-25-631802 | Struck July 1; on appeal (First District number not yet assigned). Aug 26 Dept. 302 face ruling on CCP 391: "Off calendar. Case stayed." | Oct 6, 2026, Dept. 302 (391 continued; jurisdiction / *Pittman* briefs due Sept 22) |
 | Both 2025 cases | Case management statements filed August 14 | Oct 21, 2026, 10:30 a.m., Dept. 610 |
 
-**Appellate numbers are not yet assigned. Do not infer them.** Under rule 8.121, a notice designating the record on appeal (form APP-003) is due in each superior-court file by **August 24, 2026**, ten days after the August 14 notices of appeal. Form APP-004 waits on the Court of Appeal clerk's notice.
+**Appellate numbers are not yet assigned. Do not infer them.** Form APP-003 under rule 8.121 was due August 24, 2026, in each superior-court file. Form APP-004 waits on the Court of Appeal clerk's notice.
 
-Stay notices Tx `80347745` and `80347943` state a filed legal position. They are not a court order, and both fee hearings remain on the portal. Several August 14 transactions (the stay notices, both fee oppositions, the motion to tax, and one case management statement) were accepted but were not yet on the August 20 register pull.
+Stay notices Tx `80347745` and `80347943` state a filed legal position under section 916 and *Varian*. The August 26 Department 302 face ruling on the section 391 motion ("Off calendar. Case stayed.") is a court ruling recognizing that stay problem. Exact citations: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md). The September 8, 2026 Department 301 fee hearing in 801 remains on the last register harvest unless a later minute says otherwise.
 
 Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and posture memo: [ANALYSIS/AUG-2026-POSTURE.md](ANALYSIS/AUG-2026-POSTURE.md).
 
@@ -243,9 +245,9 @@ The archive matters because, after the empty-file certification, the defense tre
 | Service transmittal | 10 | Transmits papers or proofs of service | [May 4, 2026 electronic service under section 1010.6](correspondence/service-transmittal/2026-05-04-0943-801-e-service.md) |
 | Meet and confer | 7 | Satisfies a statutory conference obligation before a motion | [April 25, 2026 merits letter](correspondence/meet-and-confer/2026-04-25-tac-aligned-merits.md) |
 | CCP 128.7 safe harbor | 7 | Starts or preserves the twenty-one day sanctions clock | [July 27, 2026 safe-harbor letter on defense access/fee papers](correspondence/safe-harbor-1287/2026-07-27-1287-vexatious-802.md) |
-| Personal dialogue | 4 | Speech, not a filing and not a statutory paper | [August 21, 2026 letter, published and not claimed served](LETTER-TO-OCONNELL-AUG21-2026.md) |
+| Personal dialogue | 5 | Speech, not a filing and not a statutory paper | [August 27, 2026 letter, published and not claimed served](LETTER-TO-OCONNELL-AUG27-2026.md) |
 
-Full 32-event table with per-item sent status: [correspondence/INDEX.md](correspondence/INDEX.md). Face banners: [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) · [meet and confer](correspondence/banners/meet-and-confer.md) · [safe harbor 128.7](correspondence/banners/safe-harbor-1287.md) · [settlement 1152](correspondence/banners/settlement-1152.md) · [service transmittal](correspondence/banners/service-transmittal.md)
+Full 33-event table with per-item sent status: [correspondence/INDEX.md](correspondence/INDEX.md). Face banners: [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) · [meet and confer](correspondence/banners/meet-and-confer.md) · [safe harbor 128.7](correspondence/banners/safe-harbor-1287.md) · [settlement 1152](correspondence/banners/settlement-1152.md) · [service transmittal](correspondence/banners/service-transmittal.md)
 
 ### The completeness set
 

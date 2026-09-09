@@ -5,19 +5,29 @@
 
 This page is a journalist-readable overview of papers already on file. Full PDFs: [hub README](README.md).
 
+**Post-hearing court posture (Aug 26 ruling):** [AUG26-COURT-POSTURE-AND-391-FINALITY.md](AUG26-COURT-POSTURE-AND-391-FINALITY.md) (face lines "Off calendar. Case stayed."; section 916 / *Varian*; section 391(b)(2) finality quotes).
+
 ---
 
 ## 1. What the defense filed after the strike order
 
-After the July 1, 2026 special motion to strike, CSAA Insurance Exchange (through Porter Scott) filed papers seeking to end court access, together with a fee demand heard the same morning. That is an escape from merits adjudication of the empty-file / anti-SLAPP contradiction, not a separate story. The 2021 denial letter and the 2025 MIL declarations still cannot both be true. Choosing anti-SLAPP on a 2021 claims letter did not make the letter disappear. Asking a trial court for an access bar and fees on the strength of a ruling now on appeal is the next move after that choice.
+After the July 1, 2026 special motion to strike, CSAA Insurance Exchange (through Porter Scott) filed papers seeking to end court access, together with a fee demand noticed for the same morning. That is an escape from merits adjudication of the empty-file / anti-SLAPP contradiction, not a separate story. The 2021 denial letter and the 2025 MIL declarations still cannot both be true. Choosing anti-SLAPP on a 2021 claims letter did not make the letter disappear. Asking a trial court for an access bar and fees on the strength of a ruling now on appeal is the next move after that choice.
 
 Defense moving papers as filed: [defense/](defense/).
 
 ---
 
-## 2. What this hub mirrors
+## 2. What the court did on August 26
 
-Plaintiff's filed PDFs from the same setting are mirrored here as filed. The site's analysis of those papers is the escape-vehicle point in section 1.
+The court heard the section 391 motion. The court-sent face ruling states: **Off calendar. Case stayed.** The same instrument continues the motion for jurisdiction / *Pittman* supplemental briefing (working read: briefs by September 22, 2026; continued hearing October 6, 2026). Citation map and exact statute / case excerpts: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](AUG26-COURT-POSTURE-AND-391-FINALITY.md).
+
+In short: section 391(b)(2) requires a litigation that "has been finally determined" before repeated-relitigation labeling. Pending appeals (A173827; the August 14 anti-SLAPP appeals in 801 and 802) are not final determinations. Plaintiff's filed stay notice (Tx `80347745`) and opposition MPA already put that law before the court.
+
+---
+
+## 3. What this hub mirrors
+
+Plaintiff's filed PDFs from the same setting are mirrored here as filed. The site's analysis of those papers is the escape-vehicle point in section 1 and the finality / stay map in section 2.
 
 The July 1, 2026 limited anti-SLAPP / FAC strike practice is not empty-file merits adjudication.
 
@@ -29,6 +39,7 @@ The July 1, 2026 limited anti-SLAPP / FAC strike practice is not empty-file meri
 |-------|-------|
 | Plaintiff PDFs (14) | [plaintiff/](plaintiff/) |
 | Defense PDFs (6) | [defense/](defense/) |
+| Aug 26 court posture + 391 finality citations | [AUG26-COURT-POSTURE-AND-391-FINALITY.md](AUG26-COURT-POSTURE-AND-391-FINALITY.md) |
 | Hub index | [README.md](README.md) |
 | 802 case index | [../INDEX.md](../INDEX.md) |
 | Posture note | [../../ANALYSIS/AUG-2026-POSTURE.md](../../ANALYSIS/AUG-2026-POSTURE.md) |

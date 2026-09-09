@@ -16,8 +16,9 @@
 | Consolidated exhibits (reply wave) | [12-Consolidated-Exhibits.pdf](../01-APPEAL/12-Consolidated-Exhibits.pdf) |
 | Proposed order (disregard) | [13-Proposed-Order-Disregard-RB.pdf](../01-APPEAL/13-Proposed-Order-Disregard-RB.pdf) |
 | Proposed order (supplemental RJN) | [14-Proposed-Order-SRJN.pdf](../01-APPEAL/14-Proposed-Order-SRJN.pdf) |
+| Respondent opposition to motion to disregard (Sept 1, 2026; received watermark) | [15-Respondents-Opposition-Motion-to-Disregard.pdf](../01-APPEAL/15-Respondents-Opposition-Motion-to-Disregard.pdf) |
 
-**Index:** [../01-APPEAL/INDEX.md](../01-APPEAL/INDEX.md). **August 20 hub:** [../01-APPEAL/aug20-2026-reply/README.md](../01-APPEAL/aug20-2026-reply/README.md).
+**Index:** [../01-APPEAL/INDEX.md](../01-APPEAL/INDEX.md). **August 20 hub:** [../01-APPEAL/aug20-2026-reply/README.md](../01-APPEAL/aug20-2026-reply/README.md). **September 1 hub:** [../01-APPEAL/sept1-2026-respondents-opp-disregard/README.md](../01-APPEAL/sept1-2026-respondents-opp-disregard/README.md).
 
 ## Vertical diagram
 
@@ -29,11 +30,15 @@ flowchart TB
   A4["Combined appeal exhibits PDF"]
   RB["Respondent opening brief PDF"]
   ARB["Appellant reply brief PDF"]
+  MTD["Motion to disregard PDF"]
+  OPP["Respondent opposition PDF (Sept 1 received)"]
   A1 --> A2
   A2 --> A3
   A3 --> A4
   A4 --> RB
   RB --> ARB
+  ARB --> MTD
+  MTD --> OPP
 ```
 
 [← Homepage](../README.md) · [Narrative chapter](../narrative/02-APPEAL-A173827.md)

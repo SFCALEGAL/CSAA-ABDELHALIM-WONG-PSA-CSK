@@ -35,6 +35,18 @@ Opening-wave PDFs (AOB through combined exhibits) remain [01](../01-Appellants-O
 
 ---
 
+## Later received paper (not part of the August 20 wave)
+
+On September 1, 2026, the Court of Appeal received respondent's opposition to paper 10 (motion to disregard). Each page of that PDF carries the watermark "Document received by the CA 1st District Court of Appeal." No calendar FILE date or TrueFiling envelope ID appears on the face.
+
+| # | Document | Date | PDF |
+|---|----------|------|-----|
+| 15 | Respondent's Opposition to Appellant's Motion to Disregard (or strike) extra-record matter | September 1, 2026 | [15-Respondents-Opposition-Motion-to-Disregard.pdf](../15-Respondents-Opposition-Motion-to-Disregard.pdf) |
+
+Hub and synopsis: [../sept1-2026-respondents-opp-disregard/README.md](../sept1-2026-respondents-opp-disregard/README.md) · [PUBLIC-SYNOPSIS](../sept1-2026-respondents-opp-disregard/PUBLIC-SYNOPSIS.md).
+
+---
+
 ## Navigation
 
-[← Appeal index](../INDEX.md) · [Narrative](../../narrative/02-APPEAL-A173827.md) · [Timeline](../../timelines/appeal-A173827.md) · [Homepage](../../README.md)
+[← Appeal index](../INDEX.md) · [September 1 opposition hub](../sept1-2026-respondents-opp-disregard/README.md) · [Narrative](../../narrative/02-APPEAL-A173827.md) · [Timeline](../../timelines/appeal-A173827.md) · [Homepage](../../README.md)
