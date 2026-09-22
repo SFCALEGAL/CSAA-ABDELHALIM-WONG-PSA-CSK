@@ -2,7 +2,9 @@
 
 | File | Description |
 |------|-------------|
-| [STATE-2026-08-20.md](STATE-2026-08-20.md) | **Current** (GetROA Aug 20 9:16 am): 212 rows; NOA on ROA Tx `80347363`; MC-010 DocID `10369596`; CMC continued to Oct 21; fee papers seq 202-204 |
+| [STATE-2026-09-09.md](STATE-2026-09-09.md) | **Current** (GetROA Sept 9 1:50 pm): 232 rows; stay and fee opposition on ROA; APP-003 DocID `10403685`; Sept 8 fees off calendar |
+| [NEW-ENTRIES-20260909-801.md](NEW-ENTRIES-20260909-801.md) | 20 rows new since August 20 |
+| [STATE-2026-08-20.md](STATE-2026-08-20.md) | Prior (GetROA Aug 20 9:16 am): 212 rows; NOA on ROA Tx `80347363`; MC-010 DocID `10369596`; CMC continued to Oct 21 |
 | [ROA-AUDIT-2026-08-20.md](ROA-AUDIT-2026-08-20.md) | Day Zero + NOA/MC-010/CMC audit (August 20, 2026) |
 | [CALENDAR-2026-08-20.md](CALENDAR-2026-08-20.md) | Sept 8 fees + Oct 21 CMC |
 | [STATE-2026-08-13.md](STATE-2026-08-13.md) | Prior GetROA snapshot (Aug 13 5:47 pm): fee motion on ROA; Sept 8 confirmed; MC-010 not yet a separate DocID |
@@ -24,7 +26,7 @@
 | [STATE-2026-05-28.md](STATE-2026-05-28.md) | Superseded (May 28 portal pull) |
 | [ROA-AUDIT-2026-05-28.md](ROA-AUDIT-2026-05-28.md) | Prior ROA audit |
 
-Clerk register artifacts: [`REGISTER-OF-ACTIONS-20260820-801.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260820-801.md) · [`NEW-ENTRIES-20260820-801.md`](../../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260820-801.md) · [`register-20260820-801-MERGED.json`](../../../../CLERK-WEB-DOCKETS/_index/register-20260820-801-MERGED.json) · prior [`REGISTER-OF-ACTIONS-20260813-801.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260813-801.md) · prior [`REGISTER-OF-ACTIONS-20260812-801.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260812-801.md)
+Clerk register artifacts: [`REGISTER-OF-ACTIONS-20260909-801.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260909-801.md) · [`NEW-ENTRIES-20260909-801.md`](../../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260909-801.md) · prior [`REGISTER-OF-ACTIONS-20260820-801.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260820-801.md) · prior [`NEW-ENTRIES-20260820-801.md`](../../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260820-801.md)
 
 Linked from [POST-MAY-12-FILING-STACK](../../01-APPEAL/POST-MAY-12-FILING-STACK/README.md).
 

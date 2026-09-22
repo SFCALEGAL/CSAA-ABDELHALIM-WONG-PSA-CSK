@@ -8,8 +8,8 @@ There are now **two layers** of First District work. Do not collapse them.
 | Layer | Number | What it reviews | Public entry |
 |-------|--------|-----------------|--------------|
 | Trial-verdict appeal | **A173827** (Div. 3) | CGC-21-594102 judgment and trial rulings | Briefs in this folder (table below) |
-| 802 anti-SLAPP appeal | **TBA** (filed Aug 14, 2026) | July 1, 2026 order (DocID `10297081`) in CGC-25-631802 | [802 Aug 14 hub](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) |
-| 801 anti-SLAPP appeal | **TBA** (filed Aug 14, 2026) | August 6, 2026 strike order (DocID `10361462`) in CGC-25-631801 | [801 Aug 14 hub](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) |
+| 802 anti-SLAPP appeal | **TBA** (filed Aug 14, 2026) | July 1, 2026 order (DocID `10297081`) in CGC-25-631802 | [802 Aug 14 hub](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [July 1 order](../03-CASE-CGC-25-631802/court-orders/2026-07-01-strike-order-grant/README.md) |
+| 801 anti-SLAPP appeal | **TBA** (filed Aug 14, 2026) | August 6, 2026 strike order (DocID `10361462`) in CGC-25-631801 | [801 Aug 14 hub](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [August 6 order](../02-CASE-CGC-25-631801/court-orders/2026-08-06-strike-order-grant/README.md) |
 
 These are **not** federal district-court appeals. Do not invent First District numbers for the August 14 notices.
 
@@ -25,6 +25,8 @@ File & Serve authorized the same afternoon:
 | CGC-25-631801 | `80347363` (2:40 p.m. PDT) | `80347943` (Dept. 301) | August 6, 2026 |
 
 Plain-English synopses: [802](../03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/PUBLIC-SYNOPSIS.md) · [801](../02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/PUBLIC-SYNOPSIS.md).
+
+APP-003 (notice designating record, no reporter's transcript) is on each superior-court register as of September 9, 2026: 801 Tx `80503647`, DocID `10403685`; 802 Tx `80503745`, DocID `10403681`. First District numbers for these two appeals are not on that register.
 
 The May 2026 scaffold packet at [POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL](POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL/README.md) is a **historical build output**. The filed notices are the August 14 hubs.
 

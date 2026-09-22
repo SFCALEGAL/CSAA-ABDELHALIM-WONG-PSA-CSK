@@ -202,9 +202,9 @@ The claim is not that the Rules of Professional Conduct create a private right o
 
 **Where it stands.** The court granted the special motion to strike the amended complaint on **August 6, 2026** (DocID `10361462`). Reconsideration was denied August 11, 2026, on minutes. Plaintiff filed a notice of appeal on **August 14, 2026** (Tx `80347363`, register sequence 207 to 209) with a same-day stay notice under Code of Civil Procedure section 916 and *Varian* (Tx `80347943`).
 
-**Where the defense stands.** Seeking **$37,110.46**: fees of $35,973.00 stated as 169.30 hours at $210 per hour plus two anticipated hearing hours, and an MC-010 costs memorandum of $1,137.46. Heard **September 8, 2026, 9:00 a.m., Department 301**. Moving parties named on the fee notice: CSAA Insurance Exchange; Michael R. Chambers; Carbone, Smith and Koyama.
+**Where the defense stands.** The August 19, 2026 notice withdrew the prior fee motion and filed replacement papers (Tx `80396124` / `80398280`). September 8, 2026 Department 301 minutes (seq 232, no View) state that the CCP 425.16(c) fee motion was taken off calendar pursuant to that August 19 notice. Moving parties named on the fee notice: CSAA Insurance Exchange; Michael R. Chambers; Carbone, Smith and Koyama.
 
-**Plaintiff's response as filed.** Fee opposition Tx `80348365`; motion to tax or strike costs under rule 3.1700(b), Tx `80349087`, to be specially set.
+**Plaintiff's response as filed.** Fee opposition Tx `80348365` (on ROA). Tx `80349087` (motion to tax or strike costs) is not on the September 9, 2026 register. APP-003 filed August 31, 2026 (Tx `80503647`, DocID `10403685`).
 
 Hubs: [aug14-2026-appeal-stay-fees-tax-cmc](02-CASE-CGC-25-631801/aug14-2026-appeal-stay-fees-tax-cmc/README.md) · [02-CASE-CGC-25-631801/INDEX.md](02-CASE-CGC-25-631801/INDEX.md).
 
@@ -218,11 +218,11 @@ An insurer owes no duty to a third-party claimant to settle. That is *Moradi-Sha
 
 **Where it stands.** The court granted the special motion to strike on **July 1, 2026** (DocID `10297081`). The demurrer was mooted and leave to file a third amended complaint was denied. Plaintiff filed a notice of appeal on **August 14, 2026** (Tx `80347004`, register sequence 327 to 329) with a same-day stay notice (Tx `80347745`).
 
-**Where the defense stands.** On **August 26, 2026**, Department 302 heard the defense access (CCP 391) motion after the July 1 strike order. The court-sent face ruling states: **Off calendar. Case stayed.** The same instrument continues the motion for jurisdiction / *Pittman* supplemental briefing (working read: briefs by September 22, 2026; continued hearing October 6, 2026). The noticed CCP 425.16(c) fee demand of **$32,928.27** is not addressed in that face text (`[VERIFY-HUMAN]`). After the empty-file / anti-SLAPP contradiction, the access ask remains an escape from merits adjudication, not a separate case. It is also pressed while the July 1 order is on appeal.
+**Where the defense stands.** On **August 26, 2026**, Department 302 heard the defense access (CCP 391) motion after the July 1 strike order. Clerk order DocID `10397483`. The court-sent face text already on this site is: **Off calendar. Case stayed.** Seq 354 continues the motion to October 6, 2026, 9:00 a.m., Dept. 302. Seq 349 (August 21, no View) takes the CCP 425.16(c) fee motion off calendar at the moving party's request. After the empty-file / anti-SLAPP contradiction, the access ask remains an escape from merits adjudication, not a separate case. It is also pressed while the July 1 order is on appeal.
 
 **Why the (b)(2) label fails while appeals are pending.** Code of Civil Procedure section 391(b)(2) requires a litigation that "has been finally determined" before repeated-relitigation designation. *First Western Development Corp. v. Superior Court* (1989) 212 Cal.App.3d 860, 864: "When, as here, all avenues for direct review have been exhausted, the judgment is final for all purposes." Pending appeals are not exhausted review. Exact excerpts and the court face lines: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md).
 
-**Plaintiff's response as filed.** Fee opposition Tx `80348027`; opposition to the defense access motion Tx `80094866` and `80105728`; stay notice Tx `80347745`.
+**Plaintiff's response as filed.** Opposition to the defense access motion Tx `80094866` and `80105728` (clerk PDFs on this site). Stay listed Tx `80347745` and fee opposition listed Tx `80348027`; the official stay and fee-opposition body images are not on disk. APP-003 filed August 31, 2026 (Tx `80503745`, DocID `10403681`).
 
 Hubs: [aug14-2026-appeal-stay-fees-cmc](03-CASE-CGC-25-631802/aug14-2026-appeal-stay-fees-cmc/README.md) · [defense moving papers as filed](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) · [Aug 26 court posture](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md) · [03-CASE-CGC-25-631802/INDEX.md](03-CASE-CGC-25-631802/INDEX.md).
 
@@ -247,17 +247,17 @@ Expanded, with pleading-paragraph citations: [DEFENSE-FATAL-FLAWS.md](DEFENSE-FA
 
 ## Where the record sits now
 
-| Proceeding | Posture as of August 27, 2026 | Next date |
-|------------|-------------------------------|-----------|
+| Proceeding | Posture as of September 9, 2026 register | Next date on that register |
+|------------|------------------------------------------|----------------------------|
 | CGC-21-594102 | Judgment entered; on appeal | See A173827 |
 | A173827 | Fully briefed August 20, 2026 | Argument not set |
-| CGC-25-631801 | Struck August 6; on appeal (First District number not yet assigned) | Sept 8, 2026, Dept. 301 (fees) |
-| CGC-25-631802 | Struck July 1; on appeal (First District number not yet assigned). Aug 26 Dept. 302 face ruling on CCP 391: "Off calendar. Case stayed." | Oct 6, 2026, Dept. 302 (391 continued; jurisdiction / *Pittman* briefs due Sept 22) |
+| CGC-25-631801 | Struck August 6; on appeal. APP-003 DocID `10403685`. First District number not on this register. Sept 8 fees off calendar. | Oct 21, 2026, 10:30 a.m., Dept. 610 (CMC) |
+| CGC-25-631802 | Struck July 1; on appeal. APP-003 DocID `10403681`. First District number not on this register. Aug 26 order DocID `10397483`. | Oct 6, 2026, 9:00 a.m., Dept. 302 (391 continued, seq 354); Oct 21 CMC |
 | Both 2025 cases | Case management statements filed August 14 | Oct 21, 2026, 10:30 a.m., Dept. 610 |
 
-**Appellate numbers are not yet assigned. Do not infer them.** Form APP-003 under rule 8.121 was due August 24, 2026, in each superior-court file. Form APP-004 waits on the Court of Appeal clerk's notice.
+**Appellate numbers for the August 14 notices are not on the September 9, 2026 register. Do not infer them.** APP-003 (no reporter's transcript) is on each superior-court file: 801 Tx `80503647`; 802 Tx `80503745`.
 
-Stay notices Tx `80347745` and `80347943` state a filed legal position under section 916 and *Varian*. The August 26 Department 302 face ruling on the section 391 motion ("Off calendar. Case stayed.") is a court ruling recognizing that stay problem. Exact citations: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md). The September 8, 2026 Department 301 fee hearing in 801 remains on the last register harvest unless a later minute says otherwise.
+Stay notices Tx `80347745` and `80347943` are on that register. The August 26 Department 302 clerk order is DocID `10397483`. Exact register citations: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md). September 8, 2026 Department 301 minutes take the 801 fee hearing off calendar pursuant to the August 19 notice.
 
 Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and posture memo: [ANALYSIS/AUG-2026-POSTURE.md](ANALYSIS/AUG-2026-POSTURE.md).
 

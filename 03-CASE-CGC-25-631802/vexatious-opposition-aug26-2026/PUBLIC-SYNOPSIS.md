@@ -1,7 +1,7 @@
 # August 26, 2026 - public synopsis (defense access/fee papers as filed)
 
 **Case:** CGC-25-631802 · **Hearing:** August 26, 2026, 9:00 a.m., Dept. 302  
-**Papers:** Operative opposition cohort (July 22, 2026 signature / POS dates). Portal Tx / DocIDs pending File & Serve confirmation.
+**Papers:** Operative opposition cohort July 22, 2026, Tx `80105728`. Clerk order August 26, 2026, DocID `10397483`.
 
 This page is a journalist-readable overview of papers already on file. Full PDFs: [hub README](README.md).
 

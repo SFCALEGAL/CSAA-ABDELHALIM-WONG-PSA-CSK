@@ -2,7 +2,9 @@
 
 | File | Status |
 |------|--------|
-| [STATE-2026-08-20.md](STATE-2026-08-20.md) | **Current** (GetROA Aug 20 9:16 am): 329 rows; NOA on ROA Tx `80347004`; CMC continued to Oct 21; Aug 26 still live |
+| [STATE-2026-09-09.md](STATE-2026-09-09.md) | **Current** (GetROA Sept 9 1:50 pm): 358 rows; APP-003 DocID `10403681`; access order DocID `10397483`; five official PDFs still missing |
+| [NEW-ENTRIES-20260909-802.md](NEW-ENTRIES-20260909-802.md) | 29 rows new since August 20 |
+| [STATE-2026-08-20.md](STATE-2026-08-20.md) | Prior (GetROA Aug 20 9:16 am): 329 rows; NOA on ROA Tx `80347004`; CMC continued to Oct 21 |
 | [ROA-AUDIT-2026-08-20.md](ROA-AUDIT-2026-08-20.md) | Calendar / Day Zero / harvest audit (August 20, 2026) |
 | [CALENDAR-2026-08-20.md](CALENDAR-2026-08-20.md) | Aug 26 defense access/fee hearing; Oct 21 CMC |
 | [STATE-2026-08-12.md](STATE-2026-08-12.md) | Prior (Aug 12 1:03 pm portal paste): newest ROA still July 28; CMC Sep 9 |
@@ -13,7 +15,7 @@
 | [STATE-2026-05-21.md](STATE-2026-05-21.md) | Superseded |
 | [ADMIN-VERIFY-2026-05-21.md](ADMIN-VERIFY-2026-05-21.md) | Attorney-facing dept. verification (historical) |
 
-Clerk register artifacts: [`REGISTER-OF-ACTIONS-20260820-802.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260820-802.md) · [`NEW-ENTRIES-20260820-802.md`](../../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260820-802.md) · [`register-20260820-802-MERGED.json`](../../../../CLERK-WEB-DOCKETS/_index/register-20260820-802-MERGED.json) · prior [`REGISTER-OF-ACTIONS-20260812-802.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260812-802.md) · prior [`REGISTER-OF-ACTIONS-20260727-802.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260727-802.md)
+Clerk register artifacts: [`REGISTER-OF-ACTIONS-20260909-802.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260909-802.md) · [`NEW-ENTRIES-20260909-802.md`](../../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260909-802.md) · prior [`REGISTER-OF-ACTIONS-20260820-802.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260820-802.md) · prior [`NEW-ENTRIES-20260820-802.md`](../../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260820-802.md)
 
 July 27 `STATE-2026-07-27.md` / `ROA-AUDIT-2026-07-27.md` were referenced from older hubs but were not present in this tree. Use the July 27 register artifacts plus [STATE-2026-08-20.md](STATE-2026-08-20.md).
 
