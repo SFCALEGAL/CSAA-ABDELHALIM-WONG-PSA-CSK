@@ -263,6 +263,18 @@ Calendar: [HEARINGS-CALENDAR.md](HEARINGS-CALENDAR.md). Register pull and postur
 
 ---
 
+## Commentary (not filings)
+
+> **This section is commentary.** It is not a court filing. It is not service. Publishing is not service and does not restart any Code of Civil Procedure section 128.7 period.
+
+| Commentary set | What it is |
+|----------------|------------|
+| [CSAA and Porter Scott correspondence](COMMENTARY/csaa-porter-scott-correspondence/README.md) | Index of every message in the Porter Scott mailbox export (sent and received), plus the `@csaa.com` subset, with links into the completeness set. Face-labeled commentary only. |
+
+Full message table: [COMMENTARY/csaa-porter-scott-correspondence/MESSAGE-INDEX.md](COMMENTARY/csaa-porter-scott-correspondence/MESSAGE-INDEX.md). Exclusions: [EXCLUSIONS.md](COMMENTARY/csaa-porter-scott-correspondence/EXCLUSIONS.md).
+
+---
+
 ## The correspondence archive
 
 Every communication published here was **actually sent**. Publishing it is not a filing, is not new service, and does not restart any section 128.7 period. Each item keeps the legal character it had on the day it was sent: a settlement communication stays a settlement communication, a safe-harbor letter stays a safe-harbor letter, and commentary stays commentary. Speech and petition are not the same right; the homepage states both: [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public).
@@ -309,6 +321,7 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 | Defense access/fee papers as filed | [vexatious-opposition-aug26-2026](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/README.md) | Defense moving papers after the strike orders; plaintiff's filed PDFs mirrored as filed |
 | Plaintiff-authored analysis | [ANALYSIS/README.md](ANALYSIS/README.md) | Long-form memos; not court filings |
 | Defense filings as filed | [DEFENSE-FILINGS/](DEFENSE-FILINGS/) | Clerk PDFs |
+| Commentary (CSAA / Porter Scott mail index) | [COMMENTARY/csaa-porter-scott-correspondence/](COMMENTARY/csaa-porter-scott-correspondence/README.md) | Commentary index of sent/received mail; not a filing list |
 | Correspondence | [correspondence/INDEX.md](correspondence/INDEX.md) | Class archive and completeness set |
 | Authorities | [LEGAL-AUTHORITIES.md](LEGAL-AUTHORITIES.md) | Mirrored opinions and statutes |
 | Evidence and media | [evidence.md](evidence.md) | 911 audio, body-worn camera, CAD |

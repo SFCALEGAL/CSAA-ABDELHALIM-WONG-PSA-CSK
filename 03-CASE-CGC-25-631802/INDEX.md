@@ -41,6 +41,14 @@
 
 ---
 
+## Related commentary (not filings)
+
+> **Commentary only.** Not a court filing. Not service. Publishing is not service and does not restart any Code of Civil Procedure section 128.7 period.
+
+Porter Scott / CSAA sent-and-received mail for these cases is indexed as commentary at [COMMENTARY/csaa-porter-scott-correspondence/](../COMMENTARY/csaa-porter-scott-correspondence/README.md). Message bodies remain in the [correspondence completeness set](../correspondence/full-archive/README.md).
+
+---
+
 ## Document metadata
 
 | Field | Value |

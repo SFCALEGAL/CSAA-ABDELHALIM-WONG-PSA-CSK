@@ -4,6 +4,8 @@ Public archive of Rosario-sent emails and letters to Porter Scott / CSAA through
 
 **Start here:** [INDEX.md](INDEX.md) (33-event curated class archive). **Completeness set:** [full-archive/README.md](full-archive/README.md). **Reservation:** [banners/reservation-of-rights.md](banners/reservation-of-rights.md).
 
+**Commentary index (not a filing list):** [CSAA and Porter Scott correspondence](../COMMENTARY/csaa-porter-scott-correspondence/README.md) lists every export message by date, direction, and subject, with links into this archive.
+
 ## Split labels (locked)
 
 | Class | What it was on the date sent | Face banner |
