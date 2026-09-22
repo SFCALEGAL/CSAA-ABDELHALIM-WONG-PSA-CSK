@@ -15,7 +15,7 @@
 | [STATE-2026-05-21.md](STATE-2026-05-21.md) | Superseded |
 | [ADMIN-VERIFY-2026-05-21.md](ADMIN-VERIFY-2026-05-21.md) | Attorney-facing dept. verification (historical) |
 
-Clerk register artifacts: [`REGISTER-OF-ACTIONS-20260909-802.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260909-802.md) · [`NEW-ENTRIES-20260909-802.md`](../../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260909-802.md) · prior [`REGISTER-OF-ACTIONS-20260820-802.md`](../../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260820-802.md) · prior [`NEW-ENTRIES-20260820-802.md`](../../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260820-802.md)
+Clerk register artifacts: [`REGISTER-OF-ACTIONS-20260909-802.md`](../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260909-802.md) · [`NEW-ENTRIES-20260909-802.md`](../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260909-802.md) · prior [`REGISTER-OF-ACTIONS-20260820-802.md`](../../../CLERK-WEB-DOCKETS/_index/REGISTER-OF-ACTIONS-20260820-802.md) · prior [`NEW-ENTRIES-20260820-802.md`](../../../CLERK-WEB-DOCKETS/_index/NEW-ENTRIES-20260820-802.md)
 
 July 27 `STATE-2026-07-27.md` / `ROA-AUDIT-2026-07-27.md` were referenced from older hubs but were not present in this tree. Use the July 27 register artifacts plus [STATE-2026-08-20.md](STATE-2026-08-20.md).
 

@@ -22,7 +22,7 @@ Plain-English list: [PUBLIC-SYNOPSIS.md](PUBLIC-SYNOPSIS.md)
 
 ## Stay notice (August 14, 2026) - Tx `80347745`
 
-The September 9, 2026 register lists the stay (seq 330, DocID `10377129`) and its proof of service (seq 331, DocID `10377130`). The official View download for those two DocIDs failed (HTML returned after session expiry). They are not copied here as clerk images. See [MISSING-OFFICIAL-DOCS-20260909.md](../../../../CLERK-WEB-DOCKETS/_index/MISSING-OFFICIAL-DOCS-20260909.md).
+The September 9, 2026 register lists the stay (seq 330, DocID `10377129`) and its proof of service (seq 331, DocID `10377130`). The official View download for those two DocIDs failed (HTML returned after session expiry). They are not copied here as clerk images. See [MISSING-OFFICIAL-DOCS-20260909.md](../../../CLERK-WEB-DOCKETS/_index/MISSING-OFFICIAL-DOCS-20260909.md).
 
 ## Fee opposition (August 14, 2026) - Tx `80348027`
 
