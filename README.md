@@ -5,11 +5,25 @@
 > **Speech and petition (governing).** This archive is published as speech. The lawsuits are filed as petitions. Those are two different rights. The homepage states them in full under [Speech, petition, and why this archive is public](#speech-petition-and-why-this-archive-is-public). Publishing a page here is not a filing, is not service, and does not restart any Code of Civil Procedure section 128.7 period.
 
 **Plaintiff:** Franciscus Dylan Rosario (in pro per)
-**Forums:** San Francisco Superior Court; California Court of Appeal, First Appellate District
-**Cases:** CGC-21-594102 (trial) · A173827 (appeal) · CGC-25-631801 (equity, on appeal) · CGC-25-631802 (denial-letter fraud, on appeal)
+**Forums:** San Francisco Superior Court; Contra Costa Superior Court; California Court of Appeal, First Appellate District
+**Cases:** CGC-21-594102 (trial) · A173827 (appeal) · CGC-25-631801 (equity, on appeal) · CGC-25-631802 (denial-letter fraud, on appeal) · C26-02801 (common-law deceit)
 **Last refresh:** September 22, 2026
 
-*San Francisco*
+## Contra Costa
+
+## Banner argument: C26-02801 and the core wrong
+
+> **This section is commentary published September 22, 2026.** It is not a court filing, is not service of any paper, and does not restart any Code of Civil Procedure section 128.7 period. The legal formulation was sent by email to CSAA and its counsel on September 22, 2026. The verified complaint is on file as Contra Costa Case No. C26-02801; the exact clerk filing date and a conformed-stamp image are not present in the local copy. Service of summons and complaint was not perfected as of September 22, 2026. Allegations remain unproven unless and until adjudicated.
+
+**The core wrong is independent common-law deceit about completed historical acts.** CSAA represented that it had "concluded our investigation" after "carefully reviewing the facts and circumstances." The filed complaint alleges that the claim file recorded no request, receipt, or review of the police-report-identified 911, body-worn-camera, and computer-aided-dispatch materials before closure. The action seeks reliance damages under Civil Code sections 1709, 1710, subdivision (1), and 3333. It does not seek private enforcement of Insurance Code section 790.03, policy benefits, or the value of the underlying bodily-injury claim.
+
+[*Moradi-Shalal v. Fireman's Fund Insurance Companies*](04-CASE-C26-02801/INDEX.md#the-preservation-clause) (1988) 46 Cal.3d 287, 304-305 expressly preserves appropriate traditional common-law actions against insurers, including fraud, while barring an implied private cause of action under section 790.03.
+
+**[Read the full legal argument and supporting record links.](04-CASE-C26-02801/INDEX.md)**
+
+---
+
+## San Francisco and appellate
 
 <a id="ten-defense-acts"></a>
 
@@ -63,7 +77,7 @@ The human story, told without names: **[Read the story, told without names](WHAT
 
 ---
 
-This page is written to be read start to finish. It is an analysis of four proceedings that share one evidentiary spine, told in the order the dispute actually developed: the two documents that cannot both be true, the trial that turned on them, the appeal from that trial, and the two 2025 actions that ask a court to look at the same contradiction from the equity side and the insurance side. For each proceeding: the question presented, where the defense stands, what the filed record shows, and what is scheduled next.
+This page is written to be read start to finish. It is an analysis of five proceedings that share one evidentiary spine, told in the order the dispute actually developed: the two documents that cannot both be true, the trial that turned on them, the appeal from that trial, the two 2025 actions, and the filed Contra Costa common-law deceit action. For each proceeding: the question presented, where the defense stands, and what the filed record shows.
 
 ---
 
@@ -119,7 +133,7 @@ On February 4, 2021 a pedestrian was struck in the crosswalk at Tehama and 5th S
 
 Two writings sit at the center. A February 2021 denial letter says an investigation was performed and concluded. January 2025 declarations, signed under penalty of perjury by defense counsel, say the product of that investigation was not in counsel's possession and was of unknown origin. Both cannot be true on the face of the record.
 
-Four proceedings take that single proposition and ask different courts different questions about it.
+Five proceedings take that single proposition and ask different courts different questions about it.
 
 | Proceeding | The question it asks | Posture |
 |---|---|---|
@@ -127,8 +141,9 @@ Four proceedings take that single proposition and ask different courts different
 | A173827 | Did legal error in that trial require reversal? | Merits briefs complete August 20, 2026; respondent opposition to the companion motion to disregard received September 1, 2026; argument not set |
 | CGC-25-631801 | Should the judgment be set aside because it was procured by extrinsic fraud? | Struck August 6, 2026; on appeal |
 | CGC-25-631802 | Was the 2021 denial letter itself an actionable misrepresentation? | Struck July 1, 2026; on appeal |
+| C26-02801 | Did CSAA commit common-law deceit by representing completed investigative acts that its claim file allegedly does not document? | Filed in Contra Costa Superior Court; exact clerk filing date not shown in the local copy; service not perfected as of September 22, 2026 |
 
-A fifth thing is now happening alongside all of it. After the fatal contradiction, and after choosing anti-SLAPP on a 2021 claims letter, the defense asked a trial court for an access bar and fees on the strength of the strike orders now on appeal. That is an escape from merits adjudication, not a separate story. On August 26, 2026, Department 302's court-sent face ruling on the CCP 391 access motion stated "Off calendar. Case stayed." Citation map: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md).
+A separate access motion is pending alongside those proceedings. After the contradiction, and after choosing anti-SLAPP on a 2021 claims letter, the defense asked a trial court for an access bar and fees on the strength of the strike orders now on appeal. On August 26, 2026, Department 302's court-sent face ruling on the CCP 391 access motion stated "Off calendar. Case stayed." Citation map: [AUG26-COURT-POSTURE-AND-391-FINALITY.md](03-CASE-CGC-25-631802/vexatious-opposition-aug26-2026/AUG26-COURT-POSTURE-AND-391-FINALITY.md).
 
 ---
 
@@ -247,12 +262,13 @@ Expanded, with pleading-paragraph citations: [DEFENSE-FATAL-FLAWS.md](DEFENSE-FA
 
 ## Where the record sits now
 
-| Proceeding | Posture as of September 9, 2026 register | Next date on that register |
-|------------|------------------------------------------|----------------------------|
+| Proceeding | Posture as of the cited record | Next date on that record |
+|------------|--------------------------------|--------------------------|
 | CGC-21-594102 | Judgment entered; on appeal | See A173827 |
 | A173827 | Fully briefed August 20, 2026 | Argument not set |
 | CGC-25-631801 | Struck August 6; on appeal. APP-003 DocID `10403685`. First District number not on this register. Sept 8 fees off calendar. | Oct 21, 2026, 10:30 a.m., Dept. 610 (CMC) |
 | CGC-25-631802 | Struck July 1; on appeal. APP-003 DocID `10403681`. First District number not on this register. Aug 26 order DocID `10397483`. | Oct 6, 2026, 9:00 a.m., Dept. 302 (391 continued, seq 354); Oct 21 CMC |
+| C26-02801 | Verified complaint filed in Contra Costa Superior Court; exact clerk filing date and conformed stamp not shown in the local copy; service not perfected as of September 22, 2026 | Department, judge, and first case-management date not verified |
 | Both 2025 cases | Case management statements filed August 14 | Oct 21, 2026, 10:30 a.m., Dept. 610 |
 
 **Appellate numbers for the August 14 notices are not on the September 9, 2026 register. Do not infer them.** APP-003 (no reporter's transcript) is on each superior-court file: 801 Tx `80503647`; 802 Tx `80503745`.
@@ -313,6 +329,7 @@ Overview and reading rules: [correspondence/full-archive/README.md](corresponden
 | Audience | Entry point | What it gives you |
 |----------|-------------|-------------------|
 | Anyone who has ever been denied | [WHAT-HAPPENS-TO-A-PERSON.md](WHAT-HAPPENS-TO-A-PERSON.md) | The human shape of a claim denial, told with no names and no case numbers |
+| Contra Costa common-law deceit | [C26-02801 core-wrong page](04-CASE-C26-02801/INDEX.md) | Filed complaint, *Moradi-Shalal* preservation clause, and supporting record links |
 | Speech and petition rights | [this page](#speech-petition-and-why-this-archive-is-public) · [reservation of rights](correspondence/banners/reservation-of-rights.md) · [personal dialogue](correspondence/banners/personal-dialogue.md) | First Amendment; California Constitution article I, sections 2, 3, 7, and 16 |
 | California counsel | [FOR-ATTORNEYS.md](FOR-ATTORNEYS.md) | One-page intake brief |
 | Journalists and writers | [JOURNALIST-NARRATIVE-THREE-CASES.md](JOURNALIST-NARRATIVE-THREE-CASES.md) | Newsroom narrative |

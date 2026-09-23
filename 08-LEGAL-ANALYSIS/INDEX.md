@@ -1,7 +1,7 @@
 # Legal Analysis
 
 **Case:** Rosario v. Abdelhalim et al.
-**Related Cases:** CGC-21-594102 | A173827 | CGC-25-631801 | CGC-25-631802
+**Related Cases:** CGC-21-594102 | A173827 | CGC-25-631801 | CGC-25-631802 | C26-02801
 
 [< Back to Case Record](../README.md) | [Case Overview](../ROSARIO.md) | [Evidence](../evidence.md)
 
@@ -61,6 +61,18 @@ Case-collective meet-and-confer letter and memorandum on the *Moradi-Shalal v. F
 
 ---
 
+### Contra Costa C26-02801: core wrong and common-law preservation
+
+**[../04-CASE-C26-02801/INDEX.md](../04-CASE-C26-02801/INDEX.md)**
+
+Public commentary published September 22, 2026, setting out the common-law deceit theory pleaded in the filed Contra Costa complaint. The page distinguishes the independently actionable representation of completed historical acts from a private Insurance Code section 790.03 claim, identifies the reliance-damages boundary, and links the filed or served record supporting the formulation.
+
+**Key topics:** Civil Code sections 1709 and 1710(1); *Moradi-Shalal* pages 304-305; completed-investigation representation; report-identified 911, body-worn-camera, and CAD evidence; later verdict; no private statutory cause of action.
+
+**Publication status:** The legal formulation was sent to CSAA and its counsel September 22, 2026. The verified complaint is on file as C26-02801; exact clerk filing date and conformed stamp are not shown in the local copy. Service of summons and complaint was not perfected as of September 22, 2026. Publishing is not service.
+
+---
+
 ### Anti-SLAPP rebuttal (CGC-25-631802)
 
 **[anti-slapp-rebuttal/INDEX.md](anti-slapp-rebuttal/INDEX.md)**
@@ -78,7 +90,7 @@ Authority-by-authority rebuttal to CSAA’s Anti-SLAPP memorandum (court file 10
 - **[RISK-AND-ECONOMICS.md](../RISK-AND-ECONOMICS.md)** (top level) and **[`risk-surface/`](../risk-surface/MASTER-CONSOLIDATED.md)**: consolidated dollar model (read **MASTER** and **RISK.SURFACE** for methodology).
 - **[DISCREPANCY-INTEGRATED-ANALYSIS.md](DISCREPANCY-INTEGRATED-ANALYSIS.md)**: integrated discrepancy analysis with court-reliance import.
 - **[bench-cards/README.md](bench-cards/README.md)**: Apr. 2026 judge-facing one-page authorities.
-- **[citation-validation/README.md](citation-validation/README.md)**: Apr. 23–24 citation checks.
+- **[citation-validation/README.md](citation-validation/README.md)**: Apr. 23-24 citation checks.
 - **[filing-hierarchy/FILING-HIERARCHY-RULES-BY-DEFENSE-POSTURE.md](filing-hierarchy/FILING-HIERARCHY-RULES-BY-DEFENSE-POSTURE.md)**: doctrinal filing-order note.
 - **[side-by-side/](side-by-side/)**: 801/802 authority crossrefs and motion inventory.
 - **[discovery-and-logic/](discovery-and-logic/)**: element maps and logic diagrams.
@@ -109,8 +121,9 @@ Senior-memorandum-style review of the April 2026 demurrer volley. Narrates what 
 |----------|-------|-------------|
 | Court Reliance Analysis | How the court was deceived and how it affected rulings | CGC-25-631801 (Equity) |
 | Fatal Proof (Dolan Admission) | The specific contradictions that prove the fraud | CGC-25-631801 (Equity) |
-| Journal Article | The strategic architecture across all proceedings | All four cases |
+| Journal Article | The strategic architecture across all proceedings | All five cases |
 | *Moradi-Shalal* carve-out hub | Common-law preservation clause; meet-and-confer + analysis (Apr. 27, 2026) | CGC-25-631801 · CGC-25-631802 |
+| C26-02801 core-wrong page | Independent common-law deceit; filed theory and supporting record | C26-02801 |
 | Anti-SLAPP rebuttal hub | CSAA Anti-SLAPP memorandum rebuttal; O’Connell declaration | CGC-25-631802 |
 | Demurrer rebuttal hub | Ground-by-ground review of the April 2026 demurrer volley; consequences to the defense | CGC-25-631802 |
 | Aug. 21 personal dialogue letter | First Amendment commentary to O'Connell; not a filing | All proceedings |
