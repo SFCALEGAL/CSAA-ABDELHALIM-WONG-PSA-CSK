@@ -2,7 +2,7 @@
 
 Public archive of Rosario-sent emails and letters to Porter Scott / CSAA through counsel. **This folder is not a filing.** It is not new service. It does not restart any Code of Civil Procedure section 128.7 clock.
 
-**Start here:** [INDEX.md](INDEX.md) (33-event curated class archive). **Completeness set:** [full-archive/README.md](full-archive/README.md). **Reservation:** [banners/reservation-of-rights.md](banners/reservation-of-rights.md).
+**Start here:** [INDEX.md](INDEX.md) (curated class archive, 44 events). **Completeness set:** [full-archive/README.md](full-archive/README.md). **Reservation:** [banners/reservation-of-rights.md](banners/reservation-of-rights.md).
 
 **Commentary index (not a filing list):** [CSAA and Porter Scott correspondence](../COMMENTARY/csaa-porter-scott-correspondence/README.md) lists every export message by date, direction, and subject, with links into this archive.
 
@@ -16,7 +16,7 @@ Public archive of Rosario-sent emails and letters to Porter Scott / CSAA through
 | Evidence Code 1152 | Settlement paper. Stays 1152. | [banners/settlement-1152.md](banners/settlement-1152.md) |
 | Service transmittal | Packet cover / POS cover. Stays service. Not new service. | [banners/service-transmittal.md](banners/service-transmittal.md) |
 
-Defense From (O'Connell, Schubert, Blithe) is **not** published in the 33-event class index as Rosario speech. Those inbound messages **are** published in [full-archive/inbound/](full-archive/inbound/) as defense speech, labeled as such. `_1.md` twins from the May 6, 2026 Porter Scott export are ignored. August 21, 2026 and August 27, 2026 personal dialogue letters are **not claimed served**.
+Defense From (O'Connell, Schubert, Blithe) is **not** published in the class index as Rosario speech. Those inbound messages **are** published in [full-archive/inbound/](full-archive/inbound/) as defense speech, labeled as such. `_1.md` twins from the May 6, 2026 Porter Scott export are ignored. August 21, 2026 and August 27, 2026 personal dialogue letters are **not claimed served**.
 
 Folders: [personal-dialogue/](personal-dialogue/) · [meet-and-confer/](meet-and-confer/) · [safe-harbor-1287/](safe-harbor-1287/) · [settlement-1152/](settlement-1152/) · [service-transmittal/](service-transmittal/) · [full-archive/](full-archive/)
 

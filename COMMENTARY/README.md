@@ -5,5 +5,6 @@
 | Set | Description |
 |-----|-------------|
 | [csaa-porter-scott-correspondence/](csaa-porter-scott-correspondence/README.md) | Index of CSAA and Porter Scott sent/received correspondence, linked into the existing completeness set |
+| [2026-09-22-defense-outbound/](2026-09-22-defense-outbound/README.md) | September 21-22, 2026 sent commentary and the served CGC-25-631802 papers from that day's mail. Not a filing list. |
 
 [Site root](../README.md)

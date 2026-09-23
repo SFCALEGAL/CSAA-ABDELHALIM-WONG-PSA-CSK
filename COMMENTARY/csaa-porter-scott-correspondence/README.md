@@ -29,7 +29,7 @@ A commentary entry point that **lists and links** every email in the existing pu
 | [full-archive README](../../correspondence/full-archive/README.md) | Completeness set reading rules |
 | [THREADS.md](../../correspondence/full-archive/THREADS.md) | 103 threads in ten chronological groups |
 | [UNREDACTED-COURT-SEEN.md](../../correspondence/full-archive/UNREDACTED-COURT-SEEN.md) | Court-seen IDs (zero redaction) |
-| [Curated class archive](../../correspondence/INDEX.md) | 33-event statutory / dialogue table |
+| [Curated class archive](../../correspondence/INDEX.md) | Statutory / dialogue table, including September 21-22, 2026 sent mail |
 
 ## Reading rules (publication gate)
 
@@ -46,8 +46,10 @@ These are commentary letters already on the site. Send status is **not claimed s
 - [LETTER-TO-OCONNELL-AUG21-2026.md](../../LETTER-TO-OCONNELL-AUG21-2026.md) · [email-ready twin](../../LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md)
 - [LETTER-TO-OCONNELL-AUG27-2026.md](../../LETTER-TO-OCONNELL-AUG27-2026.md) · [email-ready twin](../../LETTER-TO-OCONNELL-AUG27-2026-EMAIL.md)
 
-## Gmail live pull (this session)
+## Gmail live pull (September 22, 2026)
 
-Gmail MCP namespace `plugin-gmail-gmail` remained **unauthenticated** (`needsAuth`). No live Gmail bodies were added. Local export evidence above is the published set.
+The August 21, 2026 export remains the completeness set indexed in this folder. Mail after that export is not re-counted in the tables above.
+
+A later live pull is published separately: [September 21-22, 2026 outbound](../2026-09-22-defense-outbound/README.md). That hub is commentary. It is not a filing and it is not service.
 
 [Site root](../../README.md) · [Correspondence hub](../../correspondence/README.md)

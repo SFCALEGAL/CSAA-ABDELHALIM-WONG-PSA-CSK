@@ -41,6 +41,8 @@ The May 2026 scaffold packet at [POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL](P
 **August 20, 2026 hub:** [aug20-2026-reply/README.md](aug20-2026-reply/README.md)  
 **September 1, 2026 hub:** [sept1-2026-respondents-opp-disregard/README.md](sept1-2026-respondents-opp-disregard/README.md) · [PUBLIC-SYNOPSIS](sept1-2026-respondents-opp-disregard/PUBLIC-SYNOPSIS.md) (respondent opposition to the August 20 motion to disregard; Court of Appeal received watermark; no face FILE date or envelope ID)
 
+**File-stamped rehearing papers** attached to the September 21, 2026 commentary email: [sept-2026-rehearing/README.md](sept-2026-rehearing/README.md).
+
 | # | Document | PDF |
 |---|----------|-----|
 | 1 | Appellant's Opening Brief | [01-Appellants-Opening-Brief.pdf](01-Appellants-Opening-Brief.pdf) |

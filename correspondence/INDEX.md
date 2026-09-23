@@ -8,7 +8,7 @@ One row per **event** (not per `_1.md` twin). Canonical path is the public file 
 
 Reusable face banners: [reservation of rights](banners/reservation-of-rights.md) · [personal-dialogue](banners/personal-dialogue.md) · [meet-and-confer](banners/meet-and-confer.md) · [safe-harbor-1287](banners/safe-harbor-1287.md) · [settlement-1152](banners/settlement-1152.md) · [service-transmittal](banners/service-transmittal.md)
 
-**Completeness set:** [full-archive/README.md](full-archive/README.md) publishes Phase 1 of the August 21, 2026 Porter Scott mailbox export (challenged set, inbound defense mail, and court-staff mail). The 33-event table below remains the curated class archive. `full-archive/` is the completeness set. Inbound defense From is published there as defense speech, labeled as such. Court-staff mail is in [full-archive/court-staff/](full-archive/court-staff/) and is not Rosario speech. Publishing is not a filing, not new service, and does not restart any CCP 128.7 clock.
+**Completeness set:** [full-archive/README.md](full-archive/README.md) publishes Phase 1 of the August 21, 2026 Porter Scott mailbox export (challenged set, inbound defense mail, and court-staff mail). The event table below is the curated class archive. `full-archive/` is the completeness set. Inbound defense From is published there as defense speech, labeled as such. Court-staff mail is in [full-archive/court-staff/](full-archive/court-staff/) and is not Rosario speech. Publishing is not a filing, not new service, and does not restart any CCP 128.7 clock.
 
 **Rules observed**
 
@@ -23,7 +23,7 @@ Folder overview: [README.md](README.md)
 
 ---
 
-## Index (33 events)
+## Index (44 events)
 
 | Date | Subject | Class | Sent status | Canonical path |
 |------|---------|-------|-------------|----------------|
@@ -60,7 +60,18 @@ Folder overview: [README.md](README.md)
 | 2026-07-27 | CCP 128.7 safe-harbor on defense access/fee papers | Safe-harbor 128.7 | Standalone letter dated/served July 27, 2026 | [safe-harbor-1287/2026-07-27-1287-vexatious-802.md](safe-harbor-1287/2026-07-27-1287-vexatious-802.md) |
 | 2026-08-21 | Personal dialogue letter to Tyler J. O'Connell | Personal dialogue | Published; **not claimed served** | [STUB](personal-dialogue/STUB-2026-08-21-letter.md) · [LETTER-TO-OCONNELL-AUG21-2026.md](../LETTER-TO-OCONNELL-AUG21-2026.md) · [email twin](../LETTER-TO-OCONNELL-AUG21-2026-EMAIL.md) |
 | 2026-08-27 | Personal dialogue letter to Tyler J. O'Connell (post-Aug 26 stay / jurisdiction) | Personal dialogue | Published; **not claimed served**; Rule 3 spans redacted | [STUB](personal-dialogue/STUB-2026-08-27-letter.md) · [LETTER-TO-OCONNELL-AUG27-2026.md](../LETTER-TO-OCONNELL-AUG27-2026.md) · [email twin](../LETTER-TO-OCONNELL-AUG27-2026-EMAIL.md) |
+| 2026-09-21 2:20 p.m. | Commentary: WAIVER? Really? | Personal dialogue | Sent. Rule 3 spans redacted | [personal-dialogue/2026-09-21-commentary-waiver.md](personal-dialogue/2026-09-21-commentary-waiver.md) |
+| 2026-09-21 7:08 p.m. | Merits reply on the same thread | Personal dialogue | Sent | [personal-dialogue/2026-09-21-commentary-waiver-merits.md](personal-dialogue/2026-09-21-commentary-waiver-merits.md) |
+| 2026-09-21 9:20 p.m. | Voice-transcription reply | Personal dialogue | Sent | [personal-dialogue/2026-09-21-commentary-waiver-voice.md](personal-dialogue/2026-09-21-commentary-waiver-voice.md) |
+| 2026-09-22 8:24 a.m. | Professionalism reply | Personal dialogue | Sent. One attachment withheld | [personal-dialogue/2026-09-22-commentary-waiver-register.md](personal-dialogue/2026-09-22-commentary-waiver-register.md) |
+| 2026-09-22 9:45 a.m. | Declarations cover | Personal dialogue | Sent. Sender states filed; clerk transaction not shown | [personal-dialogue/2026-09-22-commentary-waiver-declarations.md](personal-dialogue/2026-09-22-commentary-waiver-declarations.md) |
+| 2026-09-22 9:48 a.m. | Professionalism record | Personal dialogue | Sent. Rule 3 span redacted | [personal-dialogue/2026-09-22-commentary-waiver-record.md](personal-dialogue/2026-09-22-commentary-waiver-record.md) |
+| 2026-09-22 12:03 p.m. | Excerpt declarations | Personal dialogue | Sent. Sender states filed; clerk transaction not shown | [personal-dialogue/2026-09-22-commentary-waiver-excerpts.md](personal-dialogue/2026-09-22-commentary-waiver-excerpts.md) |
+| 2026-09-22 2:13 p.m. | E-service of objection to the defense supplemental brief (802) | Service transmittal | Sent. Served; clerk filing not shown | [service-transmittal/2026-09-22-802-objection-defense-supp.md](service-transmittal/2026-09-22-802-objection-defense-supp.md) |
+| 2026-09-22 3:58 p.m. | Reply to Department 302 | Personal dialogue | Sent. Rule 3 span redacted | [personal-dialogue/2026-09-22-clerk-reply-objections.md](personal-dialogue/2026-09-22-clerk-reply-objections.md) |
+| 2026-09-22 4:32 p.m. | Public-records commentary | Personal dialogue | Sent | [personal-dialogue/2026-09-22-first-amendment-public-records.md](personal-dialogue/2026-09-22-first-amendment-public-records.md) |
+| 2026-09-22 8:23 p.m. | Contra Costa common-law deceit commentary | Personal dialogue | Sent | [personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md](personal-dialogue/2026-09-22-contra-costa-moradi-shalal.md) |
 
-**Row count:** 33 events.
+**Row count:** 44 events. Defense and court-staff messages from the same days are not rows in this table. They are linked from [COMMENTARY/2026-09-22-defense-outbound/](../COMMENTARY/2026-09-22-defense-outbound/README.md).
 
 [← Site root](../README.md) · [Hearings calendar](../HEARINGS-CALENDAR.md) · [Legal analysis](../08-LEGAL-ANALYSIS/INDEX.md) · [August 2026 posture](../ANALYSIS/AUG-2026-POSTURE.md)

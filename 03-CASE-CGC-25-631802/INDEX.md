@@ -47,6 +47,8 @@
 
 Porter Scott / CSAA sent-and-received mail for these cases is indexed as commentary at [COMMENTARY/csaa-porter-scott-correspondence/](../COMMENTARY/csaa-porter-scott-correspondence/README.md). Message bodies remain in the [correspondence completeness set](../correspondence/full-archive/README.md).
 
+September 22, 2026 mail on the supplemental-brief thread, including papers served that day (clerk filing not shown): [COMMENTARY/2026-09-22-defense-outbound/](../COMMENTARY/2026-09-22-defense-outbound/README.md) · [objection set](sept22-2026-objection-defense-supp/README.md) · [defense supplemental brief as received](sept22-2026-defense-supplemental-brief/README.md).
+
 ---
 
 ## Document metadata
