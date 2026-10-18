@@ -13,7 +13,8 @@
 7. [The principle reaches more than added language](#7-the-principle-reaches-more-than-added-language)
 8. [Why transmission is the critical dividing line](#8-why-transmission-is-the-critical-dividing-line)
 9. [What the record proved](#9-what-the-record-proved)
-    - [The chain required to prove the act](#the-chain-required-to-prove-the-act)
+    - [The chain proving the judicial act](#the-chain-proving-the-judicial-act)
+    - [What the sequence establishes](#what-the-sequence-establishes)
 10. [Notice of one version is not necessarily notice of another](#10-notice-of-one-version-is-not-necessarily-notice-of-another)
 11. [Post-transmission objection is different](#11-post-transmission-objection-is-different)
 12. [Judicial discretion has a procedural boundary](#12-judicial-discretion-has-a-procedural-boundary)
@@ -333,34 +334,63 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ## 9. What the record proved
 
-### The chain required to prove the act
+### The chain proving the judicial act
 
-The chain proves two propositions. The court authored the additional legal language. The response containing that language was treated on the record as having been issued to the jury.
+The record establishes two material propositions: **the court authored the additional legal language, and the response containing that language was treated on the record as having been communicated to the jury.**
 
-1. Rosario expressly identified both the addition and the sending on Request No. 2. 11 RT 8:7-12. "Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury."
-2. Immediately before that charge, the court had already claimed the street sentence as its own extra. That is express judicial authorship. 11 RT 7:27-8:6. "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
-3. Facing that charge, the court defended the substance of the addition. 11 RT 8:13-16. "It says, 'Highway includes street.'"
-4. "Before delivering it to the Jury" is express delivery of Request No. 1. It supplies the court's completed-delivery vocabulary. 11 RT 6:19-21. "The Court presented that response in Jury request number one to each party before delivering it to the Jury."
-5. The bridge is the plural. At 11 RT 10:4-8 the court is placing objections to completed forms 1 and 2 on the record. Acc. 9 then objects to "any of the material going back" and "any kind of clarification of vehicles" (11 RT 11:16-22). Then the court defends its authority to "issue these responses." Transmission of Request No. 2 is assembled from that sequence. 11 RT 11:28-12:4. "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
-6. Asked whether she had anything further, counsel joined the court's account. 11 RT 11:26-27. "I have nothing to add, Your Honor, to what Your Honor said."
+1. **Rosario expressly identified both acts as to Request No. 2: the addition and the transmission.**
+   At 11 RT 8:7-12, Rosario stated:
 
-The structure is therefore: the court admits authorship of the Request No. 2 addition; Rosario identifies that supplemented response as already sent; the court defends the added proposition; the court elsewhere describes delivery as completed and later defends its authority to "issue these responses."
+   > "Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury."
 
-Judicial authorship of the additional language is established expressly. Transmission of the supplemented responses is established by the recorded sequence, including Rosario's express identification of the completed act, the court's treatment of delivery as completed, and the court's subsequent defense of its authority to "issue these responses."
+   Rosario therefore placed both propositions directly before the court: the court added the language, and the supplemented response had already been sent back to the jury.
 
-| Question | Record evidence | Status |
-| --- | --- | --- |
-| Did the court add the language? | "gratuitous on the part of the Court"; "the Court is defining" | Expressly established |
-| Was the supplemented response communicated to the jury? | "you sent that back"; court's completed-delivery terminology; "discretion to issue these responses" | Strongly supported by the recorded sequence |
-| Did the court defend the substance of the addition? | "It says, 'Highway includes street.'" | Expressly established |
+2. **Immediately before that accusation, the court had expressly identified the additional language as judicially supplied.**
+   At 11 RT 7:27-8:6, the court stated:
 
-```mermaid
-flowchart TD
-  A[Express authorship of the Request No. 2 addition] --> C[Predicate judicial act]
-  B[Sequence-supported issuance of these responses] --> C
-```
+   > "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
 
-The disputed event is no longer hypothetical. The record establishes judicial authorship of the added legal information and strongly establishes that the supplemented response entered the jury-communication process.
+   That statement expressly attributes the addition to the court. Judicial authorship therefore does not depend upon inference.
+
+3. **When Rosario challenged the enhancement and its transmission, the court defended the substance of the added proposition.**
+   At 11 RT 8:13-16, the court responded:
+
+   > "It says, 'Highway includes street.'"
+
+   The court thus defended the legal content of the addition rather than treating the added language as something originating elsewhere.
+
+4. **The court separately described delivery to the jury as a completed act.**
+   With respect to Request No. 1, the court stated at 11 RT 6:19-21:
+
+   > "The Court presented that response in Jury request number one to each party before delivering it to the Jury."
+
+   That statement expressly describes completed delivery and establishes the court's own terminology for transmission of a jury response.
+
+5. **The plural reference to "these responses" connects the later discussion to the completed responses then under objection.**
+   At 11 RT 10:4-8, the court was placing objections to completed Responses Nos. 1 and 2 on the record. Rosario then objected to "any of the material going back" and to "any kind of clarification of vehicles." (11 RT 11:16-22.)
+
+   The court thereafter stated at 11 RT 11:28-12:4:
+
+   > "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
+
+   The plural matters. The court was defending its authority to issue the responses then under discussion, not merely Request No. 1.
+
+6. **Defense counsel added no competing account.**
+   When asked whether she had anything further, counsel stated at 11 RT 11:26-27:
+
+   > "I have nothing to add, Your Honor, to what Your Honor said."
+
+### What the sequence establishes
+
+The recorded sequence is therefore:
+
+**The court expressly identified the Request No. 2 addition as its own. Rosario expressly identified the supplemented response as having been sent back to the jury. The court defended the added legal proposition. The court elsewhere described jury-response delivery as a completed act and subsequently defended its authority to "issue these responses."**
+
+Judicial authorship of the additional language is therefore **expressly established**.
+
+Transmission of the supplemented response is established by the record as a whole: Rosario expressly identified the completed transmission, the court treated jury-response delivery as an accomplished act, and the court later defended its authority to issue the responses then under objection.
+
+The remaining question is different. These passages establish the **judicial act**: addition and transmission. They do not themselves establish whether the parties received notice of the additional language before that transmission. That is the separate section 614 question.
 
 ---
 
