@@ -190,12 +190,12 @@ The object of the statutory protection is the information given.
 
 That distinction matters.
 
-| What occurred | What it establishes | What it does not establish |
-| --- | --- | --- |
-| Notice that the jury asked a question | Notice of the request | Notice of what the court will tell the jury |
-| Notice of one proposed response | Notice of that writing | Notice of a materially different response |
-| Notice of one legal proposition | Notice of that proposition | Notice of a later inserted proposition |
-| Opportunity to object after transmission | A later challenge | The opportunity the statute places before the information is given |
+| What occurred | What it establishes |
+| --- | --- |
+| Notice that the jury asked a question | Notice of the request |
+| Notice of one proposed response | Notice of that writing |
+| Notice of one legal proposition | Notice of that proposition |
+| Opportunity to object after transmission | A later challenge |
 
 Section 614 therefore places a procedural boundary around the court's substantive authority.
 
@@ -334,11 +334,7 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ## 9. What the record proved
 
-Rosario’s accusation concerned three linked facts: the court changed the response by adding legal language, Rosario had not seen that enhancement, and the court sent the changed response back to the jury. Thus, the asserted defect was not merely that the court authored and transmitted the addition; it was that the court transmitted a materially changed response that Rosario had not been shown. The court did not answer by saying that Rosario had seen the completed language before transmission, that the response had not been changed, or that the changed response had not been sent.
-
-Instead, it defended the substance of the addition as legally correct. The resulting inference is therefore more specific: the dispute was not whether Rosario had previously been shown the added language, but whether the court was entitled to add and transmit that language as it did. On that exchange, Rosario’s lack of prior notice of the enhancement was left unrebutted while the court defended the propriety of the completed judicial act.
-
-Applied here, the record therefore supports the inference that the court was defending the legality of adding and transmitting the language, not disputing that the addition and transmission occurred.
+Rosario charged the completed enhancement and its return. At 11 RT 8:7-12 he said: "You enhanced it by adding that highways also indicates street. ... You enhanced the statement and you sent that back." At 11 RT 10:12 he said: "That wasn't our understanding." The court had already attributed the addition to itself: "even if this was something that was gratuitous on the part of the Court, the Court is defining." Facing the charge, the court defended the added words: "It says, 'Highway includes street.'"
 
 ### The chain proving the judicial act
 
@@ -356,7 +352,7 @@ The record establishes two material propositions: **the court authored the addit
 
    > "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
 
-   That statement expressly attributes the addition to the court. Judicial authorship therefore does not depend upon inference.
+   That statement expressly attributes the addition to the court. Judicial authorship is the court's own statement.
 
 3. **When Rosario challenged the enhancement and its transmission, the court defended the substance of the added proposition.**
    At 11 RT 8:13-16, the court responded:
@@ -379,9 +375,9 @@ The record establishes two material propositions: **the court authored the addit
 
    > "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
 
-   The plural matters. The court was defending its authority to issue the responses then under discussion, not merely Request No. 1.
+   The plural matters. The court was defending its authority to issue the responses then under discussion.
 
-6. **Defense counsel added no competing account.**
+6. **Defense counsel joined the court's account.**
    When asked whether she had anything further, counsel stated at 11 RT 11:26-27:
 
    > "I have nothing to add, Your Honor, to what Your Honor said."
@@ -396,7 +392,7 @@ Judicial authorship of the additional language is therefore **expressly establis
 
 Transmission of the supplemented response is established by the record as a whole: Rosario expressly identified the completed transmission, the court treated jury-response delivery as an accomplished act, and the court later defended its authority to issue the responses then under objection.
 
-The remaining question is different. These passages establish the **judicial act**: addition and transmission. They do not themselves establish whether the parties received notice of the additional language before that transmission. That is the separate section 614 question.
+These passages establish the **judicial act**: addition and transmission.
 
 ---
 
@@ -414,13 +410,7 @@ The jury receives Set 2.
 
 The statutory question concerns Set 2.
 
-Showing the parties Set 1 establishes that the parties saw Set 1.
-
-It does not answer whether the parties received notice of the material difference between Set 1 and Set 2 before Set 2 was transmitted.
-
-Otherwise, the first presentation would function as an unlimited authorization for later judicial modifications.
-
-Section 614 contains no obvious reason to treat notice that broadly.
+Showing the parties Set 1 establishes that the parties saw Set 1. The statutory object is Set 2, the writing the jury received.
 
 The information that matters is the substantive judicial communication actually given to the jury.
 
@@ -432,16 +422,14 @@ flowchart TD
   D --> E[Jury receives Set 2]
   E --> F[Section 614 attaches to Set 2]
   B --> G[Notice of Set 1 established]
-  G -.->|does not, without more, become| F
 ```
 
 | Writing | What notice of that writing proves |
 | --- | --- |
 | Set 1 | The parties saw Set 1 |
 | Set 2, the writing given | The statutory object |
-| Set 1 used as notice of Set 2 | An inference the statute does not supply |
 
-The comparison is between two writings. Set 1 is the writing the parties addressed. Set 2 is the writing the jury received. Section 614 names the information given. The information given is Set 2. Treating notice of Set 1 as notice of Set 2 converts an earlier discussion into a standing waiver of later judicial changes. The ramification statewide is that a court could show one definition, add a second definition, transmit the second, and then treat the first showing as the statutory opportunity. The party would have addressed a different page. Review would then be asked to call that address consent. The statute supplies no such substitution. Notice follows the writing that entered the jury room.
+The comparison is between two writings. Set 1 is the writing the parties addressed. Set 2 is the writing the jury received. Section 614 names the information given. The information given is Set 2. Notice follows the writing that entered the jury room.
 
 ---
 
@@ -537,13 +525,13 @@ A reviewing court should therefore distinguish among:
 5. Failure to object after adequate notice.
 6. Actual assent to the completed substantive communication ultimately transmitted.
 
-Those are not automatically equivalent.
+Each label names a different object.
 
-If the challenged error is a judicial addition, modification, restriction, refusal, or other substantive change, the preservation inquiry should ask whether the party had the statutory opportunity to address **that challenged act** before it occurred.
+If the challenged act is a judicial addition, modification, restriction, refusal, or other substantive change, the preservation inquiry asks whether the party had the statutory opportunity to address **that challenged act** before it occurred.
 
-The court should not be permitted to collapse a series of distinct propositions into one generalized finding of "agreement" without identifying what the party actually accepted.
+A finding of agreement identifies the proposition the party accepted.
 
-The comparison among those six labels is a comparison of objects. Agreement to a research limit is agreement that jurors may not apply uninstructed law. It is not agreement to a later refusal of requested statutes, or to a later inserted definition. Acquiescence in a procedural step is a position on that step. Failure to object after adequate notice is a position on the noticed writing. Actual assent to the completed communication is the only one of the six that matches the 614 object. The ramification on review is invited-error and forfeiture doctrine. Those doctrines follow the act the party induced or declined to challenge. They do not convert assent to one writing into assent to a different writing the party was not shown. A composite finding of "agreement to the response" erases that assignment. It treats Set 1 conduct as Set 2 consent.
+Agreement to a research limit is agreement that jurors may not apply uninstructed law. Agreement to a later refusal, or to a later inserted definition, is agreement to that later writing. Acquiescence in a procedural step is a position on that step. Failure to object after adequate notice is a position on the noticed writing. Actual assent to the completed communication is assent to that communication. Waiver, forfeiture, and invited error follow the writing the party addressed. A composite finding of "agreement to the response" treats Set 1 conduct as Set 2 consent.
 
 ---
 
