@@ -349,7 +349,7 @@ Before that charge, the court had already called the addition its own extra. At 
 
 > "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
 
-"Gratuitous on the part of the Court" admits the extra. "The Court is defining" assigns the extra to the court. The added proposition is that highway includes street.
+"Gratuitous on the part of the Court" admits the extra. "The Court is defining" assigns the extra to the court. "I find no harm nor prejudice" is the court's answer to that extra as something already given. The added proposition is that highway includes street.
 
 Facing the charge, the court stood on those words. At 11 RT 8:13-16 the court responded:
 
@@ -381,7 +381,7 @@ The court thereafter stated at 11 RT 11:28-12:4:
 
 > "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
 
-The plural covers the two completed responses then under discussion. Counsel joined that account. At 11 RT 11:26-27 she stated: "I have nothing to add, Your Honor, to what Your Honor said."
+The plural covers the two completed responses then under discussion. It comes after Rosario's accusation that information was sent to the jury. The court's reasons for those two replies are already on the record. On Reply No. 1 the court said the sections "were not part of the evidence." On Reply No. 2 the court said "I find no harm nor prejudice." "Issue these responses" is the later plural. Together, those answers admit the giving: the changed replies were issued to the jury. Counsel joined that account. At 11 RT 11:26-27 she stated: "I have nothing to add, Your Honor, to what Your Honor said."
 
 ### What the sequence establishes
 
@@ -389,7 +389,7 @@ On Reply No. 2, the court admits the gratuity of adding that highway includes st
 
 On Reply No. 1, Rosario accepted "You may not consider it because it is not part of the instructions" and charged "when you added that into the second one." The court then read the sent reply, "nor will the Court instruct the Jury on those provisions," and stated that those sections were not part of the evidence. That is the court's admission of the change in that reply.
 
-The court admits both. Each admission is a change in the reply sent to the jury. Reply No. 2 is the added street sentence. Reply No. 1 is the added refusal to instruct.
+The court admits both changes, and the court admits the giving. Reply No. 2 is the added street sentence, answered by "I find no harm nor prejudice." Reply No. 1 is the added refusal to instruct, answered by "were not part of the evidence." After those accusations, the court said, in the plural, that it was within its discretion to "issue these responses." That is the admission that the changed replies were given to the jury.
 
 ---
 
