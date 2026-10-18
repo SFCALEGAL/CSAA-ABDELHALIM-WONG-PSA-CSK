@@ -28,6 +28,16 @@ Rosario and **multiple witnesses on the Rosario legal team** identify the same d
 
 Courtroom personnel also included the **bailiff, court reporter, and clerks**. In the cited confrontation, the judge identified no corroborating statement from these court personnel and brought forward no staff witness, distribution timestamp, or transmission log establishing prior disclosure of the completed Reply No. 2 enhancement. Rosario advances this absence of contemporaneous corroboration, in conjunction with his immediate objection and the Rosario legal-team witnesses, as circumstantial support for the claimed chronology.
 
+### The judge’s account and the absence of court-staff corroboration
+
+**The competing accounts are concrete.** Judge Wong affirmatively represented that **Reply No. 1** had been presented to the parties before delivery (11 RT 6:19–21). Rosario alleges that the **completed enhancement to Reply No. 2** reached the deliberating jury before he and **multiple witnesses on the Rosario legal team** received it for review. These assertions concern distinguishable jury replies, and the delivery sequence of the challenged enhancement is the central factual dispute.
+
+**The clerk’s participation is recorded.** The judge stated that his courtroom clerk had informed him Rosario wanted his objections to **Jury Request Forms Nos. 1 and 2** placed on the record (11 RT 10:4–8). When the judge then asserted a lack of contemporaneous objection, Rosario immediately responded, **“That wasn't our understanding”** (11 RT 10:9–12). The record therefore identifies the clerk as involved in bringing Rosario’s challenge before the court.
+
+**The cited hearing exchange contains no corroboration from the court’s clerk, bailiff, or reporter confirming advance disclosure of the completed Reply No. 2 enhancement.** It identifies no distribution log, timestamp, or other contemporaneous court record establishing the time that the enhanced response was provided to Rosario relative to its transmission to the jury. The judge’s recorded discussion instead addresses the accuracy of the information and his authority to issue it (11 RT 8:13–16; 11:28–12:4).
+
+**Rosario’s inference:** Multiple witnesses on the Rosario legal team support his account of receiving the enhanced communication after jury transmission. Against that account, the judge’s recorded assertion of presentation concerning Reply No. 1 has no identified court-staff or time-record corroboration establishing advance disclosure of the **different, materially enhanced Reply No. 2**. Rosario asks the reviewing court to treat this evidentiary contrast as a reason to resolve the delivery chronology directly, rather than accepting judicial discretion or substantive accuracy as a substitute for section 614 compliance.
+
 **The witnesses did not need to recite “section 614” or “Fourteenth Amendment” to describe the challenged conduct.** The factual accusation was that the court **enhanced the communication, sent it to the jury, and left Rosario without prior review of the completed enhancement**. Section 614 and due process give that factual charge its legal significance.
 
 ## The judge’s recorded response to the accusation
@@ -119,6 +129,37 @@ The following preserve Rosario’s ten accusations and preservation statements w
 > “The jurors -- I just went over that, the jurors having access to extemporaneous information, first off; second off, you sending back enhancements to a testimony that was not in, and any of the enhancements or any of the evidence would be used in their assessment.”
 
 **Affirmative inference:** Rosario renewed the charge of the judge sending enhancements after being asked to identify irregularities.
+
+## Eight modify-and-send pairings: the cumulative delivery accusation
+
+The **pairing is the inference**: a judicial addition, clarification, or enhancement, together with its delivery to the deliberating jury. These eight formulations recur across Rosario’s ten recorded charges. They identify the **completed judicial act** rather than merely challenging the accuracy of the legal language. Items 5 and 8 are the clearest direct enhancement-and-sending formulations.
+
+**Modified + already sent = the completed modified communication entered the jury's deliberations.** Paired with the judge's assertion that a response was presented before delivery, Rosario argues the record presents a further, contested inference: **the completed enhancement was sent without prior presentation to Rosario**. Rosario states that multiple witnesses on his legal team observed that sequence. Section 614 provides the statutory presence-or-notice requirement; the construction urged here would apply meaningful advance notice to a material change in the final information delivered.
+
+| Pairing | Pinpoint | Rosario’s words identifying modification + transmission | Affirmative inference advanced |
+|---|---|---|---|
+| **1** | **11 RT 4:1–7** | “clarified … by submitting” a Vehicle Code; “you had inserted information into the Jury” | The judge supplied additional legal information to deliberating jurors. |
+| **2** | **11 RT 4:11–14** | “when you added that into the second one” and the jury then had to decide | Rosario identified judicially added material operating in the jury's decision. The precise target is supplied by the surrounding exchange. |
+| **3** | **11 RT 4:26–5:8** | “new information has been inserted by yourself”; “You provided a code” | Rosario identified the judge as the source of additional information provided to jurors. |
+| **4** | **11 RT 5:20–27** | “Inserting that information into the Jury after the fact, after they have gone into the sealed room” | Rosario located the delivery during jury deliberations. |
+| **5** | **11 RT 8:7–12** | “You enhanced it”; “You enhanced the statement and you sent that back”; “Inaccurate, Your Honor” | The specific, completed Reply No. 2 enhancement and transmission are charged directly to the judge. |
+| **6** | **11 RT 10:27–11:7** | “did object to any language or materials sent back”; material “defined by yourself to the Jury themselves” | Rosario coupled the judge's definition with delivery and asserted an objection concerning those materials. |
+| **7** | **11 RT 11:16–22** | “objected to any of the material going back”; “any kind of clarification of vehicles” | Rosario identified the legal clarification and objected to its sending. |
+| **8** | **11 RT 13:17–22** | “you sending back enhancements” | Rosario expressly renewed the charge that court-generated enhancements were sent to the jury. |
+
+### Correlation with the judge's presentation claim
+
+At **11 RT 6:19–21**, Judge Wong stated: **“The Court presented that response in Jury request number one to each party before delivering it to the Jury.”** The express referent is **Reply No. 1**. The judge then discussed **Reply No. 2**, and Rosario's subsequent **“Inaccurate, Your Honor”** accused the judge of **enhancing and sending** its highway/street language. **11 RT 8:7–12.** The transcript thus presents a judicial prior-presentation claim for one response and a particularly specific enhancement-and-delivery accusation concerning another.
+
+**Correlated inference — the missing prior presentation.** Rosario's eight pairings consistently describe added or clarified information **already directed into the jury's deliberations**. His accusation at 11 RT 8:7–12 challenges the enhanced and already-transmitted response. Read with Rosario's account and the witnesses on his legal team, these statements advance the inference that **the material completion of Reply No. 2 was received by the jury before Rosario was shown that completed enhancement**. This is the factual sequence on which his claimed §614 violation rests.
+
+**Correlated inference — accuracy versus delivery.** In response to the specific enhanced-and-sent accusation, the judge offered the statutory text at **11 RT 8:13–16**. Later, he defended his **“discretion to issue these responses”** at **11 RT 11:28–12:4**. The response concerned **authority to issue** and **accuracy of the legal wording**; Rosario's charge concerned the court's **manner and sequence of delivery**. The contrast is the center of the procedural argument.
+
+**Correlated inference — renewed accusation and court response.** Following the court's invitation to identify irregularities, Rosario again stated **“you sending back enhancements”** (**11 RT 13:17–22**). The court discussed the prematurity of relief under §657 (**11 RT 13:23–25**). The renewed charge and response preserve the issue as a recorded dispute about the court's completed communication.
+
+**Correlated inference — witnesses and court-administered records.** Rosario identifies **multiple witnesses on his legal team** who observed the sequence. The clerk was sufficiently involved that the judge reported she had conveyed Rosario's request to enter objections to both jury-response forms (**11 RT 10:4–8**). The cited recorded confrontation contains **no statement by the clerk, bailiff, or court reporter refuting Rosario's delivery allegations**, and the judge identified **no clerk's delivery notation, timestamped transmission record, or other staff corroboration** establishing that the completed Reply No. 2 enhancement was shown before jury delivery. Rosario advances this juxtaposition as circumstantial support for his delivery account.
+
+**The composite record:** **eight modify-and-send pairings**, including a **specific enhanced-and-sent charge** and its **later renewal**; a **judicial claim of prior presentation concerning Reply No. 1**; judicial responses invoking **statutory correctness, discretion, and the timing of relief**; and **multiple Rosario legal-team witnesses** set against the absence of identified **court-staff corroboration of advance delivery** in the cited hearing exchange. Together, these facts and attributed inferences provide the route to the mandatory statutory procedure and the claimed due-process deprivation.
 
 ## Correlation of each judicial response to the statutory question
 
