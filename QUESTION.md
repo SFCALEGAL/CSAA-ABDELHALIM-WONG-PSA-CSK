@@ -335,7 +335,7 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ## 9. What the record proved
 
-Two jury replies. Two writings. The admission that matters is Reply No. 2. Reply No. 1 is a separate charge and a separate answer.
+Two jury replies. Two writings. The court admits a material change in each reply it sent. The question here is that change. It is not whether withholding the requested law was correct.
 
 ### Reply No. 2
 
@@ -363,9 +363,9 @@ Reply No. 1 is a different writing. Rosario's agreement and his charge of a chan
 
 At 11 RT 4:8-14 he agreed to the original: "You may not consider it because it is not part of the instructions." He then charged the change: "But when you added that into the second one."
 
-After that discussion, the court read its completed answer, including "nor will the Court instruct the Jury on those provisions." (11 RT 6:23-27.) The court then gave its reason for withholding those sections. At 11 RT 7:4-9 the court said sections 22107 and 21804(a) "were not part of the evidence," and that the jury is "not permitted to consider that as evidence in the case, period."
+After that discussion, the court read the reply it sent, including "nor will the Court instruct the Jury on those provisions." (11 RT 6:23-27.) The agreed sentence was a limit on the jurors: they may not consider material that is not in the instructions. The sent sentence is a limit on the court: the court will not instruct. At 11 RT 7:4-9 the court identified that sent reply as its own act. It said sections 22107 and 21804(a) "were not part of the evidence," and that the jury is "not permitted to consider that as evidence in the case, period."
 
-That is the court's answer to the charge that Reply No. 1 was materially changed from the agreement. The court states the completed refusal, and states that it withheld the instruction because the sections were not in the evidence.
+That is the court's admission of the change on Reply No. 1. The sent reply is a different writing from the sentence Rosario accepted. The evidence sentence is the court stating the reply it issued. It is not a decision, on this page, that the withholding was legally wrong.
 
 Delivery of this reply is named as its own act. At 11 RT 6:19-21 the court stated:
 
@@ -385,11 +385,11 @@ The plural covers the two completed responses then under discussion. Counsel joi
 
 ### What the sequence establishes
 
-On Reply No. 2, the court admits the gratuity of adding that highway includes street, and stands on those words. Rosario charged that enhancement as sent back.
+On Reply No. 2, the court admits the gratuity of adding that highway includes street, and stands on those words. Rosario charged that enhancement as sent back. That is a material change in the reply that went to the jury.
 
-On Reply No. 1, after Rosario charged a change from the agreed sentence, the court read the completed refusal and said it withheld the instruction because the sections were not part of the evidence.
+On Reply No. 1, Rosario accepted "You may not consider it because it is not part of the instructions" and charged "when you added that into the second one." The court then read the sent reply, "nor will the Court instruct the Jury on those provisions," and stated that those sections were not part of the evidence. That is the court's admission of the change in that reply.
 
-Those are two admissions, on two writings. On each reply, the court states the changed writing as its own before that writing is treated as issued to the jury.
+The court admits both. Each admission is a change in the reply sent to the jury. Reply No. 2 is the added street sentence. Reply No. 1 is the added refusal to instruct.
 
 ---
 
