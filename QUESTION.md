@@ -13,7 +13,8 @@
 7. [The principle reaches more than added language](#7-the-principle-reaches-more-than-added-language)
 8. [Why transmission is the critical dividing line](#8-why-transmission-is-the-critical-dividing-line)
 9. [What the record proved](#9-what-the-record-proved)
-    - [The chain proving the judicial act](#the-chain-proving-the-judicial-act)
+    - [Reply No. 2](#reply-no-2)
+    - [Reply No. 1](#reply-no-1)
     - [What the sequence establishes](#what-the-sequence-establishes)
 10. [Notice of one version is not necessarily notice of another](#10-notice-of-one-version-is-not-necessarily-notice-of-another)
 11. [Post-transmission objection is different](#11-post-transmission-objection-is-different)
@@ -334,65 +335,61 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ## 9. What the record proved
 
-Rosario accepted the original and charged the additional modification. At 11 RT 4:8-14 he said he agreed with the first response, "You may not consider it because it is not part of the instructions," and then: "But when you added that into the second one." At 11 RT 8:7-12 he charged the street addition and its return: "You enhanced it by adding that highways also indicates street. ... You enhanced the statement and you sent that back." At 11 RT 10:12 he said: "That wasn't our understanding." The court admits the gratuity of adding that highway includes street. At 11 RT 7:27-8:2 the court said: "even if this was something that was gratuitous on the part of the Court, the Court is defining." At 11 RT 8:13-16 the court stood on the added words: "It says, 'Highway includes street.'"
+Two jury replies. Two writings. The admission that matters is Reply No. 2. Reply No. 1 is a separate charge and a separate answer.
 
-### The chain proving the judicial act
+### Reply No. 2
 
-The record establishes two material propositions: **the court authored the additional legal language, and the response containing that language was treated on the record as having been communicated to the jury.**
+The court admits the gratuity of adding that highway includes street.
 
-1. **Rosario expressly identified both acts as to Request No. 2: the addition and the transmission.**
-   At 11 RT 8:7-12, Rosario stated:
+Rosario charged that addition and its return. At 11 RT 8:7-12 he stated:
 
-   > "Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury."
+> "Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury."
 
-   Rosario therefore placed both propositions directly before the court: the court added the language, and the supplemented response had already been sent back to the jury.
+Before that charge, the court had already called the addition its own extra. At 11 RT 7:27-8:6 the court stated:
 
-2. **The court admits the gratuity of adding that highway includes street.**
-   At 11 RT 7:27-8:6, the court stated:
+> "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
 
-   > "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
+"Gratuitous on the part of the Court" admits the extra. "The Court is defining" assigns the extra to the court. The added proposition is that highway includes street.
 
-   "Gratuitous on the part of the Court" is the court's admission that the street sentence was an extra act of the court. "The Court is defining" assigns that extra to the court. The added proposition is that highway includes street.
+Facing the charge, the court stood on those words. At 11 RT 8:13-16 the court responded:
 
-3. **When Rosario challenged the enhancement and its transmission, the court defended the substance of the added proposition.**
-   At 11 RT 8:13-16, the court responded:
+> "It says, 'Highway includes street.'"
 
-   > "It says, 'Highway includes street.'"
+That is Reply No. 2. The street sentence is the writing the court called gratuitous.
 
-   That is the same added proposition the court had just called gratuitous. The court stood on "Highway includes street" as its own definition.
+### Reply No. 1
 
-4. **The court separately described delivery to the jury as a completed act.**
-   With respect to Request No. 1, the court stated at 11 RT 6:19-21:
+Reply No. 1 is a different writing. Rosario's agreement and his charge of a change belong here, not on the street sentence.
 
-   > "The Court presented that response in Jury request number one to each party before delivering it to the Jury."
+At 11 RT 4:8-14 he agreed to the original: "You may not consider it because it is not part of the instructions." He then charged the change: "But when you added that into the second one."
 
-   That statement expressly describes completed delivery and establishes the court's own terminology for transmission of a jury response.
+After that discussion, the court read its completed answer, including "nor will the Court instruct the Jury on those provisions." (11 RT 6:23-27.) The court then gave its reason for withholding those sections. At 11 RT 7:4-9 the court said sections 22107 and 21804(a) "were not part of the evidence," and that the jury is "not permitted to consider that as evidence in the case, period."
 
-5. **The plural reference to "these responses" connects the later discussion to the completed responses then under objection.**
-   At 11 RT 10:4-8, the court was placing objections to completed Responses Nos. 1 and 2 on the record. Rosario then objected to "any of the material going back" and to "any kind of clarification of vehicles." (11 RT 11:16-22.)
+That is the court's answer to the charge that Reply No. 1 was materially changed from the agreement. The court states the completed refusal, and states that it withheld the instruction because the sections were not in the evidence.
 
-   The court thereafter stated at 11 RT 11:28-12:4:
+Delivery of this reply is named as its own act. At 11 RT 6:19-21 the court stated:
 
-   > "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
+> "The Court presented that response in Jury request number one to each party before delivering it to the Jury."
 
-   The plural matters. The court was defending its authority to issue the responses then under discussion.
+That sentence is Reply No. 1. It is not the street sentence.
 
-6. **Defense counsel joined the court's account.**
-   When asked whether she had anything further, counsel stated at 11 RT 11:26-27:
+### Both completed responses
 
-   > "I have nothing to add, Your Honor, to what Your Honor said."
+At 11 RT 10:4-8 the court was placing objections to completed Responses Nos. 1 and 2 on the record. Rosario then objected to "any of the material going back" and to "any kind of clarification of vehicles." (11 RT 11:16-22.)
+
+The court thereafter stated at 11 RT 11:28-12:4:
+
+> "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
+
+The plural covers the two completed responses then under discussion. Counsel joined that account. At 11 RT 11:26-27 she stated: "I have nothing to add, Your Honor, to what Your Honor said."
 
 ### What the sequence establishes
 
-The recorded sequence is therefore:
+On Reply No. 2, the court admits the gratuity of adding that highway includes street, and stands on those words. Rosario charged that enhancement as sent back.
 
-**Rosario accepted the original and charged the added street sentence as sent back. The court admits the gratuity of adding that highway includes street, and stood on those words as its own definition. The court elsewhere described jury-response delivery as a completed act and subsequently defended its authority to "issue these responses."**
+On Reply No. 1, after Rosario charged a change from the agreed sentence, the court read the completed refusal and said it withheld the instruction because the sections were not part of the evidence.
 
-Judicial authorship of the additional language is therefore **expressly established**.
-
-Transmission of the supplemented response is established by the record as a whole: Rosario expressly identified the completed transmission, the court treated jury-response delivery as an accomplished act, and the court later defended its authority to issue the responses then under objection.
-
-These passages establish the **judicial act**: addition and transmission.
+Those are two admissions, on two writings. On each reply, the court states the changed writing as its own before that writing is treated as issued to the jury.
 
 ---
 
