@@ -334,7 +334,7 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ## 9. What the record proved
 
-Rosario charged the completed enhancement and its return. At 11 RT 8:7-12 he said: "You enhanced it by adding that highways also indicates street. ... You enhanced the statement and you sent that back." At 11 RT 10:12 he said: "That wasn't our understanding." The court had already attributed the addition to itself: "even if this was something that was gratuitous on the part of the Court, the Court is defining." Facing the charge, the court defended the added words: "It says, 'Highway includes street.'"
+Rosario accepted the original and charged the additional modification. At 11 RT 4:8-14 he said he agreed with the first response, "You may not consider it because it is not part of the instructions," and then: "But when you added that into the second one." At 11 RT 8:7-12 he charged the street addition and its return: "You enhanced it by adding that highways also indicates street. ... You enhanced the statement and you sent that back." At 11 RT 10:12 he said: "That wasn't our understanding." The court admits the gratuity of adding that highway includes street. At 11 RT 7:27-8:2 the court said: "even if this was something that was gratuitous on the part of the Court, the Court is defining." At 11 RT 8:13-16 the court stood on the added words: "It says, 'Highway includes street.'"
 
 ### The chain proving the judicial act
 
@@ -347,19 +347,19 @@ The record establishes two material propositions: **the court authored the addit
 
    Rosario therefore placed both propositions directly before the court: the court added the language, and the supplemented response had already been sent back to the jury.
 
-2. **Immediately before that accusation, the court had expressly identified the additional language as judicially supplied.**
+2. **The court admits the gratuity of adding that highway includes street.**
    At 11 RT 7:27-8:6, the court stated:
 
    > "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
 
-   That statement expressly attributes the addition to the court. Judicial authorship is the court's own statement.
+   "Gratuitous on the part of the Court" is the court's admission that the street sentence was an extra act of the court. "The Court is defining" assigns that extra to the court. The added proposition is that highway includes street.
 
 3. **When Rosario challenged the enhancement and its transmission, the court defended the substance of the added proposition.**
    At 11 RT 8:13-16, the court responded:
 
    > "It says, 'Highway includes street.'"
 
-   The court thus defended the legal content of the addition rather than treating the added language as something originating elsewhere.
+   That is the same added proposition the court had just called gratuitous. The court stood on "Highway includes street" as its own definition.
 
 4. **The court separately described delivery to the jury as a completed act.**
    With respect to Request No. 1, the court stated at 11 RT 6:19-21:
@@ -386,7 +386,7 @@ The record establishes two material propositions: **the court authored the addit
 
 The recorded sequence is therefore:
 
-**The court expressly identified the Request No. 2 addition as its own. Rosario expressly identified the supplemented response as having been sent back to the jury. The court defended the added legal proposition. The court elsewhere described jury-response delivery as a completed act and subsequently defended its authority to "issue these responses."**
+**Rosario accepted the original and charged the added street sentence as sent back. The court admits the gratuity of adding that highway includes street, and stood on those words as its own definition. The court elsewhere described jury-response delivery as a completed act and subsequently defended its authority to "issue these responses."**
 
 Judicial authorship of the additional language is therefore **expressly established**.
 
