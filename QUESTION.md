@@ -13,6 +13,7 @@
 7. [The principle reaches more than added language](#7-the-principle-reaches-more-than-added-language)
 8. [Why transmission is the critical dividing line](#8-why-transmission-is-the-critical-dividing-line)
 9. [What the record proved](#9-what-the-record-proved)
+    - [The chain required to prove the act](#the-chain-required-to-prove-the-act)
 10. [Notice of one version is not necessarily notice of another](#10-notice-of-one-version-is-not-necessarily-notice-of-another)
 11. [Post-transmission objection is different](#11-post-transmission-objection-is-different)
 12. [Judicial discretion has a procedural boundary](#12-judicial-discretion-has-a-procedural-boundary)
@@ -331,6 +332,17 @@ The ramification of that comparison is practical and legal. Before transmission,
 ---
 
 ## 9. What the record proved
+
+### The chain required to prove the act
+
+1. Acc. 5. 11 RT 8:7-12. "You enhanced it by adding that highways also indicates street. ... You enhanced the statement and you sent that back."
+2. Court. 11 RT 7:27-8:2. "even if this was something that was gratuitous on the part of the Court, the Court is defining"
+3. Court. 11 RT 8:13-16. "It says, 'Highway includes street.'"
+4. Court. 11 RT 6:19-21. "delivering it to the Jury"
+5. Court. 11 RT 11:28-12:4. "discretion to issue these responses"
+6. Counsel. 11 RT 11:26-27. "I have nothing to add, Your Honor, to what Your Honor said."
+
+Extra added. Extra sent. No sentence that either did not occur.
 
 The material predicate presented here is the judicial act itself.
 
