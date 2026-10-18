@@ -335,12 +335,12 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ### The chain required to prove the act
 
-1. Acc. 5. 11 RT 8:7-12. "You enhanced it by adding that highways also indicates street. ... You enhanced the statement and you sent that back."
-2. Court. 11 RT 7:27-8:2. "even if this was something that was gratuitous on the part of the Court, the Court is defining"
-3. Court. 11 RT 8:13-16. "It says, 'Highway includes street.'"
-4. Court. 11 RT 6:19-21. "delivering it to the Jury"
-5. Court. 11 RT 11:28-12:4. "discretion to issue these responses"
-6. Counsel. 11 RT 11:26-27. "I have nothing to add, Your Honor, to what Your Honor said."
+1. Rosario charged the extra and the sending on Request No. 2. He said the court had added "street" to the vehicle writing and had already returned that writing to the jury. 11 RT 8:7-12. "Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury."
+2. Immediately before that charge, the court had already claimed the street sentence as its own extra. It treated the addition as something the Court put in, even if extra, and then moved to effect. 11 RT 7:27-8:6. "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
+3. Facing Acc. 5, the court did not recant the enhancement or the sending. It stood on the added words. 11 RT 8:13-16. "It says, 'Highway includes street.'"
+4. On Request No. 1, answering the sealed-room insertion charge, the court named delivery as a completed act. The "presented" half of the sentence is a disputed notice claim for that request only. The "delivering" half is the sending. 11 RT 6:19-21. "The Court presented that response in Jury request number one to each party before delivering it to the Jury."
+5. After noting and overruling the objections to the completed responses, the court claimed authority to send them. Issuance is assumed. 11 RT 11:28-12:4. "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
+6. Asked whether she had anything further, counsel joined the court's account. 11 RT 11:26-27. "I have nothing to add, Your Honor, to what Your Honor said."
 
 Extra added. Extra sent. No sentence that either did not occur.
 
