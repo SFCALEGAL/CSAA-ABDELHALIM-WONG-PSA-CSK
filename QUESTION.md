@@ -304,7 +304,412 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ---
 
+## 9. What the record proved
 
+The accusations come first because the judge's recorded explanations must be read **against the conduct Rosario was accusing him of committing**. The statutory question is the **opportunity to object to a material judicial change before it reached the deliberating jury**—not whether Rosario approved the change and not whether the court chose substantively correct law.
+
+### Item 1 — The ten recorded accusations and objection-preservation statements
+
+**Read the charges before the court's answers.** Rosario directed repeated accusations of judicial supplementation and transmission to the sitting Superior Court judge. The quotations below identify what Rosario said and the particular act he challenged. The judge's answers are analyzed in Item 2 and the following items. **Reply No. 1 and Reply No. 2 concern different legal communications; their words must not be interchanged.**
+
+1. **Charge 1 — The court inserted Vehicle Code information into the jury's deliberations.** (**11 RT 4:1–7**.)
+
+   > “The Court also, through its own admission, clarified something to the Jury by submitting a actual Vehicle Code, which was not introduced during the evidence, and by that cause alone, Your Honor, you had inserted information into the Jury which then -- by providing them information that was not available in the evidence itself.”
+
+   **Target:** The **judge**, as the source of legal information sent to the jury.
+
+2. **Charge 2 — Rosario challenged an addition following the juror-use proposition he described accepting.** (**11 RT 4:8–14**.)
+
+   > “I do agree with the first one, the response to number one: You may not consider it because it is not part of the instructions. But when you added that into the second one, it caused this, because the Jury had to make the decision based upon the available evidence that was there.”
+
+   **Target:** The alleged **addition**, distinguished from Rosario's description of the juror-use restriction. The completed Reply No. 1 later read by the judge contained both a prohibition and a refusal to instruct (**11 RT 6:23–27**). The highway/street enhancement is separately identified in Charge 5.
+
+3. **Charge 3 — The judge inserted new information and supplied a code.** (**11 RT 4:26–5:8**.)
+
+   > “The second one, they asked something that they did not have. And, again, that is information that was not presented in the evidence and suddenly new evidence or new information has been inserted by yourself. So those two clauses alone, there was no request for a code here. You provided a code.”
+
+   **Target:** Judicial authorship of **additional legal information**.
+
+4. **Charge 4 — The court inserted information after the jury had retired.** (**11 RT 5:20–27**.)
+
+   > “Absolutely that is prejudice. The officer and the Defense had an opportunity to enter that Vehicle Code as well as the definition of a vehicle in their evidence. They did not do that. Inserting that information into the Jury after the fact, after they have gone into the sealed room back there, essentially, is extraneous influence over the Jury and their knowledge about this case.”
+
+   **Target:** The **timing** of judicial communication to an already deliberating jury.
+
+5. **Charge 5 — Reply No. 2 was enhanced by the highway/street language and sent back.** (**11 RT 8:7–12**.)
+
+   > “Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury.”
+
+   **Target:** The specific **highway/street enhancement** and **completed transmission** of Reply No. 2. This is the central material-change-and-sending accusation.
+
+6. **Statement 6 — Rosario confirmed he wanted objections concerning both completed responses placed on the record.** (**11 RT 10:4–8**.)
+
+   The judge reported that the courtroom clerk had informed him Rosario sought to place objections to Jury Request Forms Nos. 1 and 2 on the record. Rosario responded:
+
+   > “Yes.”
+
+   **Target:** The **recording of objections to both responses**, rather than a new accusation of modification in this one-word reply.
+
+7. **Charge 7 — Rosario disputed the court's description of the earlier understanding.** (**11 RT 10:9–12**.)
+
+   When the judge began stating that no objection was raised when the responses were completed, Rosario interrupted:
+
+   > “That wasn't our understanding.”
+
+   **Target:** The judge's account of **prior objection and agreement**.
+
+8. **Charge 8 — Rosario identified an objection outside the reporter's presence and sought reconstruction.** (**11 RT 10:23–11:13**.)
+
+   Rosario said, in pertinent part:
+
+   > “Given that outside the presence of the Court Reporter, Plaintiff did object to any language or materials sent back because the information was already common knowledge, was unnecessary to be defined, specifically also the one that was defined by yourself to the Jury themselves.”
+   >
+   > “The citation on -- more specifically, the citation on what constitutes a vehicle, I did object to that, and that is inaccurate also.”
+   >
+   > “I would like to either reconstruct the record or we file my objection for that.”
+
+   **Target:** His **earlier objection to giving a vehicle definition or clarification**, and the requested record correction. The statement does not specify a separate pre-transmission objection to the particular highway/street enhancement.
+
+9. **Charge 9 — Rosario specified what he had objected to: giving the vehicle clarification.** (**11 RT 11:14–22**.)
+
+   When the judge asked, “What's the correction?”, Rosario responded:
+
+   > “The correction is that I objected to any of the material going back, the codes, because they were common knowledge; it wasn't necessary for anything to be sent back to the Jury, anything, any kind of clarification of vehicles, anything like that. It was unnecessary. I stated that. It was all common knowledge.”
+
+   **Target:** The court's choice to **provide a definition or clarification of “vehicle” at all**. This is distinct from the later accusation that an enhanced version was transmitted.
+
+10. **Charge 10 — Rosario renewed his accusation that the judge sent enhancements.** (**11 RT 13:16–22**.)
+
+    After the judge asked, “What are the irregularities, sir?”, Rosario identified two separate concerns:
+
+    > “The jurors -- I just went over that, the jurors having access to extemporaneous information, first off; second off, you sending back enhancements to a testimony that was not in, and any of the enhancements or any of the evidence would be used in their assessment.”
+
+    **Target:** The court's own **sending of enhancements**, separate from the allegation of outside juror access.
+
+**The central charge is No. 5, repeated in No. 10:** Rosario accused the judge of **enhancing and sending Reply No. 2**, while the earlier unreported objection described in Charges 8–9 concerned **whether a vehicle definition should be given**. The distinction fixes the section 614 issue on the materially enhanced communication, not the wisdom of supplying the definition in the first place.
+
+---
+
+### Item 2 — The central section 614 accusation
+
+**The fundamental issue is whether a sitting Superior Court judge may materially modify a legal response intended for a deliberating jury, transmit the modified response, and then rely on the correctness, harmlessness, or discretionary character of that response rather than establish that the parties received the statutory opportunity to object to the material change before transmission.**
+
+The accusation was directed to the judge personally. Rosario repeatedly alleged that the court itself supplied additional legal information, altered the jury responses, and transmitted the enhanced material after deliberations had begun.
+
+This was not merely a disagreement over the correct interpretation of the Vehicle Code. Rosario challenged the procedure by which court-authored legal information entered the jury room.
+
+The relevant protection is Code of Civil Procedure section 614, which requires information requested by a deliberating jury on a point of law to be given in the presence of, or after notice to, the parties or counsel.
+
+**The court may decide the law over a party's objection. It may not use its discretion over the substance of that law as a substitute for the statutory procedure governing its delivery.**
+
+The reported confrontation presents that distinction directly.
+
+#### Step A — The judge asserts prior presentation followed by delivery
+
+At **11 RT 6:19–21**, the judge stated:
+
+> “The Court presented that response in Jury request number one to each party before delivering it to the Jury.”
+
+This is an express judicial assertion concerning the sequence of presentation and transmission for **Reply No. 1**.
+
+The judge thus identified the very sequence that section 614 makes important: presentation to the parties followed by delivery to the jury.
+
+In the same uninterrupted judicial turn, the court then addressed **Reply No. 2**. It read the vehicle and highway definitions, including the proposition that highway includes street. (**11 RT 7:10–26**.)
+
+The court characterized its definition as potentially gratuitous:
+
+> “even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter.”
+
+The court also stated:
+
+> “I find no harm nor prejudice against either party in this case.”
+
+(**11 RT 7:27–8:6**.)
+
+**The significance of this continuous judicial statement is the sequence of subjects.** The judge first asserted presentation-before-delivery concerning Reply No. 1. He then identified the court as the source of the definition in Reply No. 2 and justified supplying that information to the jury.
+
+These were two separate responses addressed within one continuous judicial explanation.
+
+#### Step B — Rosario immediately challenges the enhancement and its transmission
+
+The next speaker was Rosario.
+
+At **11 RT 8:7–12**, he stated:
+
+> “Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury.”
+
+**This is the central accusation.**
+
+Rosario identified the judicial actor, the specific enhancement, and the completed transmission.
+
+The actor was the trial judge.
+
+The enhancement was the language concerning highway and street.
+
+The action challenged was the judge's alteration of the response and its return to the deliberating jury.
+
+The accusation also provides the chronological premise of the section 614 challenge: **the enhanced statement had already been sent when Rosario confronted the judge about the change.**
+
+The significance of “Inaccurate, Your Honor” must be understood in the context of the entire preceding judicial explanation. The judge had asserted prior presentation of Reply No. 1 and had then defended the definition supplied in Reply No. 2. Rosario's specific ensuing accusation concerned the enhancement and transmission of **Reply No. 2**.
+
+The reported accusation supplies the basis for Rosario's contention that the completed enhancement was not part of the communication he had previously been given an opportunity to address.
+
+#### Step C — The judge answers the content accusation, not the transmission accusation
+
+At **11 RT 8:13–16**, the judge responded:
+
+> “Sir, do you want to take a look at this code section? It says, 'Highway includes street', close quote.”
+
+That response addresses the accuracy of the statutory language.
+
+It does not deny that the court added the highway/street language to the response.
+
+It does not deny that the supplemented response had been sent to the jury.
+
+It does not identify a prior presentation of the specific enhancement to Rosario before transmission.
+
+**The logical inference is that the court's immediate answer defended the substantive justification for the disputed language rather than contesting Rosario's description of the enhancement and its transmission.**
+
+That distinction is decisive to the statewide issue.
+
+Whether the code book contained the words was a question about the correctness of the legal information.
+
+Whether Rosario received the statutory opportunity to address the additional language before the jury received it was a different question.
+
+**The first answer does not resolve the second question.**
+
+#### Step D — The earlier objection concerned providing a vehicle definition
+
+The record also contains Rosario's account of an objection made outside the court reporter's presence.
+
+After challenging the court's account of his earlier objections, Rosario invoked California Rules of Court, rule 8.137, and requested correction or reconstruction of the proceedings. (**11 RT 10:23–11:13**.)
+
+The judge asked:
+
+> “Well, your objection is noted. What's the correction?”
+
+(**11 RT 11:14–15**.)
+
+Rosario explained:
+
+> “The correction is that I objected to any of the material going back, the codes, because they were common knowledge; it wasn't necessary for anything to be sent back to the Jury, anything, any kind of clarification of vehicles, anything like that. It was unnecessary.”
+
+(**11 RT 11:16–22**.)
+
+**The subject of this earlier objection was the court's decision to provide a definition or clarification of “vehicle.”**
+
+Rosario considered that clarification unnecessary because the concept was common knowledge.
+
+That objection is distinguishable from his specific accusation concerning the highway/street enhancement.
+
+The earlier objection addressed **whether the court should provide a vehicle definition at all**.
+
+The later accusation addressed **what the court added to the response and what it transmitted to the jury**.
+
+These are different objections directed to different judicial acts.
+
+A party may object to providing a definition and subsequently object to the particular enhanced definition actually transmitted.
+
+The existence of the earlier objection does not itself establish that the party had been shown the material enhancement before it was sent.
+
+Nor does Rosario's description of an unreported objection identify the exact time at which that objection was made relative to transmission of the completed highway/street language.
+
+The judge's question, “What's the correction?”, was part of the effort to place the disputed objection history on the record. It was not a recital identifying an earlier opportunity to object to the specific highway/street enhancement before transmission.
+
+**The section 614 issue therefore follows the completed judicial communication, not merely the subject of the parties' earlier discussion.**
+
+#### Step E — The judge acknowledges objections and invokes discretion to issue the responses
+
+The discussion continued.
+
+Rosario had disputed the court's earlier account:
+
+> “That wasn't our understanding.”
+
+(**11 RT 10:12**.)
+
+He then explained his previously unreported objection to providing the vehicle definition and sought correction of the record.
+
+The judge subsequently acknowledged and overruled the objections.
+
+At **11 RT 11:28–12:4**, the court stated:
+
+> “Your objections are noted. They are overruled and the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests.”
+
+**The phrase “these responses” matters.**
+
+The court was addressing objections concerning both completed jury responses.
+
+It defended its authority to issue the responses as a matter of judicial discretion.
+
+That statement supplies a different justification from the judge's earlier explanation that the added highway/street language was neutral and harmless.
+
+But both justifications concern the court's reasons for giving the information.
+
+Neither statement identifies a pre-transmission opportunity for Rosario to address the specific highway/street enhancement.
+
+The judge later expressly recognized that Rosario's objections concerned both responses:
+
+> “You have already provided the Court and submitted your arguments to clarify what you believe is an objection to the Court's response to Jury request form number one and Jury request form number two.”
+
+The court then stated that the objections had been submitted, considered, and overruled. (**11 RT 12:27–13:9**.)
+
+**The record therefore contains an express judicial acknowledgment that Rosario presented objections to both responses and that the court ruled against him.**
+
+The procedural significance is the relationship between those recorded objections and the earlier transmission of the challenged legal communications.
+
+#### Step F — Rosario renews the accusation of judicially transmitted enhancements
+
+The accusation did not end with the judge's assertion of discretion.
+
+Later, Rosario identified an irregularity in the proceedings.
+
+The judge asked:
+
+> “What are the irregularities, sir?”
+
+(**11 RT 13:16**.)
+
+Rosario responded by distinguishing alleged juror access to outside information from a second irregularity involving the judge's own conduct:
+
+> “The jurors -- I just went over that, the jurors having access to extemporaneous information, first off; second off, you sending back enhancements to a testimony that was not in, and any of the enhancements or any of the evidence would be used in their assessment.”
+
+(**11 RT 13:17–22**.)
+
+**The second accusation expressly identifies the judge's act of sending enhancements.**
+
+Rosario was not merely repeating an accusation of juror misconduct.
+
+He identified a separate judicial act.
+
+The judge responded:
+
+> “Sir, CCP Section 657 are grounds for a new trial. You are premature.”
+
+(**11 RT 13:23–25**.)
+
+That response addressed the timing of the procedural remedy.
+
+It did not deny the accused transmission of enhancements.
+
+Rosario explained that he had requested a mistrial. The court denied the request. (**11 RT 13:26–14:5**.)
+
+The exchange reinforces the central sequence: **Rosario repeatedly accused the court of sending enhanced legal information, while the court responded through explanations concerning substantive correctness, lack of prejudice, judicial discretion, and procedural timing.**
+
+---
+
+---
+
+### Item 3 — What the judge's answers establish
+
+The judicial responses form a discernible sequence.
+
+The judge first asserted a presentation-before-delivery sequence for Reply No. 1.
+
+He then addressed Reply No. 2 and identified the court as the source of the definition supplied for the jury's use.
+
+Rosario immediately accused him of enhancing Reply No. 2 and sending the enhanced statement back.
+
+The judge defended the statutory language.
+
+Rosario later disputed the court's account of the earlier objection history and identified his objection to supplying a vehicle clarification.
+
+The judge acknowledged and overruled the objections to the responses, asserting discretion to issue them.
+
+Finally, after Rosario renewed the accusation of sending enhancements, the judge addressed the procedural timing of the requested relief.
+
+**The recurring feature is that the judge's responses addressed the content, propriety, effect, and authority of the judicial communications rather than expressly identifying when Rosario received an opportunity to address the specific highway/street enhancement before it was transmitted.**
+
+That is the inference arising from the recorded exchange.
+
+A response explaining that the words appear in the Vehicle Code establishes the judge's substantive justification.
+
+A response finding no harm or prejudice expresses the judge's assessment of the effect.
+
+A response invoking discretion explains the asserted authority to issue the responses.
+
+A response declaring a new-trial request premature addresses the remedy.
+
+**None of those explanations, standing as the answers recorded here, identifies a pre-delivery opportunity to object to the particular highway/street enhancement.**
+
+That is why the distinction between authority and procedure matters.
+
+The judge's power to determine the legal answer and the statutory method for communicating that answer are separate legal subjects.
+
+---
+
+### Item 4 — The inference concerning section 614 notice
+
+The record provides a specific factual foundation for the statutory question.
+
+Rosario expressly accused the court of enhancing Reply No. 2 and sending the enhanced response back to the deliberating jury.
+
+The court acknowledged its role in supplying the vehicle and highway definition, defended its substance, and later asserted discretion to issue the responses.
+
+Rosario also described an earlier objection to the decision to provide a vehicle definition. That objection concerned the proposed clarification generally.
+
+His later highway/street accusation identified a more specific act: **the addition and transmission of the completed enhanced language**.
+
+The resulting inference is that the procedural controversy concerned whether Rosario's earlier opportunity to address a proposed vehicle clarification encompassed the materially enhanced version ultimately sent to the jury.
+
+The judge's answers did not identify a pre-transmission discussion or ruling concerning that particular addition.
+
+**The central section 614 question is therefore whether the statutory notice requirement follows the actual substantive legal communication transmitted to the jury, including material language supplied by the court after an earlier discussion.**
+
+The statute would lose much of its preventive function if notice of one proposed communication automatically supplied notice of materially different language subsequently inserted into the response.
+
+The party would have addressed one legal communication.
+
+The jury would receive another.
+
+And the court's later willingness to hear objections would operate as a response to an accomplished transmission rather than an opportunity to prevent an error before it entered deliberations.
+
+---
+
+### Item 5 — The statewide rule established by the controversy
+
+The recorded confrontation presents a recurring problem of civil jury administration.
+
+A trial judge receives a legal question from a deliberating jury.
+
+The judge formulates a response.
+
+The parties may discuss the proposed answer.
+
+The judge then supplies additional or materially different legal information.
+
+The final response is communicated to the jury.
+
+A party challenges the addition and transmission.
+
+The court answers by defending the substance of the response, the absence of prejudice, or its discretion to issue instructions.
+
+**The statewide question is whether those substantive explanations can substitute for the statutory opportunity to address the material judicial change before transmission.**
+
+They should not.
+
+A court may decide the law independently.
+
+It may disagree with a party.
+
+It may overrule the party's objection.
+
+It may provide legal guidance the party considers unnecessary.
+
+But **its discretion over the answer does not encompass discretion to eliminate the procedural protection governing how the completed answer reaches the deliberating jury.**
+
+The rule proposed for California civil trials is:
+
+> **When a trial court materially modifies a legal response intended for a deliberating jury, Code of Civil Procedure section 614 requires the statutory presence-or-notice protection to encompass the material modification before the completed response is communicated to the jury. An earlier objection to providing a particular subject of clarification does not, by itself, establish that the party received an opportunity to object to materially different language subsequently supplied by the court. Judicial discretion over the content of the response does not replace the statutory procedure governing its transmission.**
+
+The principle is straightforward:
+
+**The judge decides the law. The parties receive the legally required opportunity to object. The court then communicates its ruling to the jury.**
+
+That is the procedural boundary this case asks the California Supreme Court to define.
+
+
+---
 
 ## 10. Notice of one version is not necessarily notice of another
 
