@@ -335,60 +335,32 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ### The chain required to prove the act
 
-1. Rosario charged the extra and the sending on Request No. 2. He said the court had added "street" to the vehicle writing and had already returned that writing to the jury. 11 RT 8:7-12. "Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury."
-2. Immediately before that charge, the court had already claimed the street sentence as its own extra. It treated the addition as something the Court put in, even if extra, and then moved to effect. 11 RT 7:27-8:6. "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
-3. Facing Acc. 5, the court did not recant the enhancement or the sending. It stood on the added words. 11 RT 8:13-16. "It says, 'Highway includes street.'"
-4. On Request No. 1, answering the sealed-room insertion charge, the court named delivery as a completed act. The "presented" half of the sentence is a disputed notice claim for that request only. The "delivering" half is the sending. 11 RT 6:19-21. "The Court presented that response in Jury request number one to each party before delivering it to the Jury."
-5. After noting and overruling the objections to the completed responses, the court claimed authority to send them. Issuance is assumed. 11 RT 11:28-12:4. "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
+The chain proves two propositions. The court authored the additional legal language. The response containing that language was treated on the record as having been issued to the jury.
+
+1. Rosario expressly identified both the addition and the sending on Request No. 2. 11 RT 8:7-12. "Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury."
+2. Immediately before that charge, the court had already claimed the street sentence as its own extra. That is express judicial authorship. 11 RT 7:27-8:6. "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
+3. Facing that charge, the court defended the substance of the addition. 11 RT 8:13-16. "It says, 'Highway includes street.'"
+4. "Before delivering it to the Jury" is express delivery of Request No. 1. It supplies the court's completed-delivery vocabulary. 11 RT 6:19-21. "The Court presented that response in Jury request number one to each party before delivering it to the Jury."
+5. The bridge is the plural. At 11 RT 10:4-8 the court is placing objections to completed forms 1 and 2 on the record. Acc. 9 then objects to "any of the material going back" and "any kind of clarification of vehicles" (11 RT 11:16-22). Then the court defends its authority to "issue these responses." Transmission of Request No. 2 is assembled from that sequence. 11 RT 11:28-12:4. "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
 6. Asked whether she had anything further, counsel joined the court's account. 11 RT 11:26-27. "I have nothing to add, Your Honor, to what Your Honor said."
 
-Extra added. Extra sent. No sentence that either did not occur.
+The structure is therefore: the court admits authorship of the Request No. 2 addition; Rosario identifies that supplemented response as already sent; the court defends the added proposition; the court elsewhere describes delivery as completed and later defends its authority to "issue these responses."
 
-The material predicate presented here is the judicial act itself.
+Judicial authorship of the additional language is established expressly. Transmission of the supplemented responses is established by the recorded sequence, including Rosario's express identification of the completed act, the court's treatment of delivery as completed, and the court's subsequent defense of its authority to "issue these responses."
 
-Additional legal language was supplied by the court.
-
-The supplemented response was communicated to the deliberating jury.
-
-Those propositions rest on the court's own descriptions of what occurred rather than on an Evidence Code section 600(b) deduction.
-
-The court described the street sentence as "gratuitous on the part of the Court" and stated that "the Court is defining."
-
-Rosario charged, "you sent that back."
-
-The court spoke of "delivering it to the Jury" and later asserted its "discretion to issue these responses."
-
-When confronted with the additional language, the court defended the legal proposition itself:
-
-"It says, 'Highway includes street.'"
-
-Counsel responded:
-
-"I have nothing to add, Your Honor, to what Your Honor said."
-
-The significant distinction is between two separate questions:
-
-1. Was the judicially supplied proposition legally correct? That question concerns substance.
-2. Was the statutory procedure followed before that proposition was communicated to the jury? That question concerns section 614.
-
-A court's confidence in the substantive correctness of its answer does not itself establish compliance with the procedure governing transmission.
-
-| Asked | Court's answer on this record | Question left |
+| Question | Record evidence | Status |
 | --- | --- | --- |
-| Extra added? | "gratuitous on the part of the Court"; "the Court is defining" | Substance owned |
-| Extra sent? | "you sent that back"; "delivering it to the Jury"; "discretion to issue these responses" | Sending owned |
-| Is the extra correct? | "It says, 'Highway includes street.'" | Content |
-| Was section 614 followed as to the extra? | Not answered by those verbs | Process |
+| Did the court add the language? | "gratuitous on the part of the Court"; "the Court is defining" | Expressly established |
+| Was the supplemented response communicated to the jury? | "you sent that back"; court's completed-delivery terminology; "discretion to issue these responses" | Strongly supported by the recorded sequence |
+| Did the court defend the substance of the addition? | "It says, 'Highway includes street.'" | Expressly established |
 
 ```mermaid
 flowchart TD
-  A[Court-owned extra] --> C[614-shaped act]
-  B[Court-owned sending] --> C
-  C --> D{Notice of the extra before transmission?}
-  D -->|Record answers content, harm, authorship, discretion| E[Process question remains]
+  A[Express authorship of the Request No. 2 addition] --> C[Predicate judicial act]
+  B[Sequence-supported issuance of these responses] --> C
 ```
 
-The scorecard is a comparison of two inquiries. Extra plus sending are court-owned facts. The court claimed the street sentence as its own extra and used delivery and issuance verbs. Counsel joined the substance defense. Those verbs answer authorship, accuracy, and authority. They do not recite a showing of the completed extra before transmission. Nobody said the parties already had that page. Nobody said the extra was not sent. The legal ramification is that a reviewing court can take the addition and the sending as established without treating a later content defense as section 614 notice. *Nelson v. Southern Pacific Co.* (1937) 8 Cal.2d 648, 655, applied the statute by examining the communication that occurred. A spoken confession that the judge "violated section 614" is not the missing element. Notice of the extra is the remaining question.
+The disputed event is no longer hypothetical. The record establishes judicial authorship of the added legal information and strongly establishes that the supplemented response entered the jury-communication process.
 
 ---
 
