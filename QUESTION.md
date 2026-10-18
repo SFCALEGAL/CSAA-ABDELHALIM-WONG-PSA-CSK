@@ -13,9 +13,10 @@
 7. [The principle reaches more than added language](#7-the-principle-reaches-more-than-added-language)
 8. [Why transmission is the critical dividing line](#8-why-transmission-is-the-critical-dividing-line)
 9. [What the record proved](#9-what-the-record-proved)
-    - [Reply No. 2](#reply-no-2)
-    - [Reply No. 1](#reply-no-1)
-    - [What the sequence establishes](#what-the-sequence-establishes)
+    - [Reply No. 2 — the highway/street enhancement and sending](#reply-no-2--the-highwaystreet-enhancement-and-sending)
+    - [Reply No. 1 — a different response and explanation](#reply-no-1--a-different-response-and-a-different-judicial-explanation)
+    - [The responses considered together](#the-responses-considered-together--the-courts-plural-account)
+    - [What the recorded exchange establishes](#what-the-recorded-exchange-establishes)
 10. [Notice of one version is not necessarily notice of another](#10-notice-of-one-version-is-not-necessarily-notice-of-another)
 11. [Post-transmission objection is different](#11-post-transmission-objection-is-different)
 12. [Judicial discretion has a procedural boundary](#12-judicial-discretion-has-a-procedural-boundary)
@@ -29,35 +30,27 @@
 
 ## 1. The broader question
 
-The statewide question is broader than whether a trial judge may add one sentence to one jury response.
+The statewide question is not whether the trial judge correctly withheld a Vehicle Code instruction or correctly defined the word *highway*. The issue is **whether the court materially changed the legal response that would reach the deliberating jury and transmitted that changed response before the parties had an opportunity to address the change.**
 
-It is this:
+**When a trial court materially changes a legal response discussed with the parties, what does Code of Civil Procedure section 614 require before the changed response may be communicated to a deliberating civil jury?**
 
-**When a deliberating civil jury asks the court for legal guidance, what procedural limits constrain the court's authority to formulate, modify, supplement, restrict, or refuse that guidance before the court's answer becomes part of the jury's deliberative framework?**
+That question encompasses a change made by adding language, inserting a definition, expanding a limitation, or combining a restriction with a refusal. The lawfulness of the resulting instruction is a separate subject. The procedural act is the court's preparation and delivery of the material change.
 
-More specifically:
+The specific statutory question is:
 
-**May a trial court exercise its discretion over the substance of a mid-deliberation legal response without first giving the parties notice of the substantive communication that will actually reach the jury and a meaningful opportunity to address it?**
+**Does notice of an earlier proposed response satisfy section 614 when the judge subsequently supplies materially different legal language and sends the completed response to the jury, or must notice extend to the material change that the jury actually receives?**
 
-And when the communication ultimately transmitted materially differs from what the parties previously addressed:
+This commentary advances the latter rule. The parties need not approve the judge's final legal decision; they must be given the statutory opportunity to address the materially changed response before the judge transmits it.
 
-**May compliance with Code of Civil Procedure section 614 be inferred from notice of an earlier or narrower proposition, or must the statutory opportunity attach to the substantive judicial communication actually given?**
-
-These questions concern the administration of every civil jury trial in California.
-
-1. Broad: What procedural limits constrain mid-deliberation legal guidance before it becomes the jury's framework?
-2. Specific: May the court decide the substance without first giving notice of the communication that will actually reach the jury?
-3. When the writing changes: May section 614 compliance be inferred from notice of an earlier or narrower proposition?
-
-The first question identifies the field. The second isolates the procedural act: notice of the writing that will actually reach the jury. The third is the recurring case. A court often shows or discusses one proposition, then transmits a different writing. If notice of the first writing satisfies section 614 as to the second, the statute attaches to a draft. If notice must attach to the communication actually given, the statute attaches to the information the jury receives. That is the difference between a drafting conversation and a completed judicial communication.
+The record supplies two separately identified jury replies. Reply No. 2 contains the particular highway/street addition that Rosario expressly accused the court of enhancing and sending. Reply No. 1 contains a juror-use restriction Rosario described accepting and a completed refusal clause read by the court, with a different stated justification. **The replies are not interchangeable.** Together, the court's responses and its later reference to **“these responses”** illuminate the statewide boundary between deciding what law to communicate and following the required process of communicating it.
 
 ```mermaid
 flowchart TD
-  A[Deliberating jury asks for legal guidance] --> B[Court formulates, modifies, supplements, restricts, or refuses]
-  B --> C{Did the parties receive notice of the communication actually given?}
-  C -->|Yes| D[Adversarial process then judicial ruling]
-  C -->|Inferred from earlier or narrower writing| E[Statewide question]
-  C -->|After transmission only| E
+  A[Deliberating jury requests legal information] --> B[Parties address a proposed response]
+  B --> C[Judge supplies materially changed legal language]
+  C --> D{Notice and opportunity concerning the change before transmission?}
+  D --> E[Completed response reaches the jury]
+  E --> F[Section 614 statewide question]
 ```
 
 ---
@@ -139,7 +132,7 @@ They need not.
 
 The question is whether the judge's authority to decide the ruling includes authority to bypass the procedure by which the parties are allowed to address the ruling before it enters the jury room.
 
-Those nine determinations are the content of the response. They remain with the court after the parties are heard. Section 614 does not assign any of them to counsel. It assigns a sequence: the completed legal communication is shown or otherwise noticed, the parties address that communication, and the court then transmits. Collapsing the sequence into the content decision treats a ruling on the law as a ruling that the parties need not see the law first. That collapse is the statewide problem. The court still decides what the answer will be. The statute decides when that answer may enter the jury room.
+Those nine determinations are the content of the response. They remain with the court after the parties are heard. Section 614 does not assign any of them to counsel. This commentary urges a sequence that gives effect to its presence-or-notice protection: the material legal communication is disclosed, the parties have an opportunity to address it, and the court then transmits its completed answer. Collapsing the sequence into the content decision treats a ruling on the law as a ruling that the parties need not see the law first. That collapse is the statewide problem. The court still decides what the answer will be. The statute decides when that answer may enter the jury room.
 
 ---
 
@@ -166,7 +159,7 @@ The statewide principle therefore is not party control.
 
 It is adversarial participation before judicial transmission.
 
-Each of those functions operates on a proposed writing that has not yet become the jury's law. Counsel can still point to a missing qualification, an omitted statute, or a definition that changes another instruction, and the court can still overrule. After transmission, the same points must be recast as a request to retract the court's own statement. The legal comparison is therefore not between a winning objection and a losing one. It is between an objection that can prevent the communication and an objection that can only ask the court to unsay it. The first is the opportunity section 614 describes. The second is a different remedy, with a different burden and a different effect on deliberations already underway.
+Each of those functions operates on a proposed writing that has not yet become the jury's law. Counsel can still point to a missing qualification, an omitted statute, or a definition that changes another instruction, and the court can still overrule. After transmission, the same points must be recast as a request to retract the court's own statement. The legal comparison is therefore not between a winning objection and a losing one. It is between an objection that can prevent the communication and an objection that can only ask the court to unsay it. The first is the opportunity this commentary contends section 614 protects. The second is a different remedy, with a different burden and a different effect on deliberations already underway.
 
 ```mermaid
 flowchart TD
@@ -183,33 +176,21 @@ flowchart TD
 
 ## 5. Section 614 is the statutory safeguard
 
-Code of Civil Procedure section 614 gives that principle a specific statutory form after deliberations begin.
+Code of Civil Procedure section 614 provides that, after deliberations begin, when jurors seek information on a point of law, the information “must be given in the presence of, or after notice to, the parties or counsel.” [Cal. Code Civ. Proc., § 614](https://codes.findlaw.com/ca/code-of-civil-procedure/ccp-sect-614/).
 
-When jurors desire information on a point of law, the statute requires that the information be given "in the presence of, or after notice to, the parties or counsel."
+The statutory object is **the information given**. That object is central when the court first discusses one proposed response and then materially changes it.
 
-The object of the statutory protection is the information given.
-
-That distinction matters.
-
-| What occurred | What it establishes |
+| Recorded event | Procedural significance |
 | --- | --- |
-| Notice that the jury asked a question | Notice of the request |
-| Notice of one proposed response | Notice of that writing |
-| Notice of one legal proposition | Notice of that proposition |
-| Opportunity to object after transmission | A later challenge |
+| Jury asks a legal question | The court is called upon to supply legal guidance. |
+| Parties discuss proposed response A | Their participation concerns the proposition or wording they actually addressed. |
+| Court materially changes A to B | The court has supplied a different substantive communication. |
+| Court sends B to the jury | B becomes the court's authoritative legal answer in deliberations. |
+| Party objects to the change and the sending | The record identifies the disputed judicial communication and the timing of the objection. |
 
-Section 614 therefore places a procedural boundary around the court's substantive authority.
+The construction urged here follows the object of the statute: when B is the information given, meaningful notice concerns B's material differences. The statute's presence-or-notice language supplies a procedural protection distinct from the judge's discretion to formulate a lawful answer.
 
-The table is a comparison of objects. Notice of a jury request is notice that a question exists. It is not notice of the court's answer. Notice of one draft is notice of that draft. It is not notice of a later insertion, deletion, refusal, or restriction. A post-transmission objection is notice that the party has now seen what the jury already received. The statute's timing clause, "in the presence of, or after notice to," places the required opportunity before the information is given. Treating any of the first three rows as a substitute for the fourth row relocates that opportunity. The legal ramification is that the object of section 614 becomes whatever writing the court once discussed, rather than the writing the jury actually received.
-
-```mermaid
-flowchart TD
-  A[Jury desires information on a point of law] --> B[Information given]
-  B --> C{Given in the presence of, or after notice to, the parties or counsel?}
-  C -->|Yes, as to the information given| D[Section 614 process]
-  C -->|Notice of a different writing only| E[Notice of the other writing]
-  C -->|Challenge after the jury already has it| F[Post-transmission opportunity]
-```
+In *Nelson v. Southern Pacific Co.* (1937) 8 Cal.2d 648, 655, the California Supreme Court addressed an unauthorized communication to a deliberating jury and described the section 614 procedure as a protection related to the substance of trial by jury. [*Nelson*](https://scocal.stanford.edu/opinion/nelson-v-southern-pacific-co-28878). This page draws the related statewide question presented by materially changed jury-response wording: **what must be disclosed, and when, for the notice requirement to serve its function?**
 
 ---
 
@@ -259,30 +240,13 @@ The comparison is between evidence the jury may weigh and law the jury must appl
 
 ## 7. The principle reaches more than added language
 
-The statewide problem should not be limited to a judge physically adding words to a draft.
+The material-change rule should follow what the jury received, not the mechanical form of the court's revision. A substantive change can be made by inserting a definition, deleting a qualification, expanding an exclusion, adding a new command, combining previously separate propositions, or refusing guidance in a response that earlier addressed only the jurors' own use of outside legal material.
 
-The same principle applies whenever the court materially changes the legal framework communicated to a deliberating jury.
+The common event is **a difference between the response the parties addressed and the response the judge sent to the jury**. The court may make that change. Section 614 raises the separate question of how and when the parties receive notice of the material change before it is communicated.
 
-That can occur by:
+That formulation keeps both jury responses in view without conflating their contents. Reply No. 2 concerns the addition of the street language to the vehicle/highway definition. Reply No. 1 concerns the difference between the juror-use proposition Rosario described accepting and the court's completed prohibition-and-refusal response. The source of the change, the words changed, and the judge's substantive rationale must be stated separately for each reply.
 
-1. Adding a legal proposition.
-2. Deleting a qualification.
-3. Supplying a statutory definition.
-4. Modifying an existing instruction.
-5. Giving a new instruction.
-6. Refusing requested legal guidance.
-7. Answering only part of a jury's question.
-8. Combining separate legal propositions into one response.
-9. Restricting consideration of a subject.
-10. Characterizing a legal subject as unavailable to the jury.
-11. Resolving an ambiguity in a way not previously disclosed.
-12. Materially changing the proposed response after the parties addressed an earlier version.
-
-The controlling question should therefore concern **substantive judicial communication**, not merely textual addition.
-
-The rule should follow substance rather than drafting mechanics.
-
-A rule confined to added words would leave the same harm available by other means. A court can change the legal framework by refusing the requested statute, by answering only half the question, or by combining a research limit with a later refusal. Each of those acts is a completed judicial communication. The comparison among the twelve methods is therefore not a catalog of drafting techniques. It is a comparison of ways the jury's law can change after the parties have addressed a different writing. Section 614 attaches to that change because the information given is the changed writing.
+The statewide rule therefore addresses **materially altered judge-to-jury legal communications**, whatever drafting technique produced the alteration.
 
 ---
 
@@ -329,273 +293,232 @@ flowchart TD
 | Before transmission | Participate in whether the error reaches the jury |
 | After transmission | Ask the court to repair an event that has already occurred |
 
-The ramification of that comparison is practical and legal. Before transmission, an objection can keep the disputed sentence out of the jury room. After transmission, the same sentence is already the court's instruction. A later "correction" asks the jury to disregard a statement the judge has just made, or to prefer a second statement over the first. That is a different proceeding. It introduces questions of curability and prejudice that section 614 is designed to avoid by requiring notice first. Equating the two moments treats a repair as the statutory opportunity. The statute describes the earlier moment.
+The ramification of that comparison is practical and legal. Before transmission, an objection can keep the disputed sentence out of the jury room. After transmission, the same sentence is already the court's instruction. A later "correction" asks the jury to disregard a statement the judge has just made, or to prefer a second statement over the first. That is a different proceeding. It introduces questions of curability and prejudice that section 614 is designed to avoid by requiring notice first. Equating the two moments treats a repair as the statutory opportunity. The statute calls for presence or notice before the information is given; the earlier moment is the one this commentary seeks to protect.
 
 ---
 
 ## 9. What the record proved
 
-Two jury replies. Two writings. The court admits a material change in each reply it sent. The question here is that change. It is not whether withholding the requested law was correct.
+The reported exchanges concern **judicially supplied legal language, an accusation that the court enhanced and returned a response, and the judge's defense of the completed responses as acts within its authority**. They concern procedure: **what was changed, what was sent, and when Rosario was afforded an opportunity to challenge the change**. The judge's view of the statutes' substantive correctness is not the issue advanced on this page.
 
-### Reply No. 2
+### Reply No. 2 — the highway/street enhancement and sending
 
-The court admits the gratuity of adding that highway includes street.
+**The clearest enhancement-and-transmission accusation concerns Reply No. 2.** Its subject was the jury's request for a definition of “vehicle.” The court read vehicle and highway definitions, including the sentence that highway includes street. (11 RT 7:10–26.)
 
-Rosario charged that addition and its return. At 11 RT 8:7-12 he stated:
+Rosario had already described the court's conduct as insertion of information into the jury's deliberations:
 
-> "Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury."
+> “The Court also, through its own admission, clarified something to the Jury by submitting a actual Vehicle Code ... you had inserted information into the Jury ...” (11 RT 4:1–7.)
 
-Before that charge, the court had already called the addition its own extra. At 11 RT 7:27-8:6 the court stated:
+He later objected to information “suddenly” inserted by the court itself and to the inclusion of information after the jurors had gone into the jury room. (11 RT 4:18–5:8; 5:20–27.) Those objections identified the court as the actor, rather than treating the challenged information solely as independent juror research.
 
-> "even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway."
+Addressing Reply No. 2, the court stated:
 
-"Gratuitous on the part of the Court" admits the extra. "The Court is defining" assigns the extra to the court. "I find no harm nor prejudice" is the court's answer to that extra as something already given. The added proposition is that highway includes street.
+> “even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway.” (11 RT 7:27–8:6.)
 
-Facing the charge, the court stood on those words. At 11 RT 8:13-16 the court responded:
+**“Gratuitous on the part of the Court”** is the judge's own conditional characterization of the court-supplied definition. **“The Court is defining”** identifies the judicial actor. The finding of **“no harm nor prejudice”** is the court's stated justification for the supplied definition. These words concern Reply No. 2.
 
-> "It says, 'Highway includes street.'"
+Rosario then made the specific accusation:
 
-That is Reply No. 2. The street sentence is the writing the court called gratuitous.
+> “Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury.” (11 RT 8:7–12.)
 
-### Reply No. 1
+The accusation has two verbs and one object: **the judge enhanced the Reply No. 2 statement with the street language, and the judge sent that enhanced statement back**. In context, Rosario was challenging the change to the response he understood had been under discussion and the court's already-completed transmission of the changed response. The accusation identifies a changed document that reached the jury before Rosario could address the enhancement in the form he was then confronting.
 
-Reply No. 1 is a different writing. Rosario's agreement and his charge of a change belong here, not on the street sentence.
+The court's immediate answer was:
 
-At 11 RT 4:8-14 he agreed to the original: "You may not consider it because it is not part of the instructions." He then charged the change: "But when you added that into the second one."
+> “It says, 'Highway includes street.'” (11 RT 8:13–16.)
 
-After that discussion, the court read the reply it sent, including "nor will the Court instruct the Jury on those provisions." (11 RT 6:23-27.) The agreed sentence was a limit on the jurors: they may not consider material that is not in the instructions. The sent sentence is a limit on the court: the court will not instruct. At 11 RT 7:4-9 the court identified that sent reply as its own act. It said sections 22107 and 21804(a) "were not part of the evidence," and that the jury is "not permitted to consider that as evidence in the case, period."
+That is an answer defending the **content of the addition**. The court answered why the highway/street language appeared in its legal explanation, rather than answering the asserted sequence—enhancement and transmission—on which Rosario's procedural objection rested. **The responsive inference is that the judge defended the propriety of the added statement while leaving Rosario's enhancement-and-sending accusation factually uncontradicted in that exchange.** The court had already characterized its own definition as potentially gratuitous and harmless.
 
-That is the court's admission of the change on Reply No. 1. The sent reply is a different writing from the sentence Rosario accepted. The evidence sentence is the court stating the reply it issued. It is not a decision, on this page, that the withholding was legally wrong.
+This is the record's direct route to the section 614 issue. The question is not whether a statute may legally define highway to include street. **The question is whether the judge altered the reply and sent that alteration to the jury before the party could examine and address the change.**
 
-Delivery of this reply is named as its own act. At 11 RT 6:19-21 the court stated:
+### Reply No. 1 — a different response and a different judicial explanation
 
-> "The Court presented that response in Jury request number one to each party before delivering it to the Jury."
+Reply No. 1 concerned Vehicle Code sections 22107 and 21804(a). Rosario described the proposition he accepted in these words:
 
-That sentence is Reply No. 1. It is not the street sentence.
+> “I do agree with the first one, the response to number one: You may not consider it because it is not part of the instructions.” (11 RT 4:8–10.)
 
-### Both completed responses
+He immediately added:
 
-At 11 RT 10:4-8 the court was placing objections to completed Responses Nos. 1 and 2 on the record. Rosario then objected to "the material going back" and to "any kind of clarification of vehicles." (11 RT 11:16-22.)
+> “But when you added that into the second one, it caused this, because the Jury had to make the decision based upon the available evidence that was there.” (11 RT 4:11–14.)
 
-The court thereafter stated at 11 RT 11:28-12:4:
+These words place the accepted juror-use proposition next to Rosario's complaint about judicial addition. The **first reply's completed text** and the **second reply's vehicle-definition addition** must nevertheless be identified by their own terms, not collapsed into a single “second” object.
 
-> "the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests."
+The judge later read the completed text of Reply No. 1:
 
-The plural covers the two completed responses then under discussion. It comes after Rosario's accusation that information was sent to the jury. The court's reasons for those two replies are already on the record. On Reply No. 1 the court said the sections "were not part of the evidence." On Reply No. 2 the court said "I find no harm nor prejudice." "Issue these responses" is the later plural. Together, those answers admit the giving: the changed replies were issued to the jury. Counsel joined that account. At 11 RT 11:26-27 she stated: "I have nothing to add, Your Honor, to what Your Honor said."
+> “You may not consider Vehicle Code Sections 22107 and or 21804 subdivision A, nor will the Court instruct the Jury on those provisions.” (11 RT 6:23–27.)
 
-### What the sequence establishes
+This completed response contains both a **juror-use prohibition** and a **judicial refusal to instruct**. The judge gave the reason for the completed response:
 
-On Reply No. 2, the court admits the gratuity of adding that highway includes street, and stands on those words. Rosario charged that enhancement as sent back. That is a material change in the reply that went to the jury.
+> “neither Vehicle Codes Section 22107 nor 21804 subdivision A were part of the evidence. They simply are not permitted to consider that as evidence in the case, period.” (11 RT 7:4–9.)
 
-On Reply No. 1, Rosario accepted "You may not consider it because it is not part of the instructions" and charged "when you added that into the second one." The court then read the sent reply, "nor will the Court instruct the Jury on those provisions," and stated that those sections were not part of the evidence. That is the court's admission of the change in that reply.
+That is Reply No. 1's separate judicial justification. It shows the court addressing the **completed content** of that reply. **This document does not challenge whether the judge correctly withheld those statutes.** It concerns what response was communicated compared with the proposition Rosario described as having been agreed upon.
 
-The court admits both changes, and the court admits the giving. Reply No. 2 is the added street sentence, answered by "I find no harm nor prejudice." Reply No. 1 is the added refusal to instruct, answered by "were not part of the evidence." After those accusations, the court said, in the plural, that it was within its discretion to "issue these responses." That is the admission that the changed replies were given to the jury.
+The court also expressly identified delivery of Reply No. 1:
+
+> “The Court presented that response in Jury request number one to each party before delivering it to the Jury.” (11 RT 6:19–21.)
+
+The sentence concerns **Reply No. 1**. It records the court's own account of presentation and delivery of that reply. The highway/street addition belongs to **Reply No. 2** and is addressed through its own exchange.
+
+### The responses considered together — the court's plural account
+
+The court thereafter dealt with Rosario's objections to **both completed responses**. Rosario interjected, **“That wasn't our understanding.”** (11 RT 10:12.) He contested the assertion that no objection had been made, sought reconstruction of the unreported discussion, and identified the court-defined vehicle material as part of his objection. (11 RT 10:23–11:22.) In his words:
+
+> “The correction is that I objected to any of the material going back, the codes ... anything, any kind of clarification of vehicles ...” (11 RT 11:16–22.)
+
+The court heard that objection and then stated:
+
+> “the Court believes that this is within its discretion to issue these responses in order to clarify for the Jury some issues that they have raised by way of their requests.” (11 RT 11:28–12:4.)
+
+**“These responses”** is plural. It refers to the responses then under objection and is the court's own statement of authority to issue them. The judge subsequently characterized objections to both jury-response forms as submitted, considered, and overruled. (11 RT 12:27–13:9.)
+
+When the judge asked what irregularities Rosario alleged, Rosario again separately identified **“you sending back enhancements”** as an accusation against the court, distinct from his allegation concerning jurors' access to other information. (11 RT 13:16–22.) The court answered by addressing the timing of a Code of Civil Procedure section 657 motion. (11 RT 13:23–25.)
+
+The precise sequence matters:
+
+| Transcript | Speaker and reply | What occurred in the reported exchange |
+| --- | --- | --- |
+| 11 RT 4:1–14 | Rosario; both replies discussed | He objects to court-inserted information, identifies the Reply No. 1 proposition he accepted, and complains about an addition. |
+| 11 RT 6:19–7:9 | Court; Reply No. 1 | The court describes its delivery, reads the completed restriction-and-refusal answer, and states that the cited provisions were not part of the evidence. |
+| 11 RT 7:27–8:6 | Court; Reply No. 2 | The court describes its definition as potentially gratuitous, identifies itself as defining, and finds no harm or prejudice. |
+| 11 RT 8:7–16 | Rosario, then court; Reply No. 2 | Rosario specifically alleges that the judge enhanced the statement and sent it; the court answers with the highway/street language in the code. |
+| 11 RT 10:12–12:4 | Rosario, then court; both replies | Rosario disputes the earlier understanding and objects to the returned material; the court defends its discretion to issue **“these responses.”** |
+| 11 RT 12:27–13:9 | Court; both replies | The court states that objections to both completed responses were submitted, considered, and overruled. |
+| 11 RT 13:16–25 | Rosario, then court; enhancements | Rosario again identifies the judge **“sending back enhancements”;** the court addresses the timing of the requested remedy. |
+
+The sequence thus contains **two different judicial explanations** and **one plural assertion of authority to issue the responses**. For Reply No. 2, the court defended a court-supplied definition as neutral and causing “no harm nor prejudice.” For Reply No. 1, the court defended the completed restriction and refusal by stating that the Vehicle Code sections were not part of the evidence. After Rosario challenged the responses, the court invoked its discretion to issue **“these responses.”** These statements should be read in their actual sequence, each attached to its own reply.
+
+### What the recorded exchange establishes
+
+**The court supplied and defended additional vehicle/highway language in Reply No. 2. Rosario expressly accused it of enhancing that response and returning the enhanced writing to the jury. The judge answered the content accusation with the code text and subsequently asserted discretion to issue the responses, without retracting the enhancement-and-sending account.**
+
+**The court separately identified the completed content and delivery of Reply No. 1, including the court's refusal clause, and defended that completed content on its own stated ground. Rosario contested the scope of the earlier understanding and objected to the responses. The judge acknowledged the objections to both forms and overruled them.**
+
+The resulting inference is direct and procedural: **in the face of Rosario's objection to judicially changed information already returned to the jury, the judge defended the correctness or harmlessness of what he supplied and his authority to issue the completed responses.** The dispute the record presents for section 614 is the **opportunity to address the materially changed communication before transmission**, not the substantive correctness of the legal propositions in either response.
 
 ---
 
 ## 10. Notice of one version is not necessarily notice of another
 
-The distinction becomes especially important when the parties have previously seen or discussed some version of the response.
+The distinction becomes important as soon as the court and the parties discuss a proposed response and the court thereafter supplies a materially changed one.
 
-Suppose the parties are shown Set 1.
+Call the response initially discussed **Version A**. Call the materially changed response actually returned to the jury **Version B**. The question posed by this case is whether the procedure associated with Version A can be treated as adequate notice of the material change embodied in Version B.
 
-They address Set 1.
+Rosario's enhancement-and-sending accusation concerns exactly that distinction. His objection was to a judicially augmented response already communicated to the jury. The court's answer defended the language supplied, not a showing of the material change to him before return.
 
-The court thereafter materially changes Set 1 and creates Set 2.
-
-The jury receives Set 2.
-
-The statutory question concerns Set 2.
-
-Showing the parties Set 1 establishes that the parties saw Set 1. The statutory object is Set 2, the writing the jury received.
-
-The information that matters is the substantive judicial communication actually given to the jury.
+| Communication | Relevant act |
+| --- | --- |
+| Version A | Wording or proposition the parties earlier discussed. |
+| Court's material alteration | Judicial addition, restriction, refusal, or new definition. |
+| Version B | Completed legal response the jury receives. |
+| Section 614 question | Whether the parties had the statutory opportunity concerning the **material difference** before Version B was given. |
 
 ```mermaid
 flowchart TD
-  A[Set 1 shown] --> B[Parties address Set 1]
-  B --> C[Court materially changes the writing]
-  C --> D[Set 2 created]
-  D --> E[Jury receives Set 2]
-  E --> F[Section 614 attaches to Set 2]
-  B --> G[Notice of Set 1 established]
+  A[Parties address Version A] --> B[Judge materially changes the response]
+  B --> C[Version B]
+  C --> D[Jury receives Version B]
+  B --> E[Section 614 question: opportunity to address the change before D]
 ```
 
-| Writing | What notice of that writing proves |
-| --- | --- |
-| Set 1 | The parties saw Set 1 |
-| Set 2, the writing given | The statutory object |
-
-The comparison is between two writings. Set 1 is the writing the parties addressed. Set 2 is the writing the jury received. Section 614 names the information given. The information given is Set 2. Notice follows the writing that entered the jury room.
+The rule urged is that **the legal communication actually given determines the object of section 614 notice**. A material judicial alteration is not transformed into a previously reviewed communication merely because some earlier wording was discussed.
 
 ---
 
 ## 11. Post-transmission objection is different
 
-The difference between pre-transmission participation and post-transmission objection is substantial.
+The act at issue here is the sending of a materially changed legal response. Timing gives that act its procedural significance.
 
-Before transmission, a party can say:
+Before transmission, a party may identify the change, object to the new wording, and ask the court to reconsider or qualify it. The judge may overrule the objection and still transmit the answer. After transmission, the jury already has the court's authoritative language, and the party must instead seek an alteration to something already communicated.
 
-**This should not be given to the jury in this form.**
-
-After transmission, the party must say:
-
-**The jury has already received this from the court; now something must be done about it.**
-
-Those procedural positions are not equivalent.
-
-The latter may require:
-
-1. A corrective instruction.
-2. An explanation of the correction.
-3. Withdrawal of an earlier proposition.
-4. Additional argument over curability.
-5. Consideration of prejudice.
-6. Consideration of whether the effect can be cured at all.
-
-The point is not that every defect necessarily requires reversal or mistrial.
-
-The point is that **the statutory opportunity before transmission serves a preventive function that a later opportunity cannot perfectly reproduce.**
-
-| Moment | What the party can say |
+| Before transmission | After transmission |
 | --- | --- |
-| Before transmission | This should not be given to the jury in this form |
-| After transmission | The jury has already received this from the court; now something must be done about it |
+| “This is the material change I object to before the jury receives it.” | “The court has already sent the material change; I object to what was sent.” |
+| The court can decide the objection before delivery. | The court must address a completed communication. |
+| The jury has not yet received the challenged words. | The jury has received the challenged words as judicial guidance. |
 
-The two sentences are not interchangeable positions on the same record. The first is an objection to a proposed communication. The second is a request to unwind a communication already delivered. The first can be overruled and still satisfy section 614, because the party addressed the completed writing before the jury received it. The second cannot reconstruct that sequence. It can only ask whether prejudice can be undone. Equating them treats a curative motion as the statutory notice condition. The condition is prior. The later motion is a different claim, with a different standard.
+The jury's exposure is why the chronology matters. A post-delivery objection identifies and preserves a challenge to the event; it does not turn the already delivered words into a proposed response awaiting review.
+
+**Section 614's notice requirement should be understood at the moment the court moves from a proposed answer to an authoritative communication given to the jury.** The party's statutory participation must concern the material alteration while it can still be addressed before delivery.
 
 ---
 
 ## 12. Judicial discretion has a procedural boundary
 
-This produces the central statewide distinction:
+The record identifies the exact competing concepts. On Reply No. 2, the court called its definition neutral and said there was **“no harm nor prejudice.”** On Reply No. 1, the court said the cited statutes were **“not part of the evidence.”** Later, addressing the completed responses in the plural, it claimed **“discretion to issue these responses.”** (11 RT 7:4–9; 7:27–8:6; 11:28–12:4.)
 
-**Judicial discretion governs the lawful substance of a jury response. It does not necessarily govern whether the statutory procedure protecting adversarial participation will occur.**
+These were answers about **the substance, purpose, or authority** for what the judge sent. Rosario's procedural complaint was about **the material change and its return to the jury before he could address it**.
 
-The court may:
+**Substantive discretion and the section 614 procedure answer different questions.** Whether the definition came from a code book does not itself describe how the changed response was disclosed before transmission. Whether the court considered a response harmless does not itself identify when the parties saw the material change. The authority to issue instructions does not itself replace the statutory method for giving requested legal information to the jury.
 
-1. Decide the law.
-2. Reject an objection.
-3. Refuse an instruction.
-4. Formulate its own answer.
+The principle therefore remains:
 
-But those substantive powers should not automatically carry an additional procedural power to decide:
+> **The judge determines the lawful content of a jury response. Section 614 determines the procedure through which the judge's completed legal information reaches the jury.**
 
-**I may communicate this materially different legal ruling first and hear the parties afterward.**
-
-If substantive discretion carried that procedural authority, the statutory protection would depend upon the discretion it is supposed to regulate.
-
-The same judge would then control both the law the jury receives and whether anyone may challenge the completed legal communication before the jury receives it.
-
-Section 614 supplies the boundary between those powers.
-
-| Power | Who holds it | Limit |
-| --- | --- | --- |
-| Lawful substance of the response | The trial court | The court decides the law |
-| Process of delivery | Section 614 | Presence or notice before the information is given |
-| Combining the two | Not supplied by content discretion | The safeguard would then depend on the discretion it regulates |
-
-```mermaid
-flowchart LR
-  A[Jury question] --> B[Court chooses lawful content]
-  B --> C[Section 614 process]
-  C --> D[Completed communication reaches the jury]
-  B -.->|does not replace| C
-```
-
-The comparison is between two powers that belong to different sources. Content discretion is judicial. The court chooses the lawful answer. Process is statutory. The Legislature required presence or notice before the information is given. If the first power absorbs the second, the same officer decides both what the jury will be told and whether anyone may see that statement first. Section 614 then becomes optional in every case in which the court is confident of the substance. Confidence in the code book, a finding of no harm, or a claim of "discretion to issue" answers the content question. Those answers leave the process question open. The ramification is that substance discretion, used as a substitute for notice, makes the safeguard contingent on the discretion it was enacted to regulate.
+This is a limit on how judicial authority is exercised, not a veto over the legal answer. The court is free to reject an objection to the changed language; it must preserve the statutory process through which that objection can be made before the change reaches the jury.
 
 ---
 
 ## 13. Forfeiture, waiver, and invited error
 
-The procedural distinction also matters when an appellate court considers preservation.
+The content of the communication also controls the preservation inquiry. A party's acceptance of one proposition is an act directed to that proposition; it does not automatically speak to additional material inserted in the communication subsequently returned to the jury.
 
-Waiver, forfeiture, and invited error should be tied to the judicial act actually challenged.
+The specific distinctions presented by the record are:
 
-A reviewing court should therefore distinguish among:
+1. **Reply No. 1:** Rosario identified his agreement as concerning the direction that jurors may not consider material outside the instructions. The court's completed reply also contained the separate statement that it would not instruct on identified Vehicle Code provisions. The court's substantive explanation addressed that completed reply.
+2. **Reply No. 2:** Rosario challenged the highway/street addition and specifically stated that the court **“enhanced the statement and ... sent that back.”** The court answered by defending the added legal definition.
+3. **Both replies:** Rosario contested the court's account of assent, sought to correct the record concerning his objections, and the court later described the objections to both responses as considered and overruled.
 
-1. Agreement with an earlier draft.
-2. Agreement with one proposition contained within a response.
-3. Agreement that jurors themselves should not independently research or apply uninstructed law.
-4. Acquiescence in a procedural step.
-5. Failure to object after adequate notice.
-6. Actual assent to the completed substantive communication ultimately transmitted.
+Forfeiture and invited error should be assessed against **the material communication challenged**, not against a generalized label of “agreement” that leaves the object of agreement undefined.
 
-Each label names a different object.
-
-If the challenged act is a judicial addition, modification, restriction, refusal, or other substantive change, the preservation inquiry asks whether the party had the statutory opportunity to address **that challenged act** before it occurred.
-
-A finding of agreement identifies the proposition the party accepted.
-
-Agreement to a research limit is agreement that jurors may not apply uninstructed law. Agreement to a later refusal, or to a later inserted definition, is agreement to that later writing. Acquiescence in a procedural step is a position on that step. Failure to object after adequate notice is a position on the noticed writing. Actual assent to the completed communication is assent to that communication. Waiver, forfeiture, and invited error follow the writing the party addressed. A composite finding of "agreement to the response" treats Set 1 conduct as Set 2 consent.
+The same principle applies without taking any position on the correct substantive instruction. **The issue is what revised legal communication the judge actually transmitted and what opportunity the party had to object to that revision before it was sent.**
 
 ---
 
 ## 14. The circularity problem
 
-Otherwise the process can become circular:
+The circularity arises when a materially changed judicial communication is treated as already accepted because the parties discussed an earlier proposition.
 
-1. The jury asks a legal question.
-2. The parties address one proposition.
-3. The court materially changes the legal response.
-4. The changed response reaches the jury.
-5. The party learns what occurred and objects.
-6. The objection is deemed too late.
-7. The earlier discussion of another proposition is then characterized as waiver or consent.
-8. Appellate review is denied because the party supposedly failed to object to the very communication the party contends was transmitted without the required prior opportunity to object.
+The sequence alleged in the reported exchange is straightforward. A jury asks for legal information. The court supplies additional or changed language. Rosario identifies the enhancement and says the judge **“sent that back.”** He objects to the court's insertion of material and disputes the court's account that he had acquiesced. The judge defends the completed language and invokes discretion to issue **“these responses.”**
 
-That sequence would make the procedural violation capable of creating its own forfeiture.
-
-The statutory safeguard cannot meaningfully operate if the absence of the protected opportunity is later used as the reason review is unavailable.
-
-The circular sequence has a legal name: the process error supplies the preservation holding. The party addresses one proposition. The court transmits another. The later objection is called untimely because the writing has already gone. The earlier discussion is then called waiver of the transmitted writing. Review never reaches whether section 614 attached to the information given. The ramification is that a missed showing becomes proof that the showing was unnecessary. That is why the case can arrive as a forfeiture case instead of a 614 case. The comparison is between a record that identifies the challenged communication and a record that substitutes a different communication as the object of consent.
+If the party's earlier statement concerning different wording is then used to characterize the completed altered reply as unopposed, **the earlier conversation becomes a substitute for the statutory opportunity to address what was actually sent.**
 
 ```mermaid
 flowchart TD
-  A[Jury asks a legal question] --> B[Parties address one proposition]
-  B --> C[Court materially changes the response]
-  C --> D[Changed response reaches the jury]
-  D --> E[Party objects]
-  E --> F[Objection treated as too late]
-  F --> G[Earlier discussion treated as waiver or consent]
-  G --> H[Review denied]
-  H --> I[Absence of the 614 opportunity becomes the reason review is unavailable]
+  A[Earlier proposed wording discussed] --> B[Materially changed response]
+  B --> C[Changed response transmitted]
+  C --> D[Party objects to the changed communication]
+  D --> E[Earlier discussion characterized as assent]
+  E --> F[Procedural challenge displaced by supposed consent]
 ```
+
+The statewide rule should prevent this substitution. It should connect the opportunity to object to the **materially changed communication**, and it should identify the relevant judicial act as **delivery of that changed communication**, not the wisdom of the legal choice it contained.
 
 ---
 
 ## 15. The broader statewide rule
 
-The statewide rule should therefore extend beyond judicial additions to any material substantive communication concerning the law during jury deliberations:
+This commentary proposes the following statewide construction of Code of Civil Procedure section 614:
 
-**When a deliberating civil jury seeks information concerning the law, the trial court retains authority to determine the lawful substance of its response. But before a substantive judicial communication that adds, modifies, clarifies, restricts, refuses, or otherwise materially defines the legal framework of deliberation is transmitted to the jury, Code of Civil Procedure section 614 requires notice sufficient to provide the parties a meaningful opportunity to address that communication.**
+**When a deliberating civil jury asks for information on a point of law, the trial court retains authority to determine the lawful substance of its answer. When the court materially modifies a response that was previously presented or discussed, however, the statutory presence-or-notice requirement must apply to the material modification before the completed response is given to the jury. The court may overrule objections to the modification. It may not substitute its substantive reasons for the change for the procedure required before communicating that change.**
 
-**Party consent to the court's ultimate ruling is not required. The court remains free to reject the parties' positions. But judicial discretion over the substance of the response does not include discretion to eliminate the adversarial procedure governing its transmission.**
+**Notice of a proposed response should not automatically count as notice of a materially different response. Nor should agreement to one proposition automatically count as assent to a changed legal communication that the court subsequently sends to the jury. The appellate inquiry must identify the changed response, the court's transmission of it, and the party's opportunity to address that change before transmission.**
 
-**When the communication ultimately given materially differs from the communication previously disclosed, notice of the earlier communication does not, without more, establish notice of the later judicial act.**
+The rule is about **procedure**, not whether the judge correctly interpreted the Vehicle Code, correctly refused an instruction, or correctly evaluated prejudice. A judge may believe the supplemented language is legally accurate and harmless. That belief is a substantive explanation. Section 614 addresses the separate sequence by which the court communicates its selected legal guidance to a deliberating jury.
 
-**And waiver, forfeiture, or invited error should rest upon conduct directed to the challenged communication itself, after the party has received the opportunity the law provides to address it.**
+> **The judge may change the legal answer. The statute governs how that changed answer reaches the jury.**
 
-The principle can be stated still more broadly:
-
-> **The judge controls the ruling. The law controls the process by which that ruling reaches the deliberating jury.**
-
-Or:
-
-> **Judicial independence determines the law; adversarial process governs how a new judicial statement of that law enters the jury room.**
-
-That boundary protects both principles without diminishing either.
+> **Judicial discretion determines the lawful content; adversarial procedure protects the opportunity to address a material change before the jury receives it.**
 
 ```mermaid
 flowchart TD
-  A[Deliberating jury seeks information on the law] --> B[Court determines lawful substance]
-  B --> C[Notice of the communication actually to be given]
-  C --> D[Parties address that communication]
-  D --> E[Court may overrule]
-  E --> F[Then transmit]
-  B --> G{Writing changed after an earlier showing?}
-  G -->|Yes| C
+  A[Jury requests legal information] --> B[Court drafts proposed response]
+  B --> C[Parties address proposed wording]
+  C --> D{Court makes a material change?}
+  D -->|Yes| E[Statutory notice concerning the change]
+  D -->|No| G[Court delivers completed response]
+  E --> F[Parties may address change; court rules]
+  F --> G
+  G --> H[Jury receives court's legal answer]
 ```
 
 ---
@@ -641,34 +564,28 @@ The substantive law will change from case to case.
 
 The procedural question does not.
 
-The comparison across those jury asks, and across those civil fields, is the same comparison drawn above. The statute named in the note will change. The requested definition will change. The verdict form will change. The court's authority to decide the lawful answer remains. The requirement that the parties see the completed answer before the jury does remains. A uniform rule is needed because a reviewing court in a contract case and a trial judge in a negligence case will otherwise treat notice of a draft, or a post-transmission invitation to object, as interchangeable with notice of the information given. Those substitutes are the same substitutes in every civil jury trial. The ramifications do not depend on Vehicle Code section 22107. They depend on whether section 614 follows the writing the jury received.
+The comparison across those jury asks, and across those civil fields, is the same comparison drawn above. The statute named in the note will change. The requested definition will change. The verdict form will change. The court's authority to decide the lawful answer remains. The proposed section 614 rule concerning a materially changed completed answer remains the same. A uniform rule is needed because a reviewing court in a contract case and a trial judge in a negligence case will otherwise treat notice of a draft, or a post-transmission invitation to object, as interchangeable with notice of the information given. Those substitutes are the same substitutes in every civil jury trial. The ramifications do not depend on Vehicle Code section 22107. They depend on whether section 614 follows the writing the jury received.
 
 ---
 
 ## 17. Why review is warranted
 
-The question concerns:
+The proposed statewide question is narrow enough to administer uniformly and broad enough to matter across civil trials:
 
-1. The boundary between judicial discretion and adversarial procedure during deliberations.
-2. When the court may communicate substantive law to the jury.
-3. What section 614 means by notice.
-4. Whether notice attaches merely to the existence of a jury request or instead to the substantive judicial information ultimately provided.
-5. Whether a material modification requires a renewed opportunity to be heard.
-6. Whether a post-transmission objection can substitute for the statutory opportunity that would have existed before transmission.
-7. Whether forfeiture, waiver, or invited error may be founded on conduct occurring before the party had notice of the judicial communication actually challenged.
+**When the court changes a legal response after discussion with the parties, does section 614 require the parties to receive notice of the material change before the revised response is delivered to the deliberating jury?**
 
-Those questions require a uniform statewide answer.
+The record presents the issue through concrete judicial communications. Rosario identified an enhanced legal definition and accused the court of sending that enhanced statement back. The judge identified the definition as court-supplied, called it potentially gratuitous, found no harm, and answered the accusation by defending the street language. In a separate reply, the judge read the completed restriction-and-refusal text, offered a different substantive explanation, and expressly identified delivery. When the two responses were challenged, the judge defended his discretion to issue **“these responses”** and acknowledged overruling objections to both.
 
-The broader principle is:
+The statewide importance lies in the **relationship between the altered writing and the statutory opportunity to address it**. Every civil trial judge may need to send supplemental legal guidance to a deliberating jury. Every litigant needs to know whether participation concerning an earlier draft protects the opportunity to object to materially different final language. Reviewing courts need a consistent way to identify the particular response and the particular act of judicial transmission.
 
-**The court possesses authority to determine the law, but that authority operates within an adversarial judicial process. Once a jury has begun deliberating, section 614 protects that process at the precise point where a new judicial statement of law is about to enter the jury room.**
+The Court should grant review to articulate that procedural boundary. The question can be resolved without making the underlying Vehicle Code dispute the principal issue:
 
-The judge may ultimately decide the question alone.
+> **A trial judge may decide what law to communicate, but material changes to a proposed legal communication remain subject to the statutory process governing what reaches the jury and when.**
 
-The judge should not decide it outside the process that gives the parties an opportunity to address the completed legal communication before the jury receives it.
+---
 
-That is not a limitation on the judiciary's authority to determine law.
+### Authorities and record references
 
-**It is the procedural condition under which that authority is exercised during jury deliberations.**
-
-The Supreme Court should grant review to define that boundary for California civil trials.
+- [Code of Civil Procedure, § 614](https://codes.findlaw.com/ca/code-of-civil-procedure/ccp-sect-614/) — communication of information requested by a deliberating jury.
+- [*Nelson v. Southern Pacific Co.* (1937) 8 Cal.2d 648, 655](https://scocal.stanford.edu/opinion/nelson-v-southern-pacific-co-28878) — jury communication and the section 614 procedural protection.
+- **11 RT** — reporter's transcript, April 23, 2025, *Rosario v. Abdelhalim*, CGC-21-594102. Pinpoint references above identify the printed transcript page and line, not lines in this commentary.
