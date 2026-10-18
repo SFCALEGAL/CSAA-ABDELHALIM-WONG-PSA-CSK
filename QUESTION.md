@@ -13,9 +13,10 @@
 7. [The principle reaches more than added language](#7-the-principle-reaches-more-than-added-language)
 8. [Why transmission is the critical dividing line](#8-why-transmission-is-the-critical-dividing-line)
 9. [What the record proved](#9-what-the-record-proved)
+    - [The charges](#the-charges)
     - [Reply No. 2 — the highway/street enhancement and sending](#reply-no-2--the-highwaystreet-enhancement-and-sending)
-    - [Reply No. 1 — a different response and explanation](#reply-no-1--a-different-response-and-a-different-judicial-explanation)
-    - [The responses considered together](#the-responses-considered-together--the-courts-plural-account)
+    - [Reply No. 1 - a different response and explanation](#reply-no-1---a-different-response-and-a-different-judicial-explanation)
+    - [The responses considered together](#the-responses-considered-together---the-courts-plural-account)
     - [What the recorded exchange establishes](#what-the-recorded-exchange-establishes)
 10. [Notice of one version is not necessarily notice of another](#10-notice-of-one-version-is-not-necessarily-notice-of-another)
 11. [Post-transmission objection is different](#11-post-transmission-objection-is-different)
@@ -301,7 +302,28 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 The reported exchanges concern **judicially supplied legal language, an accusation that the court enhanced and returned a response, and the judge's defense of the completed responses as acts within its authority**. They concern procedure: **what was changed, what was sent, and when Rosario was afforded an opportunity to challenge the change**. The judge's view of the statutes' substantive correctness is not the issue advanced on this page.
 
+### The charges
+
+The replies below answer these charges. The charges are stated first so each reply is read against the accusation it meets. Rosario directed them to the trial judge. He repeated them. They accuse that judge of changing the replies and sending the changed replies to the jury.
+
+1. **Inserted a Vehicle Code into the jury.** 11 RT 4:1-7. "The Court also, through its own admission, clarified something to the Jury by submitting a actual Vehicle Code, which was not introduced during the evidence, and by that cause alone, Your Honor, you had inserted information into the Jury."
+2. **Reply No. 1. Added language into the second clause.** 11 RT 4:11-14. "But when you added that into the second one, it caused this, because the Jury had to make the decision based upon the available evidence that was there."
+3. **Provided a code and inserted new information.** 11 RT 4:26-5:8. "new information has been inserted by yourself. ... You provided a code."
+4. **Inserted the information after the jury was in the sealed room.** 11 RT 5:24-27. "Inserting that information into the Jury after the fact, after they have gone into the sealed room back there, essentially, is extraneous influence over the Jury and their knowledge about this case."
+5. **Reply No. 2. Enhanced the statement by adding street, and sent it back.** 11 RT 8:7-12. "You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury."
+6. **Objections to the completed replies to forms 1 and 2.** 11 RT 10:8. "Yes."
+7. **The completed replies were outside the understanding.** 11 RT 10:12. "That wasn't our understanding."
+8. **Objected to language and materials sent back.** 11 RT 10:23-11:13. "Plaintiff did object to any language or materials sent back ... specifically also the one that was defined by yourself to the Jury themselves."
+9. **Objected to any material going back, including vehicle clarification.** 11 RT 11:16-22. "I objected to any of the material going back, the codes ... anything, any kind of clarification of vehicles."
+10. **Sending back enhancements.** 11 RT 13:17-22. "second off, you sending back enhancements."
+
+Charge 5 is Reply No. 2. Charge 2 is Reply No. 1. Charges 1, 3, and 4 name the court as the actor who inserted the information. Charges 6 through 10 name both completed replies.
+
+The court's spoken answers to that series are the changed words, "I find no harm nor prejudice," "were not part of the evidence," and "discretion to issue these responses." A rejection of charges of this kind, made repeatedly to the judge in the courtroom, would be a statement that the reply was not changed, or that it was not sent. The answers on the record are the change and the issuance.
+
 ### Reply No. 2 — the highway/street enhancement and sending
+
+This reply is the answer to charge 5, and to the vehicle half of charges 8, 9, and 10.
 
 **The clearest enhancement-and-transmission accusation concerns Reply No. 2.** Its subject was the jury's request for a definition of “vehicle.” The court read vehicle and highway definitions, including the sentence that highway includes street. (11 RT 7:10–26.)
 
@@ -331,9 +353,9 @@ That is an answer defending the **content of the addition**. The court answered 
 
 This is the record's direct route to the section 614 issue. The question is not whether a statute may legally define highway to include street. **The question is whether the judge altered the reply and sent that alteration to the jury before the party could examine and address the change.**
 
-### Reply No. 1 — a different response and a different judicial explanation
+### Reply No. 1 - a different response and a different judicial explanation
 
-Reply No. 1 concerned Vehicle Code sections 22107 and 21804(a). Rosario described the proposition he accepted in these words:
+This reply is the answer to charge 2, and to the sealed-room charge in charge 4 as it concerns Jury request number one. Reply No. 1 concerned Vehicle Code sections 22107 and 21804(a). Rosario described the proposition he accepted in these words:
 
 > “I do agree with the first one, the response to number one: You may not consider it because it is not part of the instructions.” (11 RT 4:8–10.)
 
@@ -359,9 +381,9 @@ The court also expressly identified delivery of Reply No. 1:
 
 The sentence concerns **Reply No. 1**. It records the court's own account of presentation and delivery of that reply. The highway/street addition belongs to **Reply No. 2** and is addressed through its own exchange.
 
-### The responses considered together — the court's plural account
+### The responses considered together - the court's plural account
 
-The court thereafter dealt with Rosario's objections to **both completed responses**. Rosario interjected, **“That wasn't our understanding.”** (11 RT 10:12.) He contested the assertion that no objection had been made, sought reconstruction of the unreported discussion, and identified the court-defined vehicle material as part of his objection. (11 RT 10:23–11:22.) In his words:
+This passage is the answer to charges 6 through 10. The court thereafter dealt with Rosario's objections to **both completed responses**. Rosario interjected, **“That wasn't our understanding.”** (11 RT 10:12.) He contested the assertion that no objection had been made, sought reconstruction of the unreported discussion, and identified the court-defined vehicle material as part of his objection. (11 RT 10:23–11:22.) In his words:
 
 > “The correction is that I objected to any of the material going back, the codes ... anything, any kind of clarification of vehicles ...” (11 RT 11:16–22.)
 
