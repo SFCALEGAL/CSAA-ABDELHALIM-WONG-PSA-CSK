@@ -14,12 +14,16 @@
 7. [The principle reaches more than added language](#7-the-principle-reaches-more-than-added-language)
 8. [Why transmission is the critical dividing line](#8-why-transmission-is-the-critical-dividing-line)
 9. [What the record proved](#9-what-the-record-proved)
+    - [The fundamental wrong](#the-fundamental-wrong)
+    - [The hinge: presented-then-delivered, then “Inaccurate”](#the-hinge-presented-then-delivered-then-inaccurate)
     - [The charges against the sitting trial judge](#the-charges-against-the-sitting-trial-judge)
+    - [The court's responses to those charges](#the-courts-responses-to-those-charges)
     - [Reply No. 2 — the highway/street enhancement and sending](#reply-no-2--the-highwaystreet-enhancement-and-sending)
     - [Reply No. 1 — the separately challenged completed response](#reply-no-1--the-separately-challenged-completed-response)
     - [The plural response — objections and judicial issuance](#the-plural-response--objections-to-both-replies-and-judicial-authority-to-issue-them)
     - [Accusation-to-answer map](#accusation-to-answer-map)
-    - [Why the repeated accusation matters](#why-the-repeated-accusation-matters)
+    - [Admission by acquiescence: justification rather than denial](#admission-by-acquiescence-justification-rather-than-denial)
+    - [The irrefutable chain](#the-irrefutable-chain)
 10. [Notice of one version is not necessarily notice of another](#10-notice-of-one-version-is-not-necessarily-notice-of-another)
 11. [Post-transmission objection is different](#11-post-transmission-objection-is-different)
 12. [Judicial discretion has a procedural boundary](#12-judicial-discretion-has-a-procedural-boundary)
@@ -33,7 +37,7 @@
 
 ## 1. The broader question
 
-The statewide question is not whether the trial judge correctly withheld a Vehicle Code instruction or correctly defined the word *highway*. The issue is **whether the court materially changed the legal response that would reach the deliberating jury and transmitted that changed response before the parties had an opportunity to address the change.** The issue arose through **repeated accusations directed by Rosario to the sitting superior court judge**: “you had inserted information into the Jury” (11 RT 4:5–7), “You enhanced the statement and you sent that back” (11 RT 8:11), and “you sending back enhancements” (11 RT 13:19–20). **Section 9 maps each accusation to the judge's actual response.**
+The statewide question is not whether the trial judge correctly withheld a Vehicle Code instruction or correctly defined the word *highway*. The issue is **whether the court materially changed the legal response that would reach the deliberating jury and transmitted that changed response without Rosario's view of the completed writing, without his approval of it, and without his opportunity to object to it before delivery.** Correctness of the Vehicle Code text is a separate subject. The fundamental wrong is the unseen sending. The issue arose through **repeated accusations directed by Rosario to the sitting superior court judge**: “you had inserted information into the Jury” (11 RT 4:5–7), “You enhanced the statement and you sent that back” (11 RT 8:11), and “you sending back enhancements” (11 RT 13:19–20). **Section 9 maps each accusation to the judge's actual response, shows the court's pattern of justifying rather than denying, and sets out the irrefutable chain.**
 
 **When a trial court materially changes a legal response discussed with the parties, what does Code of Civil Procedure section 614 require before the changed response may be communicated to a deliberating civil jury?**
 
@@ -255,7 +259,7 @@ The statewide rule therefore addresses **materially altered judge-to-jury legal 
 
 ## 8. Why transmission is the critical dividing line
 
-Transmission is the critical event because that is when the court's proposed answer becomes the jury's legal instruction. **“You enhanced the statement and you sent that back” identifies both acts and their order** (11 RT 8:11). **“Second off, you sending back enhancements”** renews the sending charge after the judge explicitly asked for the asserted irregularities (11 RT 13:16–22). The repeated accusation makes transmission a reported controversy, not a merely hypothetical procedural hazard.
+Transmission is the critical event because that is when the court's proposed answer becomes the jury's legal instruction. **“You enhanced the statement and you sent that back” identifies both acts and their order** (11 RT 8:11). The sentence does not say Rosario saw the enhanced statement first. It says the enhanced statement was already sent. **“Second off, you sending back enhancements”** renews the sending charge after the judge explicitly asked for the asserted irregularities (11 RT 13:16–22). The repeated accusation makes transmission without Rosario's view, approval, or prior opportunity to object a reported controversy, not a merely hypothetical procedural hazard.
 
 Before transmission, the process remains correctable without exposing the jury to the disputed communication:
 
@@ -302,11 +306,39 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ## 9. What the record proved
 
+### The fundamental wrong
+
+**The fundamental wrong is this: the judge sent a legal message into the deliberating jury without Rosario's view of that message, without Rosario's approval of that message, and without Rosario's opportunity to object to that message before it reached the jury.**
+
+That sentence is the charge. Every surrounding detail (highway includes street, Vehicle Code text, harmlessness, discretion) is secondary. The procedural accusation under Code of Civil Procedure section 614, and the due-process interest protected by the Fourteenth Amendment to the United States Constitution, is the **unseen, unapproved, unobjected-to delivery** of the court's completed legal communication. Strip away the surrounding words and that delivery remains. Leave that delivery out, and the rest of the episode loses its meaning.
+
+The judge may decide the law. The judge may choose language neither party prefers. What the statute and the constitutional process charge forbid is **ruling first, transmitting that ruling into the sealed jury room, and only then facing the party's challenge to a completed communication the party never saw in the form the jury received**.
+
+### The hinge: presented-then-delivered, then “Inaccurate”
+
+**This is one of the most important passages in the record.** It is a single sequence. Counsel should read it as one confrontation, not as two unrelated subjects.
+
+In one continuous judicial speech (**11 RT 6:14–8:6**), the sitting trial judge first claimed the statutory sequence for Jury request form number one:
+
+> “The Court presented that response in Jury request number one to each party before delivering it to the Jury.” **11 RT 6:19–21.**
+
+In that same speech, the judge then turned to Jury request form number two, read the completed answer including **“'Highway' includes street,”** and defended the Court's own act of defining the term for the jury's use as potentially gratuitous, neutral, and without harm. **11 RT 7:10–8:6.**
+
+**The next speaker turn is Rosario's.** He does not wait. He does not negotiate the Vehicle Code citation. He opens by charging that the court's account is false, and he identifies the completed act:
+
+> “Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury.” **11 RT 8:7–12.**
+
+That is the charge of lying about the completed communication. The judge had just described presentation to the parties and delivery to the jury. Rosario answered that the statement that went back was an **enhancement**, and that the judge **had already sent it**. The objection is that the enhanced writing reached the jury; it is not a later preference about statutory wording.
+
+**The judge did not refute that objection.** He did not say “I did not send it.” He did not say “you saw the enhanced writing before it went back.” He answered that the code contains the words. **11 RT 8:13–16.** Correctness of the text leaves the sending charge standing.
+
+**Every claim afterwards stands in the face of that unrebutted objection.** The later statements about discretion to “issue these responses” (**11 RT 11:28–12:4**), prematurity of section 657 relief (**11 RT 13:23–25**), and renewed accounts of earlier nonobjection (**11 RT 10:9–19**) were spoken **after** Rosario had already told the court, on the record, that the enhanced statement had been sent back. The judge never returned to deny that sending. Justification after an unrebutted sending objection is not a cure of the missing view, approval, or opportunity to object.
+
 ### The charges against the sitting trial judge
 
-The significance of this episode begins with **who Rosario accused and what he accused that person of doing**. Rosario was not merely disagreeing with an instruction or criticizing an opposing lawyer. In open court, while the jury was deliberating, he repeatedly accused the sitting superior court judge of **personally inserting legal material into jury responses, changing language, and returning the enhanced responses to jurors**. He also contested the court's account of his earlier assent and objections. The statutory and constitutional charge drawn from those statements is that an altered judicial communication reached the jury without the party's prior opportunity to examine and challenge the material alteration. These accusations concern the manner in which the judge exercised judicial authority, not whether a Vehicle Code proposition was substantively sound.
+The significance of this episode begins with **who Rosario accused and what he accused that person of doing**. Rosario was not merely disagreeing with an instruction or criticizing an opposing lawyer. In open court, while the jury was deliberating, he repeatedly accused the sitting superior court judge of **personally inserting legal material into jury responses, changing language, and returning the enhanced responses to jurors without Rosario first seeing, approving, or objecting to the completed writing**. The statutory charge is section 614. The constitutional charge is deprivation of the adversarial opportunity that due process requires before a court-authored legal rule enters jury deliberations. These accusations concern the manner in which the judge exercised judicial authority, not whether a Vehicle Code proposition was substantively sound.
 
-The ten recorded charges are set out below **before the court's answers**, so that each answer can be evaluated against the question it confronted. Quoted words are transcript excerpts; the charge headings identify the acts Rosario was attributing to the court.
+The ten recorded charges are set out below **before the court's answers**, so that each answer can be evaluated against the question it confronted. Quoted words are transcript excerpts; the charge headings identify the acts Rosario was attributing to the court. **In every charge that names sending or insertion, the missing predicate is the same: Rosario did not have the completed message for his view, his approval, or his objection before delivery.**
 
 1. **Charge 1 — Judicial insertion of legal information into the deliberating jury's materials.** Rosario accused the court itself of supplying a Vehicle Code provision that had not been introduced as evidence: “The Court also, through its own admission, clarified something to the Jury by submitting a actual Vehicle Code ... you had inserted information into the Jury.” **11 RT 4:1–7.** This charge identifies the **court**, rather than a juror, as the actor supplying the information.
 
@@ -316,7 +348,7 @@ The ten recorded charges are set out below **before the court's answers**, so th
 
 4. **Charge 4 — Insertion after the jury had retired.** Rosario stated: “Inserting that information into the Jury after the fact, after they have gone into the sealed room back there, essentially, is extraneous influence over the Jury and their knowledge about this case.” **11 RT 5:20–27.** The allegation identifies **judicial communication during deliberations**, the setting to which section 614 speaks.
 
-5. **Charge 5 — Reply No. 2 was enhanced with “highway includes street” and sent back.** Rosario directly told the judge: “Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury.” **11 RT 8:7–12.** This is the specific **addition-and-transmission charge**: judicial author, identified words, completed transmission, and asserted influence on jurors.
+5. **Charge 5 — Immediate charge that the court's presented-then-delivered account was inaccurate: Reply No. 2 was enhanced and already sent back without Rosario's view.** Immediately after the judge's continuous speech claiming presentation to the parties before delivery and then reading the highway/street answer (**11 RT 6:14–8:6**), Rosario said: “Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury.” **11 RT 8:7–12.** This is the specific **addition-and-transmission charge**, and it is also a direct challenge to the truth of the completed-communication narrative the judge had just spoken. Judicial author, identified words, completed transmission **already accomplished**, and asserted influence on jurors. The wrong is not that the statute contains those words. The wrong is that **the enhanced statement went to the jury before Rosario saw it, approved it, or objected to it as the completed writing.** The judge did not refute that sending objection.
 
 6. **Charge 6 — Objections concerning both completed forms.** When the judge reported that the clerk had informed him Rosario wished to place objections concerning **Jury Request Forms Nos. 1 and 2** on the record, Rosario answered **“Yes.”** **11 RT 10:4–8.** This identifies the two responses as the subjects of his requested record correction.
 
@@ -326,33 +358,53 @@ The ten recorded charges are set out below **before the court's answers**, so th
 
 9. **Charge 9 — Specific objection to the transmission of codes and vehicle clarification.** Asked by the judge what correction he sought, Rosario answered: **“The correction is that I objected to any of the material going back, the codes”** and objected to **“any kind of clarification of vehicles.”** **11 RT 11:14–22.** Rosario thus described an objection to the **sending**, not merely a preference for different substantive law.
 
-10. **Charge 10 — Renewed direct accusation of sending enhancements.** Later, **the judge himself asked**, “What are the irregularities, sir?” Rosario distinguished his concern about possible juror access from the second and separate irregularity: **“second off, you sending back enhancements to a testimony that was not in.”** **11 RT 13:13–22.** This renewed accusation names **the judge's sending of enhancements** as its own procedural irregularity.
+10. **Charge 10 — Renewed direct accusation of sending enhancements.** Later, **the judge himself asked**, “What are the irregularities, sir?” Rosario distinguished his concern about possible juror access from the second and separate irregularity: **“second off, you sending back enhancements to a testimony that was not in.”** **11 RT 13:13–22.** This renewed accusation names **the judge's sending of enhancements** as its own procedural irregularity. After multiple accusations, the judge still received a direct invitation to deny the sending and instead answered the remedy's timing. The renewed charge keeps the fundamental wrong in view: **enhancements already sent back, still without a judicial showing that Rosario saw, approved, or objected to the completed writing first.**
 
 The two response numbers must not be conflated. **Charge 5 specifically identifies the “highway includes street” enhancement in Reply No. 2. Charges 2 and 7 bear on Rosario's account of the earlier understanding and the completed Reply No. 1, including its separate refusal clause. Charges 1, 3, 4, 8, 9, and 10 establish the breadth and repetition of the allegation that the court itself supplied and returned legal information.** Charges 6 through 9 also explain why Rosario sought to put objections to **both forms** on the record.
 
-The notice accusation is the essential procedural inference joining these statements. In ordinary terms, Rosario's position was: **the judge sent a materially enhanced legal response before Rosario was able to address the enhancement as part of the completed writing**. That formulation is the **inference from Rosario's own recorded statements**: an identified addition, a completed return to the jury, a contested understanding, and a request to reconstruct the objections. The accusation is about **the completed enhanced writing**, not merely the original subject of the jury's question.
+The notice accusation is the essential procedural inference joining these statements. In ordinary terms, Rosario's position was: **the judge sent a materially enhanced legal response without Rosario's view of that completed writing, without his approval of it, and without his opportunity to object to it before delivery**. That formulation is the **inference from Rosario's own recorded statements**: an identified addition, a completed return to the jury, a contested understanding, and a request to reconstruct the objections. The accusation is about **the completed enhanced writing already in the jury's hands**, not merely the original subject of the jury's question.
+
+### The court's responses to those charges
+
+Read against the ten charges, the court's spoken answers fall into a single pattern. The judge answers **content**, **harmlessness**, **discretion**, or **timing of the remedy**. He does not answer: “I did not send it,” “Rosario saw the completed writing first,” or “Rosario had the statutory opportunity to object before delivery.”
+
+1. **To Charges 1, 3, and 4 (judicial insertion after retirement):** the court later described its own definition as something the Court was supplying for the jury's use, potentially “gratuitous,” neutral, and causing “no harm nor prejudice.” **11 RT 7:27–8:6.** That is a defense of the information. It is not a statement that Rosario viewed the completed writing before transmission.
+
+2. **To Charges 2 and 7 (scope of Reply No. 1 and contested understanding):** the court read the complete two-clause No. 1 answer, claimed prior presentation of that response, and explained that the cited codes “were not part of the evidence.” **11 RT 6:16–7:9.** Rosario contested the asserted understanding. **11 RT 10:9–12.** The controversy includes whether the completed writing was the writing Rosario saw and could object to.
+
+3. **To Charge 5 (enhanced and sent):** the judge answered with the code-book text: “Highway includes street.” **11 RT 8:13–16.** That is a defense that **the answer was correct**. It is not a denial that the enhanced statement had already been sent. It is not a claim that Rosario saw, approved, or objected to that completed enhancement before delivery.
+
+4. **To Charges 6, 8, and 9 (objections to both forms and materials sent back):** the judge noted and overruled the objections and invoked discretion to “issue these responses.” **11 RT 11:28–12:4.** That is a defense of **authority to issue**. It treats the responses as already issued subjects of later objection, not as writings still awaiting Rosario's view.
+
+5. **To Charge 10 (renewed “you sending back enhancements”):** the judge answered that CCP section 657 relief was premature. **11 RT 13:23–25.** That is a defense of **timing of the remedy**. It is not a factual denial of the sending.
+
+On the face of an accusation that the sitting judge violated section 614 and the due-process interest protected by the Fourteenth Amendment (authoritative judicial law reaching deliberating jurors without the party's prior adversarial opportunity), the recorded judicial posture is: **the answer was correct; the definition was neutral; issuance was within discretion; the remedy is premature.** That is justification. It is not denial of the unseen delivery.
 
 ### Reply No. 2 — the highway/street enhancement and sending
 
-**The charge:** Rosario accused the judge of adding the highway/street language and returning the enhanced response to the jury. **11 RT 8:7–12 (Charge 5).** He had already accused the court of inserting Vehicle Code material after the jury retired. **11 RT 4:1–7; 5:20–27 (Charges 1 and 4).**
+**The charge:** Rosario accused the judge of adding the highway/street language and returning the enhanced response to the jury **without Rosario first seeing that completed enhancement**. **11 RT 8:7–12 (Charge 5).** He had already accused the court of inserting Vehicle Code material after the jury retired. **11 RT 4:1–7; 5:20–27 (Charges 1 and 4).**
 
-**The court's words before that charge:** While addressing Reply No. 2, the judge read the vehicle and highway definitions, including **“'Highway' includes street.”** **11 RT 7:10–26.** The judge then stated:
+**The court's continuous speech immediately before that charge (**11 RT 6:14–8:6**):** The same judicial turn first claimed presentation to the parties before delivery on form number one:
+
+> “The Court presented that response in Jury request number one to each party before delivering it to the Jury.” **11 RT 6:19–21.**
+
+Without ending that speech, the judge then turned to form number two, read the vehicle and highway definitions, including **“'Highway' includes street,”** and stated:
 
 > “The Court -- even if this was something that was gratuitous on the part of the Court, the Court is defining something that is the word 'vehicle' for the purpose of the jury's use in this matter. I find no harm nor prejudice against either party in this case. It is simply a neutral definition coming from the Vehicle Code which defines vehicle and highway.” **11 RT 7:27–8:6.**
 
-That language matters because the judge identified **the Court** as the actor supplying the definition and addressed whether that judicial addition was gratuitous, neutral, and harmful. **“Even if” is the judge's own conditional description; the direct admission is that “the Court is defining” for the jury's use.** The passage is a judicial defense of the information placed in the response.
+That language matters because the judge identified **the Court** as the actor supplying the definition and addressed whether that judicial addition was gratuitous, neutral, and harmful. **“Even if” is the judge's own conditional description; the direct admission is that “the Court is defining” for the jury's use.** The passage is a judicial defense of the information placed in the response. It is also the second half of a speech that began by claiming the parties had seen the court's response before delivery.
 
-**The direct confrontation:** Rosario then said:
+**The immediate charge of inaccuracy:** Rosario's next turn begins with **“Inaccurate, Your Honor.”** He then identifies both the enhancement and the completed sending:
 
-> “You enhanced the statement and you sent that back. That is a direct influence over the Jury.” **11 RT 8:11–12.**
+> “Inaccurate, Your Honor. You enhanced it by adding that highways also indicates street. That is not in the actual black-letter law. You enhanced the statement and you sent that back. That is a direct influence over the Jury.” **11 RT 8:7–12.**
 
 **The judge's immediate answer:**
 
 > “Sir, do you want to take a look at this code section? It says, 'Highway includes street', close quote.” **11 RT 8:13–16.**
 
-The judge answered the **statutory correctness** portion of Charge 5. He did not answer **“I did not enhance the response”** or **“I did not send it back.”** The accusation was expressly directed to the sitting trial judge, named an exact modification, and asserted that the judge had already sent it to the deliberating jury. In that setting, a factual denial of the specified act would have been a natural response if the court intended to contest its occurrence. The recorded answer instead defended **the words inserted**. **The resulting inference is that the judge contested the asserted impropriety of the addition and its effect, rather than the occurrence of the addition-and-sending described in Charge 5.**
+The judge answered the **statutory correctness** portion of Charge 5. **He did not refute the sending objection.** He did not answer **“I did not enhance the response,”** **“I did not send it back,”** or **“Rosario saw the completed writing before it went to the jury.”** The accusation was expressly directed to the sitting trial judge, named an exact modification, and asserted that the judge had already sent it to the deliberating jury. In that setting, a factual denial of the specified act, or a showing that Rosario had viewed and objected to the completed enhancement first, would have been the natural response if the court intended to contest the section 614 charge. The recorded answer instead defended **the words inserted**. **The resulting inference is that the judge contested the asserted impropriety of the addition and its effect, rather than the occurrence of the addition-and-sending without Rosario's view.**
 
-The judge's harmlessness statement preceded Rosario's precise highway/street accusation, while the code-book answer immediately followed it. The sequence supplies **two substantive defenses surrounding one specific factual accusation**: the definition is neutral and causes no harm, and the words appear in the statute. Neither defense identifies prior disclosure of the added wording before its delivery.
+The presentation-then-delivery claim, the highway/street reading, and the harmlessness defense all precede Rosario's precise accusation in one continuous court turn. The code-book answer immediately follows it. The sequence supplies **a claimed party-view procedure, then two substantive defenses surrounding one specific factual accusation**: the definition is neutral and causes no harm, and the words appear in the statute. Neither defense identifies prior disclosure of the **enhanced** wording before its delivery. **Correctness of the Vehicle Code text does not supply Rosario's missing view, approval, or opportunity to object.** Any later claim that the responses were properly issued was spoken **in the face of that unrebutted objection** that the enhanced statement had already been sent back.
 
 ### Reply No. 1 — the separately challenged completed response
 
@@ -396,21 +448,48 @@ Rosario reiterated that he had requested a mistrial; the court denied the motion
 | --- | --- | --- | --- |
 | **1, 3, 4** — 11 RT 4:1–7; 4:26–5:8; 5:20–27 | The judge personally inserted legal material into jurors' deliberations, after retirement. | The court later described its own definition as potentially “gratuitous,” neutral, and causing “no harm nor prejudice.” **11 RT 7:27–8:6.** | The court defended the information it supplied as appropriate for jurors' use. |
 | **2, 7** — 11 RT 4:8–14; 10:9–12 | Rosario distinguished his stated agreement from the completed reply and disputed the asserted earlier understanding. | The court read the complete two-clause No. 1 answer, claimed prior presentation, and explained that the cited codes “were not part of the evidence.” **11 RT 6:16–7:9.** | The recorded controversy includes the **scope and timing of presentation of Reply No. 1**, not merely which statutes the judge selected. |
-| **5** — 11 RT 8:7–12 | The judge enhanced **Reply No. 2** with the highway/street sentence and **sent the enhanced reply back**. | The judge answered with the code-book text: “Highway includes street.” **11 RT 8:13–16.** | The direct factual allegation of enhancement and sending met **a defense of the words**, not an express denial of the act. |
+| **5** — 11 RT 8:7–12 (immediately after the court's 6:14–8:6 speech claiming presentation before delivery) | Rosario opens **“Inaccurate, Your Honor”** and charges that the judge enhanced **Reply No. 2** with the highway/street sentence and **already sent that enhanced reply back without Rosario's view, approval, or prior opportunity to object**. | The judge answered with the code-book text: “Highway includes street.” **11 RT 8:13–16.** **He did not refute the sending.** | The charge of lying about the completed communication met **a defense that the answer was correct**. The sending objection stands unrebutted. Every later claim sits in the face of that objection. |
 | **6, 8, 9** — 11 RT 10:4–8; 10:23–11:22 | Rosario sought to place objections to both forms on the record, identified returned material, and asked to reconstruct prior objections. | The judge noted and overruled the objections and invoked discretion to **“issue these responses.”** **11 RT 11:23–12:4; 12:27–13:9.** | The judge acknowledged and ruled on **both objections** while defending the issuance of both responses. |
 | **10** — 11 RT 13:16–22 | Rosario expressly renewed the accusation: **“you sending back enhancements.”** | The judge responded that §657 relief was premature. **11 RT 13:23–25.** | The judge responded to the **requested remedy**, not with a factual denial of sending enhancements. |
 
-### Why the repeated accusation matters
+### Admission by acquiescence: justification rather than denial
 
-The inference does not depend upon isolating one sentence of silence. It depends upon **multiple accusations personally directed to the judge**, each identifying the court's own conduct, followed by **the court's actual spoken responses**. Rosario attributed insertion to the judge; the judge acknowledged that **“the Court is defining”** the term for jurors. Rosario identified an exact additional street sentence and expressly said **“you sent that back”**; the judge defended the statute's wording. Rosario contested the earlier understanding and asserted objections to returned materials; the judge **overruled** those objections and defended **“issuing these responses.”** When the judge directly asked him for the irregularities and Rosario again said **“you sending back enhancements,”** the judge disposed of the requested remedy rather than denying the alleged sending.
+Faced with repeated accusations of a section 614 violation, and with the constitutional due-process charge that follows from sending authoritative judicial law to deliberating jurors without the party's prior opportunity to be heard, the sitting trial judge had a direct route available if the accusation were false: **deny the act**. He could have said that the completed writing was shown to Rosario first. He could have said that Rosario objected and was overruled before transmission. He could have said that nothing enhanced was sent.
 
-An allegation that a sitting superior court judge materially altered a legal message and transmitted it during jury deliberations **without the party's opportunity to address that change** is a serious accusation about procedural fairness and the court's own exercise of authority. It is not an ordinary disagreement about whether a witness was believed or whether a statute supports one side. The significance of the non-denial is therefore heightened by **the charge's specificity, its repetition, the judge's opportunity to respond, and the court's affirmative explanations of harmlessness, content, and discretion**.
+He said none of those things.
 
-The constitutional significance of the allegation arises from the speaker and the audience. **A sitting judge's legal communication is authoritative to jurors.** The procedural charge was made to that same judge, not to a third-party witness; it alleged that the judge himself altered a legal answer after deliberations began and caused the altered answer to reach the jury. The opportunity to address that court-authored change is the interest protected by the presence-or-notice procedure in section 614. In [*Nelson v. Southern Pacific Co.* (1937) 8 Cal.2d 648, 655](https://scocal.stanford.edu/opinion/nelson-v-southern-pacific-co-28878), the California Supreme Court treated an unauthorized post-retirement judicial communication as an irregularity going to the substance of trial by jury. **Rosario's charge therefore concerns the integrity of the judicial process itself**, rather than a preference about how the Vehicle Code should be interpreted.
+Instead, across the exchanges, he:
 
-The precise evidentiary deduction is this: **in the reported exchanges directed to enhancement and transmission, the judge responded as one defending the propriety and effect of court-supplied jury responses, not as one denying that the court supplied and sent them**. For Reply No. 2, that conclusion is grounded in the judge's own “the Court is defining” language, Rosario's specific identification of “highways also indicates street,” the code-book answer, and the later plural statement about issuing the responses. For Reply No. 1, the separate evidence is the judge's completed two-clause answer, his affirmative account of presentation and delivery, Rosario's challenge to the scope of earlier agreement, and the court's subsequent consideration and overruling of objections to both forms.
+1. Defended the **correctness** of the inserted words (“Highway includes street”). **11 RT 8:13–16.**
+2. Defended the **neutrality and harmlessness** of the Court's own definition. **11 RT 7:27–8:6.**
+3. Defended the **discretion to issue these responses**. **11 RT 11:28–12:4.**
+4. Defended the **premature timing** of the requested new-trial remedy. **11 RT 13:23–25.**
 
-**This is the constitutional and statutory process charge the Court should confront: the trial judge determines the legal communication, materially changes what is sent, and defends the completed response after the jury has received it, while the party asserts that the completed enhancement was not subject to the prior adversarial opportunity required by section 614.** The requested statewide rule concerns **that process of changing and sending a judicial message**, not the separate merits of the law stated in the message.
+That sequence is **admission by acquiescence**. The charge was: you sent an enhanced legal message into the jury without Rosario's view, without his approval, and without his opportunity to object. The judicial answer was: the message was correct, harmless, and within discretion. **Justification of the content and of the issuance is not a denial of the unseen delivery.** On an accusation that a judge violated section 614 and the Fourteenth Amendment's guarantee of a meaningful opportunity to be heard before court-authored law binds the jury, answering “the answer was correct” submits to the occurrence of the sending and contests only whether the sending was wrongful.
+
+A denial of the violation would have been: “I did not send it without your view.” The record contains the opposite posture: **I sent what the code says, and I was justified.**
+
+**And so any claim afterwards was spoken in the face of the objection that the enhanced statement had already been sent back.** The judge claimed presentation to the parties and then delivery. Rosario immediately answered “Inaccurate” and charged the enhancement-and-sending. **The judge did not refute that.** Later discretion language and prematurity language do not erase an unrebutted sending objection already on the record.
+
+### The irrefutable chain
+
+Counsel need not reconstruct this from silence alone. The transcript supplies an explicit chain. Each link is a spoken statement. The chain closes on the fundamental wrong: **delivery without Rosario's view, approval, or opportunity to object.**
+
+1. **Rosario accuses the judge of inserting legal information into the deliberating jury.** “you had inserted information into the Jury.” **11 RT 4:5–7 (Charge 1).**
+2. **Rosario places the insertion after the jury had retired.** “after they have gone into the sealed room back there.” **11 RT 5:20–27 (Charge 4).**
+3. **In one continuous speech, the judge claims he presented the response to each party before delivering it to the jury**, then turns to form number two, reads **“'Highway' includes street,”** and defends the Court as defining the term for the jury's use. **11 RT 6:19–21; 7:10–8:6.** That speech asserts the party-view-then-delivery sequence and simultaneously discloses the completed No. 2 content.
+4. **Immediately, Rosario charges that account as inaccurate and identifies the completed sending.** “Inaccurate, Your Honor. ... You enhanced the statement and you sent that back.” **11 RT 8:7–12 (Charge 5).** The completed transmission is stated as already done. The missing statutory predicates are Rosario's view of that completed statement, his approval of it, and his opportunity to object to it before delivery.
+5. **The judge does not refute that sending objection.** He does not say he did not enhance it. He does not say he did not send it. He does not say Rosario saw the enhanced writing first. He answers that the code says the words are correct. **11 RT 8:13–16.**
+6. **Rosario contests the court's account of earlier understanding and asserts objections to language and materials already sent back.** **11 RT 10:9–12; 10:23–11:22 (Charges 7–9).** Those later claims by the court about nonobjection are made **after** the unrebutted Charge 5 sending objection.
+7. **The judge overrules and justifies issuance of “these responses.”** **11 RT 11:28–12:4.** Overruling after the fact treats delivery as already accomplished. That justification also stands in the face of the unrebutted sending objection.
+8. **The judge invites identification of the irregularities.** Rosario renews: “you sending back enhancements.” **11 RT 13:16–22 (Charge 10).**
+9. **The judge again declines a factual denial of the sending**, and answers that section 657 relief is premature. **11 RT 13:23–25.**
+
+**That chain is closed.** The hinge is links 3 to 5: presented-then-delivered claim, immediate “Inaccurate ... you sent that back,” no refutation of the sending. Multiple accusations of a section 614 violation. No straight denial of the sending. A succession of justifications: correctness, harmlessness, discretion, prematurity. The final judicial posture is justification of the act charged, not repudiation of it. The judge cannot wiggle out by later claiming the enhancement was never sent, or that Rosario somehow approved a completed writing he was still trying to get onto the record after the fact. The record already contains both the accusation of unseen delivery and the court's choice to defend the message rather than deny the delivery.
+
+A sitting judge's legal communication is authoritative to jurors. The procedural charge was made to that same judge. It alleged that the judge himself altered a legal answer after deliberations began and caused the altered answer to reach the jury **without Rosario seeing it, approving it, or objecting to it first**. That interest is what section 614 protects. It is also the due-process interest under the Fourteenth Amendment: a meaningful opportunity to be heard before the court's law becomes the jury's law. In [*Nelson v. Southern Pacific Co.* (1937) 8 Cal.2d 648, 655](https://scocal.stanford.edu/opinion/nelson-v-southern-pacific-co-28878), the California Supreme Court treated an unauthorized post-retirement judicial communication as an irregularity going to the substance of trial by jury.
+
+**This is the constitutional and statutory process charge the Court should confront: the trial judge determined the legal communication, sent the completed message into the deliberating jury without Rosario's view, without his approval, and without his opportunity to object, and then justified the content and the issuance rather than denying the unseen delivery.** The requested statewide rule concerns **that process of changing and sending a judicial message without the party's prior adversarial opportunity**, not the separate merits of the law stated in the message.
 
 ---
 
