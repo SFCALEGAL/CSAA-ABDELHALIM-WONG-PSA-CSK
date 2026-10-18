@@ -31,3 +31,9 @@ This rule does not restrict legitimate trial-court discretion. It identifies whe
 The question accordingly extends far beyond the particular statutes, parties, and facts of this case. Every California civil trial court may receive a legal question from a deliberating jury. Trial judges, litigants, and reviewing courts need a uniform rule identifying what section 614 requires, when the parties must be heard, and what conduct can constitute waiver of that protection.
 
 The Court should grant review to settle that question.
+
+Draft Insertion:
+
+Nor can post-transmission notice or a belated opportunity to object cure the harm. A deliberating jury's request for legal clarification marks a critical turning point in trial: the jurors have identified the exact legal pivot on which their verdict hangs. Unlike an ordinary instructional error buried among dozens of pre-deliberation instructions, a judge's mid-deliberation answer carries singular, targeted weight. Once an expanded, incomplete, or skewed legal framework reaches the jury room, it immediately reshapes deliberations and anchors juror positions. At that point, the bell cannot be unrung.
+
+Even if a party discovers the added substance after transmission and asks the court to retract or modify what it just told the jury, a supplemental "correction" requires the court to walk back its own authority after deliberations have already crystallized around the initial answer. Section 614 requires notice before information is given precisely because pre-transmission input is the only mechanism capable of preventing that prejudice in the first place. Treating post-hoc notice—or pre-transmission assent to a narrower point—as sufficient strips section 614 of its preventive function at the exact moment in a civil trial when judicial communication is most influential.
