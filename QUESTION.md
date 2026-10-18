@@ -42,6 +42,21 @@ And when the communication ultimately transmitted materially differs from what t
 
 These questions concern the administration of every civil jury trial in California.
 
+| Layer | Question |
+| --- | --- |
+| Broad | What procedural limits constrain mid-deliberation legal guidance before it becomes the jury's framework? |
+| Specific | May the court decide the substance without first giving notice of the communication that will actually reach the jury? |
+| When the writing changes | May section 614 compliance be inferred from notice of an earlier or narrower proposition? |
+
+```mermaid
+flowchart TD
+  A[Deliberating jury asks for legal guidance] --> B[Court formulates, modifies, supplements, restricts, or refuses]
+  B --> C{Did the parties receive notice of the communication actually given?}
+  C -->|Yes| D[Adversarial process then judicial ruling]
+  C -->|Inferred from earlier or narrower writing| E[Statewide question]
+  C -->|After transmission only| E
+```
+
 ---
 
 ## 2. The governing principle
@@ -50,17 +65,11 @@ The broader principle is simple:
 
 **The judge decides the law. But the judicial act of deciding the law does not eliminate the parties' right to participate in the process before the court's substantive legal communication reaches a deliberating jury.**
 
-The parties do not control the judge's answer.
-
-They do not possess a veto.
-
-They cannot require the court to adopt their proposed language merely because they object to the court's formulation.
-
-The court may reject their arguments.
-
-The court may overrule their objections.
-
-The court may give an instruction neither party prefers.
+| What the parties do not have | What the court may still do |
+| --- | --- |
+| Control of the judge's answer | Reject their arguments |
+| A veto | Overrule their objections |
+| A right to their proposed language merely because they object | Give an instruction neither party prefers |
 
 But there is a fundamental difference between:
 
@@ -74,6 +83,21 @@ The first is judicial decisionmaking within the adversarial process.
 
 The second raises the statewide question presented here.
 
+| Path | Sequence | Character |
+| --- | --- | --- |
+| Adversarial ruling | Notice, hearing, ruling, then transmission | The court decides the law after the parties address the completed communication |
+| Completed communication first | Ruling, transmission, then later challenge | The parties address an event that has already entered the jury room |
+
+```mermaid
+flowchart LR
+  subgraph HearFirst[Hear then rule]
+    H1[Show the completed writing] --> H2[Parties address it] --> H3[Court rules] --> H4[Jury receives the ruling]
+  end
+  subgraph SendFirst[Transmit then hear]
+    S1[Court rules] --> S2[Jury receives the ruling] --> S3[Parties challenge afterward]
+  end
+```
+
 ---
 
 ## 3. The judge decides the law
@@ -84,15 +108,17 @@ When a jury asks a question, the trial court must exercise judgment.
 
 It may have to determine:
 
-- what statute governs;
-- what instruction applies;
-- whether the jury's premise is mistaken;
-- whether an existing instruction is sufficient;
-- whether clarification is appropriate;
-- whether additional legal information should be supplied;
-- whether requested information would be misleading;
-- how much explanation is necessary; or
-- whether the requested instruction should be refused.
+| Discretion over content | Example |
+| --- | --- |
+| Governing law | What statute governs |
+| Instruction | What instruction applies |
+| Premise | Whether the jury's premise is mistaken |
+| Sufficiency | Whether an existing instruction is sufficient |
+| Clarification | Whether clarification is appropriate |
+| Addition | Whether additional legal information should be supplied |
+| Misleading risk | Whether requested information would be misleading |
+| Scope | How much explanation is necessary |
+| Refusal | Whether the requested instruction should be refused |
 
 Those are exercises of judicial authority.
 
@@ -112,21 +138,16 @@ The adversarial process has little meaning if it begins only after the judicial 
 
 A party's opportunity to address a proposed legal communication serves several functions.
 
-The party may identify controlling authority the court overlooked.
-
-The party may identify an omitted qualification.
-
-The party may explain that a proposed definition changes the meaning of another instruction.
-
-The party may show that the jury's question rests on an incorrect legal premise.
-
-The party may argue that the requested subject is governed by a statute not included in the proposed response.
-
-The party may identify prejudice created by answering only part of the jury's question.
-
-The party may request a clarifying instruction.
-
-The party may preserve an objection for review.
+| Function before transmission | What it does |
+| --- | --- |
+| Controlling authority | Identify authority the court overlooked |
+| Qualification | Identify an omitted qualification |
+| Interaction | Explain that a proposed definition changes another instruction |
+| Premise | Show that the jury's question rests on an incorrect legal premise |
+| Completeness | Argue that a statute not in the proposed response governs |
+| Partial answer | Identify prejudice from answering only part of the question |
+| Clarification | Request a clarifying instruction |
+| Preservation | Preserve an objection for review |
 
 None of those functions requires that the court agree.
 
@@ -135,6 +156,17 @@ Their value lies in occurring **before the court's answer becomes authoritative 
 The statewide principle therefore is not party control.
 
 It is adversarial participation before judicial transmission.
+
+```mermaid
+flowchart TD
+  A[Proposed legal communication] --> B[Parties address it]
+  B --> C{Court agrees?}
+  C -->|Yes| D[Transmit the addressed writing]
+  C -->|No| E[Court overrules and may still transmit]
+  E --> F[Parties had the opportunity first]
+  D --> G[Jury receives the law]
+  F --> G
+```
 
 ---
 
@@ -148,21 +180,36 @@ The object of the statutory protection is the information given.
 
 That distinction matters.
 
-Notice that the jury has asked a question is not necessarily notice of what the court will tell the jury.
-
-Notice of one proposed response is not necessarily notice of a materially different response.
-
-Notice of one legal proposition is not necessarily notice of another proposition subsequently inserted by the court.
-
-And an opportunity to object after transmission is not necessarily the opportunity contemplated by a statute requiring notice before the information is given.
+| What occurred | What it establishes | What it does not establish |
+| --- | --- | --- |
+| Notice that the jury asked a question | Notice of the request | Notice of what the court will tell the jury |
+| Notice of one proposed response | Notice of that writing | Notice of a materially different response |
+| Notice of one legal proposition | Notice of that proposition | Notice of a later inserted proposition |
+| Opportunity to object after transmission | A later challenge | The opportunity the statute places before the information is given |
 
 Section 614 therefore places a procedural boundary around the court's substantive authority.
+
+```mermaid
+flowchart TD
+  A[Jury desires information on a point of law] --> B[Information given]
+  B --> C{Given in the presence of, or after notice to, the parties or counsel?}
+  C -->|Yes, as to the information given| D[Section 614 process]
+  C -->|Notice of a different writing only| E[Notice of the other writing]
+  C -->|Challenge after the jury already has it| F[Post-transmission opportunity]
+```
 
 ---
 
 ## 6. The jury receives rules, not ordinary information
 
 A judicial answer to a jury's legal question is different from ordinary information entering a trial.
+
+| Source | What the jury may do with it |
+| --- | --- |
+| Witness | Accept or reject testimony |
+| Attorney | Treat argument as argument, not evidence |
+| Exhibit | Evaluate evidence |
+| Judge answering a question of law | Follow the answer as the legal framework |
 
 A witness gives testimony that the jury may accept or reject.
 
@@ -176,16 +223,18 @@ The jury is expected to follow it.
 
 That makes a substantive judge-to-jury communication uniquely consequential.
 
-The communication can determine:
+The communication can determine the rules under which deliberation proceeds.
 
-- what legal duties matter;
-- which facts are legally relevant;
-- what propositions jurors may consider;
-- what propositions jurors must disregard;
-- how statutory language should be understood;
-- what elements must be established;
-- how competing instructions relate to one another; and
-- ultimately, what rules govern the verdict.
+| What the answer can set | Effect inside the jury room |
+| --- | --- |
+| Legal duties | Which duties matter |
+| Facts | Which facts are legally relevant |
+| Consideration | What propositions jurors may consider |
+| Exclusion | What propositions jurors must disregard |
+| Statutory language | How the terms should be understood |
+| Elements | What must be established |
+| Instruction relationship | How competing instructions relate |
+| Verdict rules | What rules govern the verdict |
 
 A mid-deliberation legal answer therefore does more than provide information.
 
@@ -203,18 +252,20 @@ The same principle applies whenever the court materially changes the legal frame
 
 That can occur by:
 
-- adding a legal proposition;
-- deleting a qualification;
-- supplying a statutory definition;
-- modifying an existing instruction;
-- giving a new instruction;
-- refusing requested legal guidance;
-- answering only part of a jury's question;
-- combining separate legal propositions into one response;
-- restricting consideration of a subject;
-- characterizing a legal subject as unavailable to the jury;
-- resolving an ambiguity in a way not previously disclosed to the parties; or
-- materially changing the proposed response after the parties have addressed an earlier version.
+| Material change | Example |
+| --- | --- |
+| Addition | Adding a legal proposition |
+| Deletion | Deleting a qualification |
+| Definition | Supplying a statutory definition |
+| Modification | Modifying an existing instruction |
+| New instruction | Giving a new instruction |
+| Refusal | Refusing requested legal guidance |
+| Partial answer | Answering only part of a jury's question |
+| Combination | Combining separate legal propositions into one response |
+| Restriction | Restricting consideration of a subject |
+| Characterization | Characterizing a legal subject as unavailable to the jury |
+| Undisclosed resolution | Resolving an ambiguity in a way not previously disclosed |
+| Later change | Materially changing the proposed response after the parties addressed an earlier version |
 
 The controlling question should therefore concern **substantive judicial communication**, not merely textual addition.
 
@@ -228,19 +279,15 @@ Transmission is the critical event because that is when the court's proposed ans
 
 Before transmission, the process remains correctable without exposing the jury to the disputed communication.
 
-A party may object.
-
-The court may reconsider.
-
-Language may be removed.
-
-A missing qualification may be supplied.
-
-A legal error may be corrected.
-
-An ambiguity may be resolved.
-
-The court may reject the objection and transmit the answer unchanged.
+| Before transmission | What can still happen |
+| --- | --- |
+| Objection | A party may object |
+| Reconsideration | The court may reconsider |
+| Removal | Language may be removed |
+| Qualification | A missing qualification may be supplied |
+| Correction | A legal error may be corrected |
+| Ambiguity | An ambiguity may be resolved |
+| Overrule | The court may reject the objection and transmit the answer unchanged |
 
 But the important point is that the adversarial process has performed its function before judicial authority enters the jury room.
 
@@ -255,6 +302,21 @@ The difference is therefore not merely chronological.
 It is structural.
 
 **Before transmission, the parties participate in determining whether an error reaches the jury. After transmission, they can only ask the court to repair an event that has already occurred.**
+
+```mermaid
+flowchart TD
+  A[Proposed answer] --> B{Transmitted to the jury?}
+  B -->|Not yet| C[Correctable without exposing the jury]
+  C --> D[Object, reconsider, remove, qualify, or overrule]
+  D --> E[Then transmit]
+  B -->|Yes| F[Jury already has the court's law]
+  F --> G[Later correction works against a judicial statement already received]
+```
+
+| Timing | What the parties can still do |
+| --- | --- |
+| Before transmission | Participate in whether the error reaches the jury |
+| After transmission | Ask the court to repair an event that has already occurred |
 
 ---
 
@@ -282,16 +344,29 @@ Counsel responded:
 
 "I have nothing to add, Your Honor, to what Your Honor said."
 
-The significant distinction is between two separate questions:
+The significant distinction is between two separate questions.
 
-1. **Was the judicially supplied proposition legally correct?**
-2. **Was the statutory procedure followed before that proposition was communicated to the jury?**
-
-The first concerns substance.
-
-The second concerns section 614.
+| Question | Subject |
+| --- | --- |
+| Was the judicially supplied proposition legally correct? | Substance |
+| Was the statutory procedure followed before that proposition was communicated to the jury? | Section 614 |
 
 A court's confidence in the substantive correctness of its answer does not itself establish compliance with the procedure governing transmission.
+
+| Asked | Court's answer on this record | Question left |
+| --- | --- | --- |
+| Extra added? | "gratuitous on the part of the Court"; "the Court is defining" | Substance owned |
+| Extra sent? | "you sent that back"; "delivering it to the Jury"; "discretion to issue these responses" | Sending owned |
+| Is the extra correct? | "It says, 'Highway includes street.'" | Content |
+| Was section 614 followed as to the extra? | Not answered by those verbs | Process |
+
+```mermaid
+flowchart TD
+  A[Court-owned extra] --> C[614-shaped act]
+  B[Court-owned sending] --> C
+  C --> D{Notice of the extra before transmission?}
+  D -->|Record answers content, harm, authorship, discretion| E[Process question remains]
+```
 
 ---
 
@@ -319,6 +394,23 @@ Section 614 contains no obvious reason to treat notice that broadly.
 
 The information that matters is the substantive judicial communication actually given to the jury.
 
+```mermaid
+flowchart TD
+  A[Set 1 shown] --> B[Parties address Set 1]
+  B --> C[Court materially changes the writing]
+  C --> D[Set 2 created]
+  D --> E[Jury receives Set 2]
+  E --> F[Section 614 attaches to Set 2]
+  B --> G[Notice of Set 1 established]
+  G -.->|does not, without more, become| F
+```
+
+| Writing | What notice of that writing proves |
+| --- | --- |
+| Set 1 | The parties saw Set 1 |
+| Set 2, the writing given | The statutory object |
+| Set 1 used as notice of Set 2 | An inference the statute does not supply |
+
 ---
 
 ## 11. Post-transmission objection is different
@@ -335,18 +427,25 @@ After transmission, the party must say:
 
 Those procedural positions are not equivalent.
 
-The latter may require:
+The latter may require work that a pre-transmission objection does not.
 
-- a corrective instruction;
-- an explanation of the correction;
-- withdrawal of an earlier proposition;
-- additional argument over curability;
-- consideration of prejudice;
-- or, in an appropriate case, consideration of whether the effect can be cured at all.
+| After transmission | What may then be required |
+| --- | --- |
+| Corrective instruction | A new writing against the first answer |
+| Explanation of the correction | An account of why the first answer changed |
+| Withdrawal | Removal of an earlier proposition already received |
+| Curability | Additional argument over whether the first answer can be undone |
+| Prejudice | Consideration of the effect already produced |
+| Incurable effect | Consideration of whether the effect can be cured at all |
 
 The point is not that every defect necessarily requires reversal or mistrial.
 
 The point is that **the statutory opportunity before transmission serves a preventive function that a later opportunity cannot perfectly reproduce.**
+
+| Moment | What the party can say |
+| --- | --- |
+| Before transmission | This should not be given to the jury in this form |
+| After transmission | The jury has already received this from the court; now something must be done about it |
 
 ---
 
@@ -370,12 +469,23 @@ But those substantive powers should not automatically carry an additional proced
 
 If substantive discretion carried that procedural authority, the statutory protection would depend upon the discretion it is supposed to regulate.
 
-The same judge would control both:
-
-1. the law the jury receives; and
-2. whether anyone may challenge the completed legal communication before the jury receives it.
+The same judge would then control both the law the jury receives and whether anyone may challenge the completed legal communication before the jury receives it.
 
 Section 614 supplies the boundary between those powers.
+
+| Power | Who holds it | Limit |
+| --- | --- | --- |
+| Lawful substance of the response | The trial court | The court decides the law |
+| Process of delivery | Section 614 | Presence or notice before the information is given |
+| Combining the two | Not supplied by content discretion | The safeguard would then depend on the discretion it regulates |
+
+```mermaid
+flowchart LR
+  A[Jury question] --> B[Court chooses lawful content]
+  B --> C[Section 614 process]
+  C --> D[Completed communication reaches the jury]
+  B -.->|does not replace| C
+```
 
 ---
 
@@ -387,12 +497,14 @@ Waiver, forfeiture, and invited error should be tied to the judicial act actuall
 
 A reviewing court should therefore distinguish among:
 
-- agreement with an earlier draft;
-- agreement with one proposition contained within a response;
-- agreement that jurors themselves should not independently research or apply uninstructed law;
-- acquiescence in a procedural step;
-- failure to object after adequate notice;
-- and actual assent to the completed substantive communication ultimately transmitted.
+| Label sometimes treated as one agreement | Distinct object |
+| --- | --- |
+| Agreement with an earlier draft | That draft |
+| Agreement with one proposition inside a response | That proposition |
+| Agreement that jurors may not independently research uninstructed law | The research limit |
+| Acquiescence in a procedural step | That step |
+| Failure to object after adequate notice | The noticed communication |
+| Actual assent to the completed writing transmitted | The challenged communication itself |
 
 Those are not automatically equivalent.
 
@@ -426,6 +538,18 @@ That sequence would make the procedural violation capable of creating its own fo
 
 The statutory safeguard cannot meaningfully operate if the absence of the protected opportunity is later used as the reason review is unavailable.
 
+```mermaid
+flowchart TD
+  A[Jury asks a legal question] --> B[Parties address one proposition]
+  B --> C[Court materially changes the response]
+  C --> D[Changed response reaches the jury]
+  D --> E[Party objects]
+  E --> F[Objection treated as too late]
+  F --> G[Earlier discussion treated as waiver or consent]
+  G --> H[Review denied]
+  H --> I[Absence of the 614 opportunity becomes the reason review is unavailable]
+```
+
 ---
 
 ## 15. The broader statewide rule
@@ -450,24 +574,37 @@ Or:
 
 That boundary protects both principles without diminishing either.
 
+```mermaid
+flowchart TD
+  A[Deliberating jury seeks information on the law] --> B[Court determines lawful substance]
+  B --> C[Notice of the communication actually to be given]
+  C --> D[Parties address that communication]
+  D --> E[Court may overrule]
+  E --> F[Then transmit]
+  B --> G{Writing changed after an earlier showing?}
+  G -->|Yes| C
+```
+
 ---
 
 ## 16. Why the issue extends beyond this case
 
 The issue is not confined to one Vehicle Code provision, one jury request, one civil action, or one disputed sentence.
 
-It arises whenever a California civil jury asks:
+It arises whenever a California civil jury asks a question of law.
 
-- What does this instruction mean?
-- What law applies?
-- May we consider this?
-- What does this statutory term mean?
-- What happens if we find this fact?
-- Are these two instructions inconsistent?
-- Does this legal duty apply?
-- May we use this legal provision?
-- What is required before liability exists?
-- What legal rule controls our next decision?
+| Recurring jury ask | Why section 614 attaches |
+| --- | --- |
+| What does this instruction mean? | The court is asked to define the given law |
+| What law applies? | The court is asked to select the governing rule |
+| May we consider this? | The court is asked to open or close a legal subject |
+| What does this statutory term mean? | The court is asked to define a statute |
+| What happens if we find this fact? | The court is asked to state the legal consequence |
+| Are these two instructions inconsistent? | The court is asked to reconcile the charge |
+| Does this legal duty apply? | The court is asked to decide the duty's reach |
+| May we use this legal provision? | The court is asked to admit or refuse a statute |
+| What is required before liability exists? | The court is asked to state the elements |
+| What legal rule controls our next decision? | The court is asked to set the next rule |
 
 At that moment, the court's answer may become more influential than an instruction given before deliberations began because the answer responds to a legal uncertainty the jury itself has identified.
 
@@ -477,7 +614,19 @@ Litigants need to know when their opportunity to object exists.
 
 And reviewing courts need a common standard for determining whether that opportunity occurred and whether it was relinquished.
 
-The issue affects negligence actions, contracts, employment cases, insurance disputes, products liability, professional liability, statutory causes of action, damages proceedings, comparative-fault cases, and every other civil action capable of reaching a jury.
+The issue affects every civil action capable of reaching a jury.
+
+| Civil actions reached by the same procedural question |
+| --- |
+| Negligence |
+| Contract |
+| Employment |
+| Insurance |
+| Products liability |
+| Professional liability |
+| Statutory cause of action |
+| Damages |
+| Comparative fault |
 
 The substantive law will change from case to case.
 
@@ -500,6 +649,15 @@ It concerns whether a material modification requires a renewed opportunity to be
 It concerns whether a post-transmission objection can substitute for the statutory opportunity that would have existed before transmission.
 
 And it concerns whether forfeiture, waiver, or invited error may be founded on conduct occurring before the party had notice of the judicial communication actually challenged.
+
+| Question that needs a uniform answer | Why |
+| --- | --- |
+| When may the court communicate substantive law to a deliberating jury? | Transmission is the dividing line |
+| What does section 614 mean by notice? | The object is the information given |
+| Does notice of the request suffice? | The request is not the answer |
+| Does a material modification require a renewed opportunity? | Set 1 is not Set 2 |
+| Can a post-transmission objection substitute? | Prevention is the statutory function |
+| May forfeiture rest on conduct before notice of the challenged act? | Preservation follows the act actually challenged |
 
 Those questions require a uniform statewide answer.
 
