@@ -44,7 +44,9 @@ These questions concern the administration of every civil jury trial in Californ
 
 1. Broad: What procedural limits constrain mid-deliberation legal guidance before it becomes the jury's framework?
 2. Specific: May the court decide the substance without first giving notice of the communication that will actually reach the jury?
-3. When the writing changes: May section 614 compliance be inferred from notice of an earlier or narrower proposition? |
+3. When the writing changes: May section 614 compliance be inferred from notice of an earlier or narrower proposition?
+
+The first question identifies the field. The second isolates the procedural act: notice of the writing that will actually reach the jury. The third is the recurring case. A court often shows or discusses one proposition, then transmits a different writing. If notice of the first writing satisfies section 614 as to the second, the statute attaches to a draft. If notice must attach to the communication actually given, the statute attaches to the information the jury receives. That is the difference between a drafting conversation and a completed judicial communication.
 
 ```mermaid
 flowchart TD
@@ -92,6 +94,8 @@ The second raises the statewide question presented here.
 | Adversarial ruling | Notice, hearing, ruling, then transmission | The court decides the law after the parties address the completed communication |
 | Completed communication first | Ruling, transmission, then later challenge | The parties address an event that has already entered the jury room |
 
+The legal ramification is the difference between an overruled objection and an unheard one. In the first path, the record contains the completed writing, the party's position on that writing, and the court's ruling. Review then asks whether the ruling was correct. In the second path, the jury already has the court's law before the party speaks to that law. Review is then asked to treat a later protest as tardy, or to treat an earlier discussion of a different writing as consent. The first path preserves both judicial authority and appellate review. The second path can extinguish review of the very communication the statute required the parties to see first.
+
 ```mermaid
 flowchart LR
   subgraph HearFirst[Hear then rule]
@@ -132,6 +136,8 @@ They need not.
 
 The question is whether the judge's authority to decide the ruling includes authority to bypass the procedure by which the parties are allowed to address the ruling before it enters the jury room.
 
+Those nine determinations are the content of the response. They remain with the court after the parties are heard. Section 614 does not assign any of them to counsel. It assigns a sequence: the completed legal communication is shown or otherwise noticed, the parties address that communication, and the court then transmits. Collapsing the sequence into the content decision treats a ruling on the law as a ruling that the parties need not see the law first. That collapse is the statewide problem. The court still decides what the answer will be. The statute decides when that answer may enter the jury room.
+
 ---
 
 ## 4. But the decision must remain adversarial
@@ -156,6 +162,8 @@ Their value lies in occurring **before the court's answer becomes authoritative 
 The statewide principle therefore is not party control.
 
 It is adversarial participation before judicial transmission.
+
+Each of those functions operates on a proposed writing that has not yet become the jury's law. Counsel can still point to a missing qualification, an omitted statute, or a definition that changes another instruction, and the court can still overrule. After transmission, the same points must be recast as a request to retract the court's own statement. The legal comparison is therefore not between a winning objection and a losing one. It is between an objection that can prevent the communication and an objection that can only ask the court to unsay it. The first is the opportunity section 614 describes. The second is a different remedy, with a different burden and a different effect on deliberations already underway.
 
 ```mermaid
 flowchart TD
@@ -188,6 +196,8 @@ That distinction matters.
 | Opportunity to object after transmission | A later challenge | The opportunity the statute places before the information is given |
 
 Section 614 therefore places a procedural boundary around the court's substantive authority.
+
+The table is a comparison of objects. Notice of a jury request is notice that a question exists. It is not notice of the court's answer. Notice of one draft is notice of that draft. It is not notice of a later insertion, deletion, refusal, or restriction. A post-transmission objection is notice that the party has now seen what the jury already received. The statute's timing clause, "in the presence of, or after notice to," places the required opportunity before the information is given. Treating any of the first three rows as a substitute for the fourth row relocates that opportunity. The legal ramification is that the object of section 614 becomes whatever writing the court once discussed, rather than the writing the jury actually received.
 
 ```mermaid
 flowchart TD
@@ -240,6 +250,8 @@ A mid-deliberation legal answer therefore does more than provide information.
 
 That is why the procedural protection must attach before transmission.
 
+The comparison is between evidence the jury may weigh and law the jury must apply. Testimony, argument, and exhibits remain subject to the jury's evaluation. A mid-deliberation judicial answer does not. The jurors have identified the legal uncertainty on which the verdict may turn, and the court has answered it. That answer can open or close duties, redefine statutory terms, and tell the jury what it may not consider. The ramification is that an unnoticed addition, restriction, or refusal is not an unnoticed piece of evidence. It is an unnoticed change in the rules. Section 614 exists at that moment because the communication is the court's law, not a party's proof.
+
 ---
 
 ## 7. The principle reaches more than added language
@@ -266,6 +278,8 @@ That can occur by:
 The controlling question should therefore concern **substantive judicial communication**, not merely textual addition.
 
 The rule should follow substance rather than drafting mechanics.
+
+A rule confined to added words would leave the same harm available by other means. A court can change the legal framework by refusing the requested statute, by answering only half the question, or by combining a research limit with a later refusal. Each of those acts is a completed judicial communication. The comparison among the twelve methods is therefore not a catalog of drafting techniques. It is a comparison of ways the jury's law can change after the parties have addressed a different writing. Section 614 attaches to that change because the information given is the changed writing.
 
 ---
 
@@ -311,6 +325,8 @@ flowchart TD
 | --- | --- |
 | Before transmission | Participate in whether the error reaches the jury |
 | After transmission | Ask the court to repair an event that has already occurred |
+
+The ramification of that comparison is practical and legal. Before transmission, an objection can keep the disputed sentence out of the jury room. After transmission, the same sentence is already the court's instruction. A later "correction" asks the jury to disregard a statement the judge has just made, or to prefer a second statement over the first. That is a different proceeding. It introduces questions of curability and prejudice that section 614 is designed to avoid by requiring notice first. Equating the two moments treats a repair as the statutory opportunity. The statute describes the earlier moment.
 
 ---
 
@@ -360,6 +376,8 @@ flowchart TD
   D -->|Record answers content, harm, authorship, discretion| E[Process question remains]
 ```
 
+The scorecard is a comparison of two inquiries. Extra plus sending are court-owned facts. The court claimed the street sentence as its own extra and used delivery and issuance verbs. Counsel joined the substance defense. Those verbs answer authorship, accuracy, and authority. They do not recite a showing of the completed extra before transmission. Nobody said the parties already had that page. Nobody said the extra was not sent. The legal ramification is that a reviewing court can take the addition and the sending as established without treating a later content defense as section 614 notice. *Nelson v. Southern Pacific Co.* (1937) 8 Cal.2d 648, 655, applied the statute by examining the communication that occurred. A spoken confession that the judge "violated section 614" is not the missing element. Notice of the extra is the remaining question.
+
 ---
 
 ## 10. Notice of one version is not necessarily notice of another
@@ -403,6 +421,8 @@ flowchart TD
 | Set 2, the writing given | The statutory object |
 | Set 1 used as notice of Set 2 | An inference the statute does not supply |
 
+The comparison is between two writings. Set 1 is the writing the parties addressed. Set 2 is the writing the jury received. Section 614 names the information given. The information given is Set 2. Treating notice of Set 1 as notice of Set 2 converts an earlier discussion into a standing waiver of later judicial changes. The ramification statewide is that a court could show one definition, add a second definition, transmit the second, and then treat the first showing as the statutory opportunity. The party would have addressed a different page. Review would then be asked to call that address consent. The statute supplies no such substitution. Notice follows the writing that entered the jury room.
+
 ---
 
 ## 11. Post-transmission objection is different
@@ -436,6 +456,8 @@ The point is that **the statutory opportunity before transmission serves a preve
 | --- | --- |
 | Before transmission | This should not be given to the jury in this form |
 | After transmission | The jury has already received this from the court; now something must be done about it |
+
+The two sentences are not interchangeable positions on the same record. The first is an objection to a proposed communication. The second is a request to unwind a communication already delivered. The first can be overruled and still satisfy section 614, because the party addressed the completed writing before the jury received it. The second cannot reconstruct that sequence. It can only ask whether prejudice can be undone. Equating them treats a curative motion as the statutory notice condition. The condition is prior. The later motion is a different claim, with a different standard.
 
 ---
 
@@ -476,6 +498,8 @@ flowchart LR
   B -.->|does not replace| C
 ```
 
+The comparison is between two powers that belong to different sources. Content discretion is judicial. The court chooses the lawful answer. Process is statutory. The Legislature required presence or notice before the information is given. If the first power absorbs the second, the same officer decides both what the jury will be told and whether anyone may see that statement first. Section 614 then becomes optional in every case in which the court is confident of the substance. Confidence in the code book, a finding of no harm, or a claim of "discretion to issue" answers the content question. Those answers leave the process question open. The ramification is that substance discretion, used as a substitute for notice, makes the safeguard contingent on the discretion it was enacted to regulate.
+
 ---
 
 ## 13. Forfeiture, waiver, and invited error
@@ -499,6 +523,8 @@ If the challenged error is a judicial addition, modification, restriction, refus
 
 The court should not be permitted to collapse a series of distinct propositions into one generalized finding of "agreement" without identifying what the party actually accepted.
 
+The comparison among those six labels is a comparison of objects. Agreement to a research limit is agreement that jurors may not apply uninstructed law. It is not agreement to a later refusal of requested statutes, or to a later inserted definition. Acquiescence in a procedural step is a position on that step. Failure to object after adequate notice is a position on the noticed writing. Actual assent to the completed communication is the only one of the six that matches the 614 object. The ramification on review is invited-error and forfeiture doctrine. Those doctrines follow the act the party induced or declined to challenge. They do not convert assent to one writing into assent to a different writing the party was not shown. A composite finding of "agreement to the response" erases that assignment. It treats Set 1 conduct as Set 2 consent.
+
 ---
 
 ## 14. The circularity problem
@@ -517,6 +543,8 @@ Otherwise the process can become circular:
 That sequence would make the procedural violation capable of creating its own forfeiture.
 
 The statutory safeguard cannot meaningfully operate if the absence of the protected opportunity is later used as the reason review is unavailable.
+
+The circular sequence has a legal name: the process error supplies the preservation holding. The party addresses one proposition. The court transmits another. The later objection is called untimely because the writing has already gone. The earlier discussion is then called waiver of the transmitted writing. Review never reaches whether section 614 attached to the information given. The ramification is that a missed showing becomes proof that the showing was unnecessary. That is why the case can arrive as a forfeiture case instead of a 614 case. The comparison is between a record that identifies the challenged communication and a record that substitutes a different communication as the object of consent.
 
 ```mermaid
 flowchart TD
@@ -607,6 +635,8 @@ The issue affects every civil action capable of reaching a jury:
 The substantive law will change from case to case.
 
 The procedural question does not.
+
+The comparison across those jury asks, and across those civil fields, is the same comparison drawn above. The statute named in the note will change. The requested definition will change. The verdict form will change. The court's authority to decide the lawful answer remains. The requirement that the parties see the completed answer before the jury does remains. A uniform rule is needed because a reviewing court in a contract case and a trial judge in a negligence case will otherwise treat notice of a draft, or a post-transmission invitation to object, as interchangeable with notice of the information given. Those substitutes are the same substitutes in every civil jury trial. The ramifications do not depend on Vehicle Code section 22107. They depend on whether section 614 follows the writing the jury received.
 
 ---
 
