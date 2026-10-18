@@ -375,7 +375,7 @@ That sentence is Reply No. 1. It is not the street sentence.
 
 ### Both completed responses
 
-At 11 RT 10:4-8 the court was placing objections to completed Responses Nos. 1 and 2 on the record. Rosario then objected to "any of the material going back" and to "any kind of clarification of vehicles." (11 RT 11:16-22.)
+At 11 RT 10:4-8 the court was placing objections to completed Responses Nos. 1 and 2 on the record. Rosario then objected to "the material going back" and to "any kind of clarification of vehicles." (11 RT 11:16-22.)
 
 The court thereafter stated at 11 RT 11:28-12:4:
 
