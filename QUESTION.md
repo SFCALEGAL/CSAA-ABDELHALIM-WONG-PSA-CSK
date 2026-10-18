@@ -334,14 +334,9 @@ The ramification of that comparison is practical and legal. Before transmission,
 
 ## 9. What the record proved
 
-Rosario expressly alleged two completed acts: the court added the language, and the court sent the supplemented response back to the jury. The court denied neither act. Instead, it answered the accusation by defending the added language as legally correct. The direct inference from that exchange is that the occurrence of the addition and transmission was not the point in dispute; the court’s response addressed the justification for what it had done, not whether it had done it.
+Rosario’s accusation concerned three linked facts: the court changed the response by adding legal language, Rosario had not seen that enhancement, and the court sent the changed response back to the jury. Thus, the asserted defect was not merely that the court authored and transmitted the addition; it was that the court transmitted a materially changed response that Rosario had not been shown. The court did not answer by saying that Rosario had seen the completed language before transmission, that the response had not been changed, or that the changed response had not been sent.
 
-
-Rosario made a two-part factual accusation: the court added language to the jury response, and the court sent that modified response back to the jury. The court did not answer by denying either act. It did not say, “I did not add that language,” or “I did not send that response.” Instead, the court answered by defending the substance of the added language as legally correct.
-
-That changes the nature of the dispute. The court’s response addresses justification rather than occurrence. In other words, the exchange supports the inference that the factual occurrence of the addition and transmission was not the point being contested; the court was defending whether what it had done was proper.
-
-The inference should not be overstated as a formal judicial admission based on silence alone. Its force comes from the responsive conduct. When someone is accused of doing X and answers, in substance, “X was proper because…,” rather than “I did not do X,” that response is probative of the proposition that the occurrence of X was not the disputed factual issue.
+Instead, it defended the substance of the addition as legally correct. The resulting inference is therefore more specific: the dispute was not whether Rosario had previously been shown the added language, but whether the court was entitled to add and transmit that language as it did. On that exchange, Rosario’s lack of prior notice of the enhancement was left unrebutted while the court defended the propriety of the completed judicial act.
 
 Applied here, the record therefore supports the inference that the court was defending the legality of adding and transmitting the language, not disputing that the addition and transmission occurred.
 
