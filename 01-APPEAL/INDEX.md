@@ -43,6 +43,8 @@ The May 2026 scaffold packet at [POST-MAY-12-FILING-STACK/05-NOTICE-OF-APPEAL](P
 
 **File-stamped rehearing papers** attached to the September 21, 2026 commentary email: [sept-2026-rehearing/README.md](sept-2026-rehearing/README.md).
 
+**April 23, 2025 reporter's record (commentary):** [april-23-record-straight/README.md](april-23-record-straight/README.md). Personal commentary. It is not a filing. It restates the April 23 pins against readings that appear in the filed respondent papers and the September 11 rehearing. It reprints no reviewing-court opinion.
+
 **September 23, 2026:** TrueFiling accepted an application for leave to supplement that petition (`00-COMBINED-APPLICATION-DECLARATION-EXHIBIT-B`, filed 12:04 p.m.). Hub: [sept23-2026-supplement-rehearing/README.md](sept23-2026-supplement-rehearing/README.md). Counsel notice: [service transmittal](../correspondence/service-transmittal/2026-09-23-a173827-supplement-application.md).
 
 | # | Document | PDF |
