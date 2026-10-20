@@ -4,6 +4,7 @@
 
 | Set | Description |
 |-----|-------------|
+| [2026-10-20-s299144-filing-accepted-commentary.md](2026-10-20-s299144-filing-accepted-commentary.md) | Commentary sent October 20, 2026, 11:46 a.m., to CSAA and Porter Scott counsel, on the defense account of the April 23 record in S299144. Forwards the TrueFiling notice that the Supreme Court filed S299144-corrected-petition-signed on October 19, 2026, at 11:55 p.m. Face-labeled. Not a filing. |
 | [PUBLIC-INTEREST-NOTICE.md](PUBLIC-INTEREST-NOTICE.md) | Why this entire record is of public interest. Face-labeled commentary. Not a filing. |
 | [CONSEQUENCE-REGISTRY.md](CONSEQUENCE-REGISTRY.md) | Conclusion, inference, and consequence of the deny, delay, defend, and oppose choices already on file. Includes the litigation-privilege choice and the April 23, 2025 jury-question prohibition. Face-labeled commentary. Not a filing. Published September 23, 2026. |
 | [C26-02801 core-wrong page](../04-CASE-C26-02801/INDEX.md) | Filed Contra Costa common-law deceit formulation, with record links. Commentary page; not a filing. |
